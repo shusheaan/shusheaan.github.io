@@ -1,0 +1,19 @@
+baseURL = "https://cyaned.co/"
+languageCode = "en-us"
+title = "CYANED"
+theme = "hugo-paper"
+
+staticDir = ["static"]
+
+[menu]
+    [[menu.main]]
+    identifier = 'intro'
+    name       = 'Intro'
+    url        = '/intro'
+    weight     = 0
+
+    [[menu.main]]
+    identifier = "channels"
+    name       = "Channels"
+    url        = "/channels/"
+    weight     = 1

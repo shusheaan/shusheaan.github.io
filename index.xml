@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CYANED</title>
+    <link>https://cyaned.co/</link>
+    <description>Recent content on CYANED</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 19 May 1995 16:41:08 -0400</lastBuildDate>
+    
+	<atom:link href="https://cyaned.co/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>visuals</title>
+      <link>https://cyaned.co/visuals/</link>
+      <pubDate>Fri, 19 May 1995 16:41:08 -0400</pubDate>
+      
+      <guid>https://cyaned.co/visuals/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;../../images/mit.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;div style=&#39;font-size: 13px; font-family: didot, serif&#39; align=&#39;right&#39;&gt;
+    &lt;i&gt;
+    &#34;when i see anything, i see a lot of things.&#34;&lt;br&gt;
+     - howard finster
+    &lt;/i&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
