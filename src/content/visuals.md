@@ -6,26 +6,18 @@ draft: false
 
 ![](../../images/mit.jpg)
 
-<div style='font-size: 13px; font-family: didot, serif' align='right'>
+<div style='font-size: 16px; font-family: didot, serif' align='right'>
     <i>
     "when i see anything, i see a lot of things."<br>
 	 - howard finster
     </i>
 </div>
+<a id="menu"></a>
 
 <!--more-->
 
-<a id="menu"></a>
-<br><br><br><br>
-<br><br><br><br>
-<br><br><br><br>
-<br><br><br><br>
-<br><br><br><br>
-<br><br><br><br>
-
-<div style='font-size: 20px' align='center'>
-    <b>.</b>
-</div>
+<img vspace="180">
+<div style='font-size: 18px' align='center'> <b>.</b> </div>
 <br>
 <div style='font-size: 18px; font-family: didot, serif' align='center'>
     <b><i><a href="#portraits">
@@ -33,51 +25,38 @@ draft: false
     </a></b></i> <br>
 </div>
 <div style='font-size: 18px; font-family: didot, serif' align='center'>
-    <b><i><a href="#life">
-    · life ·
+    <b><i><a href="#street">
+    · street ·
     </b></i></a> <br>
 </div>
 <div style='font-size: 18px; font-family: didot, serif' align='center'>
-    <b><i><a href="#calligraphy">
-    · calligraphy ·
+    <b><i><a href="#procreate">
+    · procreate ·
     </b></i></a> <br>
 </div>
 <br><br><br>
-<div style='font-size: 11px; font-family: didot, serif' align='center'>
+<div style='font-size: 14px; font-family: didot, serif' align='center'>
     <b><i>
-    · the site is currently under construction · <br>
+    · the site is currently under active construction · <br>
     · widescreen desktop recommended for the best experience · <br>
     · all visuals shot on canon eos r6, sony fx3, and fujifilm xt-4 ·
     </b></i></a> <br>
 </div>
 <br>
-<div style='font-size: 20px' align='center'>
-    <b>.</b>
+<div style='font-size: 18px' align='center'> <b>.</b> </div>
+<img vspace="180">
+
+<a id="portraits"></a>
+<img vspace="180">
+<div style='font-size: 22px; font-family: didot, serif' align='center'>
+    <b><i><a href="#menu">
+    · portraits ·
+    </b></i></a>
 </div>
-<br>
+<img vspace="180">
 
-<a id="portraits"> </a>
-<br><br><br><br>
-<br><br><br><br>
-<br><br><br><br>
-<br><br><br><br>
-
-<br><br><br><br>
-<br><br><br><br>
-<div style='font-size: 16px; font-family: didot, serif' align='center'>
-    <b><i>· 
-    portraits
-    ·</b></i>
-</div>
-
-<br><br><br><br>
-<br><br><br><br>
-<br><br><br><br>
-<br><br><br><br>
-
-<br><br><br><br>
-<br><br><br><br>
-<br><br><br><br>
+<!-- zijie -->
+<img vspace="180">
 <div align='center'><div style='width:80%;'>
     <a href="#" data-featherlight="../../images/visuals/364.jpg">
         ![](../../images/visuals/364.jpg)</a>
@@ -86,65 +65,42 @@ draft: false
     <a href="#" data-featherlight="../../images/visuals/366.jpg">
         ![](../../images/visuals/366.jpg)</a>
 </div></div>
-<br><br><br><br>
-<br><br><br><br>
-<div style='font-size: 10px' align='right'>
-    <i><b><a href="#menu">back to top</a></b></i> <br>
-</div>
-<br><br><br><br>
-<br><br><br><br>
-<br><br><br><br>
+<img vspace="180">
 
-<br><br><br><br>
-<br><br><br><br>
-<br><br><br><br>
-<div align='right'><div style='width:55%;'>
+---
+<!-- shirley -->
+<img vspace="180">
+<div align='right'><div style='width:60%;'>
     <a href="#" data-featherlight="../../images/visuals/361.jpg">
         ![](../../images/visuals/361.jpg)</a>
 </div></div>
-<img vspace="44">
 <div align='left'><div style='width:40%;'>
     <a href="#" data-featherlight="../../images/visuals/362.jpg">
         ![](../../images/visuals/362.jpg)</a>
 </div></div>
-<br><br><br><br>
-<br><br><br><br>
-<div style='font-size: 10px' align='right'>
-    <i><b><a href="#menu">back to top</a></b></i> <br>
-</div>
-<br><br><br><br>
-<br><br><br><br>
-<br><br><br><br>
+<img vspace="180">
 
-<br><br><br><br>
-<br><br><br><br>
-<br><br><br><br>
-<div align='center'><div style='width:55%;'>
+---
+<!-- kaiqi -->
+<img vspace="180">
+<div align='center'><div style='width:60%;'>
     <a href="#" data-featherlight="../../images/visuals/360.jpg">
         ![](../../images/visuals/360.jpg)</a>
 </div></div>
-<img vspace="66">
-<div align='center'><div style='width:80%;'>
+<div align='center'><div style='width:60%;'>
     <a href="#" data-featherlight="../../images/visuals/363.jpg">
         ![](../../images/visuals/363.jpg)</a>
 </div></div>
-<br><br><br><br>
-<br><br><br><br>
-<div style='font-size: 10px' align='right'>
-    <i><b><a href="#menu">back to top</a></b></i> <br>
-</div>
-<br><br><br><br>
-<br><br><br><br>
-<br><br><br><br>
+<img vspace="180">
 
-<br><br><br><br>
-<br><br><br><br>
-<br><br><br><br>
+---
+<!-- tong -->
+<img vspace="180">
 <div align='left'><div style='width:50%;'>
     <a href="#" data-featherlight="../../images/visuals/357.jpg">
         ![](../../images/visuals/357.jpg)</a>
 </div></div>
-<img vspace="44">
+<img vspace="45">
 <div align='right'><div style='width:50%;'>
     <a href="#" data-featherlight="../../images/visuals/356.jpg">
         ![](../../images/visuals/356.jpg)</a>
@@ -154,34 +110,20 @@ draft: false
     <a href="#" data-featherlight="../../images/visuals/359.jpg">
         ![](../../images/visuals/359.jpg)</a>
 </div></div>
-<br><br><br><br>
-<br><br><br><br>
-<div style='font-size: 10px' align='right'>
-    <i><b><a href="#menu">back to top</a></b></i> <br>
-</div>
-<br><br><br><br>
-<br><br><br><br>
-<br><br><br><br>
+<img vspace="180">
 
-
-<br><br><br><br>
-<br><br><br><br>
-<br><br><br><br>
-<div align='left'><div style='width:55%;'>
+---
+<!-- cheung naicha -->
+<img vspace="180">
+<div align='left'><div style='width:48%;'>
     <a href="#" data-featherlight="../../images/visuals/337.jpg">
         ![](../../images/visuals/337_min.jpg)</a>
 </div></div>
 <img vspace="44">
-<div align='right'><div style='width:60%;'>
+<div align='right'><div style='width:63%;'>
     <a href="#" data-featherlight="../../images/visuals/338.jpg">
         ![](../../images/visuals/338_min.jpg)</a>
 </div></div>
-<img vspace="44">
-<div style='font-size: 10px; font-family: didot, serif' align='center'>
-    <b>
-    carina cheung and naicha <br>
-    </b>
-</div>
 <img vspace="44">
 <div align='left'><div style='width:40%;'>
     <a href="#" data-featherlight="../../images/visuals/353.jpg">
@@ -201,55 +143,36 @@ draft: false
     <a href="#" data-featherlight="../../images/visuals/339.jpg">
         ![](../../images/visuals/339_min.jpg)</a>
 </div></div>
-<img vspace="44">
-<div style='font-size: 10px; font-family: didot, serif' align='right'>
-    <b>
-    jfk library & harbor walk, boston, ma <br>
-    </b>
-</div>
-<br><br><br><br>
-<div style='font-size: 10px' align='right'>
-    <i><b><a href="#menu">back to top</a></b></i> <br>
-</div>
-<br><br><br><br>
-<br><br><br><br>
-<br><br><br><br>
+<img vspace="180">
 
-<br><br><br><br>
-<br><br><br><br>
-<br><br><br><br>
+---
+<!-- cheung naicha -->
+<img vspace="180">
 <div align='left'><div style='width:70%;'>
     <a href="#" data-featherlight="../../images/visuals/249.jpg">
         ![](../../images/visuals/249.jpg)</a>
 </div></div>
-<img vspace="22">
+<img vspace="45">
 <div align='right'><div style='width:50%;'>
     <a href="#" data-featherlight="../../images/visuals/248.jpg">
         ![](../../images/visuals/248_min.jpg)</a>
 </div></div>
-<img vspace="22">
-<div style='font-size: 10px; font-family: didot, serif' align='right'>
-    <b>
-    xinyu guo <br>
-    revere beach, ma <br>
-    </b>
-</div>
-<br><br><br><br><br><br>
+<img vspace="90">
 <div align='right'><div style='width:70%;'>
     <a href="#" data-featherlight="../../images/visuals/262.jpg">
         ![](../../images/visuals/262_min.jpeg)</a>
 </div></div>
-<img vspace="22">
+<img vspace="45">
 <div align='left'><div style='width:50%;'>
     <a href="#" data-featherlight="../../images/visuals/256.jpg">
         ![](../../images/visuals/256_min.jpg)</a>
 </div></div>
-<img vspace="22">
+<img vspace="45">
 <div align='right'><div style='width:80%;'>
     <a href="#" data-featherlight="../../images/visuals/266.jpg">
         ![](../../images/visuals/266_min.jpeg)</a>
 </div></div>
-<img vspace="22">
+<img vspace="45">
 <div align='right'>
     <audio controls>
       <source src="../../audio/cali.mp3" type="audio/mpeg">
@@ -260,37 +183,22 @@ draft: false
     <b>
     "california dreamin'" by the mamas and the papas<br>
 </div>
-<br><br><br><br>
-<div style='font-size: 10px' align='right'>
-    <i><b><a href="#menu">back to top</a></b></i> <br>
-</div>
-<br><br><br><br>
-<br><br><br><br>
-<br><br><br><br>
+<img vspace="180">
 
-<br><br><br><br>
-<br><br><br><br>
-<div align='center'><div style='width:50%;'>
-    <a href="#" data-featherlight="../../images/visuals/355.jpg">
-        ![](../../images/visuals/355.jpg)</a>
-</div></div>
-<br><br><br><br>
-<br><br><br><br>
-
-<br><br><br><br>
-<br><br><br><br>
-<br><br><br><br>
+---
+<!-- xue -->
+<img vspace="180">
 <div align='center'><div style='width:80%;'>
     <a href="#" data-featherlight="../../images/visuals/313.jpg">
         ![](../../images/visuals/313_min.jpg)</a>
 </div></div>
 <img vspace="44">
-<div align='right'><div style='width:30%;'>
+<div align='right'><div style='width:40%;'>
     <a href="#" data-featherlight="../../images/visuals/316.jpg">
         ![](../../images/visuals/316_min.jpg)</a>
 </div></div>
 <img vspace="44">
-<div align='left'><div style='width:40%;'>
+<div align='left'><div style='width:60%;'>
     <a href="#" data-featherlight="../../images/visuals/315.jpg">
         ![](../../images/visuals/315_min.jpg)</a>
 </div></div>
@@ -299,24 +207,11 @@ draft: false
     <a href="#" data-featherlight="../../images/visuals/317.jpg">
         ![](../../images/visuals/317_min.jpg)</a>
 </div></div>
-<img vspace="44">
-<div style='font-size: 10px; font-family: didot, serif' align='right'>
-    <b>
-    xue bai <br>
-    harvard university, cambridge, ma <br>
-    </b>
-</div>
-<br><br><br><br>
-<div style='font-size: 10px' align='right'>
-    <i><b><a href="#menu">back to top</a></b></i> <br>
-</div>
-<br><br><br><br>
-<br><br><br><br>
-<br><br><br><br>
+<img vspace="180">
 
-<br><br><br><br>
-<br><br><br><br>
-<br><br><br><br>
+---
+<!-- xue -->
+<img vspace="180">
 <div align='center'><div style='width:55%;'>
     <a href="#" data-featherlight="../../images/visuals/308.jpg">
         ![](../../images/visuals/308_min.jpg)</a>
@@ -331,16 +226,12 @@ draft: false
     <a href="#" data-featherlight="../../images/visuals/309.jpg">
         ![](../../images/visuals/309_min.jpg)</a>
 </div></div>
-<br><br><br><br>
-<div style='font-size: 10px' align='right'>
-    <i><b><a href="#menu">back to top</a></b></i> <br>
-</div>
-<br><br><br><br>
-<br><br><br><br>
-<br><br><br><br>
+<img vspace="180">
 
-<br><br><br><br>
-<br><br><br><br>
+
+---
+<!-- amy -->
+<img vspace="180">
 <div align='left'><div style='width:50%;'>
     <a href="#" data-featherlight="../../images/visuals/347.jpg">
         ![](../../images/visuals/347_min.jpg)</a>
@@ -351,7 +242,7 @@ draft: false
         ![](../../images/visuals/348_min.jpg)</a>
 </div></div>
 <img vspace="44">
-<div align='left'><div style='width:30%;'>
+<div align='left'><div style='width:40%;'>
     <a href="#" data-featherlight="../../images/visuals/349.jpg">
         ![](../../images/visuals/349_min.jpg)</a>
 </div></div>
@@ -360,18 +251,11 @@ draft: false
     <a href="#" data-featherlight="../../images/visuals/350.jpg">
         ![](../../images/visuals/350_min.jpg)</a>
 </div></div>
-<img vspace="44">
-<br><br><br><br>
-<div style='font-size: 10px' align='right'>
-    <i><b><a href="#menu">back to top</a></b></i> <br>
-</div>
-<br><br><br><br>
-<br><br><br><br>
-<br><br><br><br>
+<img vspace="180">
 
-<br><br><br><br>
-<br><br><br><br>
-<br><br><br><br>
+---
+<!-- amy2 -->
+<img vspace="180">
 <div align='left'><div style='width:50%;'>
     <a href="#" data-featherlight="../../images/visuals/322.jpg">
         ![](../../images/visuals/322_min.jpg)</a>
@@ -382,57 +266,21 @@ draft: false
         ![](../../images/visuals/321_min.jpg)</a>
 </div></div>
 <img vspace="44">
-<div align='right'><div style='width:50%;'>
+<div align='right'><div style='width:60%;'>
     <a href="#" data-featherlight="../../images/visuals/323.jpg">
         ![](../../images/visuals/323_min.jpg)</a>
 </div></div>
-<img vspace="44">
-<div style='font-size: 10px; font-family: didot, serif' align='right'>
-    <b>
-    amy xu <br>
-    boston common, boston, ma <br>
-    </b>
-</div>
-<br><br><br><br>
-<div style='font-size: 10px' align='right'>
-    <i><b><a href="#menu">back to top</a></b></i> <br>
-</div>
-<br><br><br><br>
-<br><br><br><br>
-<br><br><br><br>
+<img vspace="180">
 
-<br><br><br><br>
-<br><br><br><br>
-<br><br><br><br>
+---
+<!-- xinyu blue -->
+<img vspace="180">
 <a href="#" data-featherlight="../../images/visuals/114.gif">
     ![](../../images/visuals/114_min.png)</a>
-<img vspace="22">
-<img vspace="22">
-<div style='font-size: 10px; font-family: didot, serif' align='left'>
-    <b>
-    before the sunrise and after the sunset, <br>
-    when the sun is slightly below the horizon, <br>
-    the sky will be tinted by this cool and pure blue <br>
-    this is what photographers usually call "the blue hour" <br>
-    or in chinese: “华灯初上”, meaning "when the lanterns just lit" <br>
-    </b>
-</div>
-<img vspace="22">
-<img vspace="22">
+<img vspace="45">
 <a href="#" data-featherlight="../../images/visuals/119_2.gif">
     ![](../../images/visuals/119_min.png)</a>
-<img vspace="22">
-<img vspace="22">
-<div style='font-size: 10px; font-family: didot, serif' align='right'>
-    <b>
-    we were playing some lofi chillhop radios <br> 
-    randomly searched from youtube music <br>
-    just to get ourselves completely relaxed <br>
-    and melted into the baby blue waves <br>
-    </b>
-</div>
-<img vspace="22">
-<img vspace="22">
+<img vspace="45">
 <a href="#" data-featherlight="../../images/visuals/120.gif">
     ![](../../images/visuals/120_min.png)</a>
 <img vspace="22">
@@ -447,18 +295,11 @@ draft: false
     "may 1st" by beach fossils <br>
     <br><br><br>
 </div>
-<img vspace="22">
-<br><br><br>
-<div style='font-size: 10px' align='right'>
-    <i><b><a href="#menu">back to top</a></b></i> <br>
-</div>
-<br><br><br><br>
-<br><br><br><br>
-<br><br><br><br>
+<img vspace="180">
 
-<br><br><br><br>
-<br><br><br><br>
-<br><br><br><br>
+---
+<!-- xinyu bin -->
+<img vspace="180">
 <a href="#" data-featherlight="../../images/visuals/197.gif">
     ![](../../images/visuals/197.jpg)</a>
 <a href="#" data-featherlight="../../images/visuals/198.gif">
@@ -480,122 +321,73 @@ draft: false
     ![](../../images/visuals/240_min.jpg)</a>
 <a href="#" data-featherlight="../../images/visuals/201.jpg">
     ![](../../images/visuals/201_min.jpg)</a>
-<img vspace="22">
-<div style='font-size: 10px; font-family: didot, serif' align='center'>
-    <b>
-    bin lou and xinyu guo <br>
-    500 ocean ave, revere, ma <br>
-    </b>
-</div>
-<img vspace="66">
+<img vspace="180">
+
+---
+<!-- david alina -->
+<img vspace="180">
 <div align='center'><div style='width:70%;'>
     <a href="#" data-featherlight="../../images/visuals/252.jpg">
         ![](../../images/visuals/252_min.jpeg)</a>
 </div></div>
-<img vspace="22">
-<div style='font-size: 10px; font-family: didot, serif' align='center'>
-    <b>
-    alina and david <br> 
-    christian science plaza, boston, ma <br>
-    </b>
-</div>
-<img vspace="22"> 
+<img vspace="45">
 <div align='center'><div style='width:100%;'>
     <a href="#" data-featherlight="../../images/visuals/289.jpg">
         ![](../../images/visuals/289_min.jpg)</a>
 </div></div>
-<img vspace="22">
-<br><br><br>
-<div style='font-size: 10px' align='right'>
-    <i><b><a href="#menu">back to top</a></b></i> <br>
+<img vspace="180">
+
+
+<a id="street"></a>
+<img vspace="180">
+<div style='font-size: 22px; font-family: didot, serif' align='center'>
+    <b><i><a href="#menu">
+    · street ·
+    </b></i></a>
 </div>
-<br><br><br><br>
-<br><br><br><br>
-<br><br><br><br>
+<img vspace="180">
 
 
-<a id="life"></a>
-<br><br><br><br>
-<br><br><br><br>
-<br><br><br><br>
-<br><br><br><br>
-
-<div style='font-size: 18px; font-family: didot, serif' align='center'>
-    <b><i>· 
-    life
-    ·</b></i> <br> </div>
-
-<br><br><br><br>
-<br><br><br><br>
-<br><br><br><br>
-<br><br><br><br>
-
-<br><br><br><br>
-<br><br><br><br>
-<br><br><br><br>
-<div align='left'><div style='width:90%;'>
+<!-- seaport -->
+<img vspace="180">
+<div align='left'><div style='width:70%;'>
     <a href="#" data-featherlight="../../images/visuals/330.jpg">
         ![](../../images/visuals/330_min.jpg)</a>
 </div></div>
 <img vspace="44">
-<div align='right'><div style='width:80%;'>
+<div align='right'><div style='width:60%;'>
     <a href="#" data-featherlight="../../images/visuals/332.jpg">
         ![](../../images/visuals/332_min.jpg)</a>
 </div></div>
 <img vspace="44">
-<div align='center'><div style='width:90%;'>
+<div align='center'><div style='width:70%;'>
     <a href="#" data-featherlight="../../images/visuals/333.jpg">
         ![](../../images/visuals/333_min.jpg)</a>
 </div></div>
-<img vspace="44">
-<div style='font-size: 10px; font-family: didot, serif' align='center'>
-    <b>
-    seaport, boston, ma <br>
-    </b>
-</div>
-<br><br><br><br>
-<div style='font-size: 10px' align='right'>
-    <i><b><a href="#menu">back to top</a></b></i> <br>
-</div>
-<br><br><br><br>
-<br><br><br><br>
-<br><br><br><br>
+<img vspace="180">
 
-
-<br><br><br><br>
-<br><br><br><br>
-<br><br><br><br>
-<div align='right'><div style='width:90%;'>
+---
+<!-- plaza -->
+<img vspace="180">
+<div align='right'><div style='width:70%;'>
     <a href="#" data-featherlight="../../images/visuals/327.jpg">
         ![](../../images/visuals/327_min.jpg)</a>
 </div></div>
 <img vspace="44">
-<div align='center'><div style='width:90%;'>
+<div align='center'><div style='width:70%;'>
     <a href="#" data-featherlight="../../images/visuals/326.jpg">
         ![](../../images/visuals/326_min.jpg)</a>
 </div></div>
 <img vspace="44">
-<div align='left'><div style='width:90%;'>
+<div align='left'><div style='width:70%;'>
     <a href="#" data-featherlight="../../images/visuals/329.jpg">
         ![](../../images/visuals/329_min.jpg)</a>
 </div></div>
-<img vspace="44">
-<div style='font-size: 10px; font-family: didot, serif' align='center'>
-    <b>
-    christian science plaza, boston, ma <br>
-    </b>
-</div>
-<br><br><br><br>
-<div style='font-size: 10px' align='right'>
-    <i><b><a href="#menu">back to top</a></b></i> <br>
-</div>
-<br><br><br><br>
-<br><br><br><br>
-<br><br><br><br>
+<img vspace="180">
 
-<br><br><br><br>
-<br><br><br><br>
-<br><br><br><br>
+---
+<!-- mit -->
+<img vspace="180">
 <div align='center'><div style='width:90%;'>
     <a href="#" data-featherlight="../../images/visuals/272.jpg">
         ![](../../images/visuals/272_min.jpg)</a>
@@ -624,23 +416,11 @@ draft: false
     <a href="#" data-featherlight="../../images/visuals/293.jpg">
         ![](../../images/visuals/293_min.jpg)</a>
 </div></div>
-<img vspace="22">
-<div style='font-size: 10px; font-family: didot, serif' align='center'>
-    <b>
-    mit, charles river, cambridge, ma <br>
-    </b>
-</div>
-<br><br><br><br>
-<div style='font-size: 10px' align='right'>
-    <i><b><a href="#menu">back to top</a></b></i> <br>
-</div>
-<br><br><br><br>
-<br><br><br><br>
-<br><br><br><br>
+<img vspace="180">
 
-<br><br><br><br>
-<br><br><br><br>
-<br><br><br><br>
+---
+<!-- shy bird -->
+<img vspace="180">
 <div align='left'><div style='width:90%;'>
     <a href="#" data-featherlight="../../images/visuals/258.jpg">
         ![](../../images/visuals/258_min.jpg)</a>
@@ -655,102 +435,43 @@ draft: false
     <a href="#" data-featherlight="../../images/visuals/261.jpg">
         ![](../../images/visuals/261_min.jpg)</a>
 </div></div>
-<img vspace="22">
-<div style='font-size: 10px; font-family: didot, serif' align='right'>
-    <b>
-    shy bird, kendall square, cambridge, ma <br>
-    </b>
-</div>
-<br><br><br><br>
-<div style='font-size: 10px' align='right'>
-    <i><b><a href="#menu">back to top</a></b></i> <br>
-</div>
-<br><br><br><br>
-<br><br><br><br>
-<br><br><br><br>
+<img vspace="180">
 
-<br><br><br><br>
-<br><br><br><br>
-<br><br><br><br>
-<a id="holidays"></a>
-### holidays
-<br><br>
+---
+<!-- holiday -->
+<img vspace="180">
 <a href="#" data-featherlight="../../images/visuals/42.gif">
     ![](../../images/visuals/42_min.png)</a>
 <img vspace="22">
 <a href="#" data-featherlight="../../images/visuals/63.gif">
     ![](../../images/visuals/63_min.png)</a>
 <img vspace="22">
-<div style='font-size: 10px; font-family: didot, serif' align='center'>
-    <b>
-    每当海上起雾时，我都会放下手头的事，去沙滩上散步。<br>
-    夏天的时候海水温暖，还会脱下鞋，<br>
-    缓缓步行到海里几十米远的地方。<br>
-    <br>
-    站在海浪之中，被海雾的香味环绕，<br>
-    天和海的边界仿佛就在伸手可及的地方模糊化开。<br>
-    </b>
-</div>
-<img vspace="22">
 <a href="#" data-featherlight="../../images/visuals/64.gif">
     ![](../../images/visuals/64_min.png)</a>
 <img vspace="22">
 <a href="#" data-featherlight="../../images/visuals/66.gif">
     ![](../../images/visuals/66_min.png)</a>
-<br><br>
-<div style='font-size: 10px' align='right'>
-    <i><b><a href="#menu">back to top</a></b></i> <br>
-</div>
-<br><br><br><br>
-<br><br><br><br>
-<br><br><br><br>
+<img vspace="180">
 
-<br><br><br><br>
-<br><br><br><br>
-<br><br><br><br>
-<a id="chords"></a>
-### chords
-<br><br>
+---
+<!-- chords -->
+<img vspace="180">
 <a href="#" data-featherlight="../../images/visuals/103.gif">
     ![](../../images/visuals/103_min.png)</a>
 <img vspace="22">
 <a href="#" data-featherlight="../../images/visuals/107.jpg">
     ![](../../images/visuals/107_min.jpeg)</a>
 <img vspace="22">
-<div style='font-size: 10px; font-family: didot, serif' align='center'>
-    <b>
-    "what's the best way to appreciate frédéric chopin?" <br>
-    <br>
-    "if you know how to play a piano, just play it..." <br>
-    "if not, then just do the most elegant thing you think <br>
-    while you are listening to it..." <br>
-    </b>
-</div>
-<img vspace="22">
 <a href="#" data-featherlight="../../images/visuals/124.gif">
     ![](../../images/visuals/124_min.jpg)</a>
 <img vspace="22">
 <a href="#" data-featherlight="../../images/visuals/126.gif">
     ![](../../images/visuals/126_min.jpg)</a>
-<img vspace="22">
-<div style='font-size: 10px; font-family: didot, serif' align='center'>
-    <b>
-    ryan zhao and yingshan zhao
-    </b>
-</div>
-<br><br><br><br>
-<div style='font-size: 10px' align='right'>
-    <i><b><a href="#menu">back to top</a></b></i> <br>
-</div>
-<br><br><br><br>
-<br><br><br><br>
-<br><br><br><br>
+<img vspace="180">
 
-<br><br><br><br>
-<br><br><br><br>
-<a id="kagami"></a>
-### kagami
-<br><br>
+---
+<!-- kagami -->
+<img vspace="180">
 <a href="#" data-featherlight="../../images/visuals/0.gif">
     ![](../../images/visuals/0_min2.jpeg)</a>
 <img vspace="22">
@@ -770,65 +491,33 @@ draft: false
     long lasting, high-quality glassware. <br>
     </b>
 </div>
-<br><br>
-<div style='font-size: 10px' align='right'>
-    <i><b><a href="#menu">back to top</a></b></i> <br>
-</div>
-<br><br><br><br>
-<br><br><br><br>
-<br><br><br><br>
+<img vspace="180">
 
-<br><br><br><br>
-<br><br><br><br>
-<br><br><br><br>
-<a id="annavoy"></a>
-### annavoy
-<br><br>
+---
+<!-- anavoy -->
+<img vspace="180">
 <a href="#" data-featherlight="../../images/visuals/186.jpg">
     ![](../../images/visuals/186_min.jpg)</a>
-<img vspace="22">
-<div style='font-size: 10px; font-family: didot, serif' align='center'>
-    <b>north side</b>
-</div>
-<img vspace="22">
+<img vspace="45">
 <a href="#" data-featherlight="../../images/visuals/185.jpg">
     ![](../../images/visuals/185_min.jpg)</a>
-<img vspace="22">
-<div style='font-size: 10px; font-family: didot, serif' align='center'>
-    <b>center</b>
-</div>
-<img vspace="22">
+<img vspace="45">
 <a href="#" data-featherlight="../../images/visuals/187.jpg">
     ![](../../images/visuals/187_min.jpg)</a>
-<img vspace="22">
-<div style='font-size: 10px; font-family: didot, serif' align='center'>
-    <b>south side</b> <br>
-</div>
-<img vspace="22">
+<img vspace="45">
 <a href="#" data-featherlight="../../images/visuals/207.jpg">
     ![](../../images/visuals/207_min.jpeg)</a>
-<img vspace="22">
+<img vspace="45">
 <div style='font-size: 10px; font-family: didot, serif' align='center'>
-    <b>a "flying" ups 767</b>
-    <br><br><br>
     shot on mitakon speedmaster 50mm f/0.95 iii <br>
     boston logan international airport <br>
     bayswater st x annavoy st <br>
 </div>
-<img vspace="22">
-<div style='font-size: 10px' align='right'>
-    <i><b><a href="#menu">back to top</a></b></i> <br>
-</div>
-<br><br><br><br>
-<br><br><br><br>
-<br><br><br><br>
+<img vspace="180">
 
-<br><br><br><br>
-<br><br><br><br>
-<br><br><br><br>
-<a id="yachtclub"></a>
-### yachtclub
-<br><br>
+---
+<!-- anavoy -->
+<img vspace="180">
 <a href="#" data-featherlight="../../images/visuals/75.png">
     ![](../../images/visuals/75_min.png)</a>
 <img vspace="22">
@@ -861,27 +550,17 @@ draft: false
 <img vspace="22">
 <a href="#" data-featherlight="../../images/visuals/72.jpg">
     ![](../../images/visuals/72_min.jpg)</a>
-<br><br> 
-<div style='font-size: 10px' align='right'>
-    <i><b><a href="#menu">back to top</a></b></i> <br>
-</div>
-<br><br><br><br>
-<br><br><br><br>
-<br><br><br><br>
+<img vspace="180">
 
-<br><br><br><br>
-<br><br><br><br>
-<br><br><br><br>
-<a id="airliners"></a>
-### airliners
-<br><br>
+---
+<!-- airline -->
+<img vspace="180">
 <a href="#" data-featherlight="../../images/visuals/16.jpg">
     ![](../../images/visuals/16_min.jpg)</a>
 <img vspace="22">
 <a href="#" data-featherlight="../../images/visuals/20.jpg">
     ![](../../images/visuals/20_min.jpg)</a>
-<img vspace="22">
-<br>
+<img vspace="45">
 <div style='font-size: 10px; font-family: didot, serif' align='left'>
     <b>
     2006年，在第十代微软模拟飞行发布之后不久，我开始自学<br>
@@ -894,8 +573,7 @@ draft: false
     “keep up your dreams, son.”<br>
     </b>
 </div>
-<img vspace="22">
-<br>
+<img vspace="45">
 <div style='font-size: 10px; font-family: didot, serif' align='right'>
     <b>
     董先生赠予我的机长肩章和SOP标准飞行手册，  <br>
@@ -907,32 +585,30 @@ draft: false
     都能记得年少时的那份激情。<br>
     </b>
 </div>
-
-<img vspace="22">
-<br><br><br>
+<img vspace="45">
 <a href="#" data-featherlight="../../images/visuals/15.jpg">
     ![](../../images/visuals/15_min.jpg)</a>
+<img vspace="22">
 <div style='font-size: 10px; font-family: didot, serif' align='center'>
     <b>
     JAL7/JL7, Boeing 787-9/B789, BOS/Boston-NRT/Tokyo, "日航大白鹤" <br>
     GEnx-1B引擎后整流罩上的波浪形边缘能够降低80%的最大推力噪音 <br>
     </b>
 </div>
-
-<img vspace="22">
+<img vspace="45">
 <a href="#" data-featherlight="../../images/visuals/19.jpg">
     ![](../../images/visuals/19_min.jpg)</a>
+<img vspace="22">
 <div style='font-size: 10px; font-family: didot, serif' align='center'>
     <b>
     QTR744/QR744, Airbus 350-900/A359, DOH/Doha-BOS/Boston, "oneworld special livery" <br>
     这是卡塔尔航空机队第一架带有寰宇一家航空联盟特别涂装的A350XWB <br>
     </b>
 </div>
-<br>
-
-<img vspace="22">
+<img vspace="45">
 <a href="#" data-featherlight="../../images/visuals/17.jpg">
     ![](../../images/visuals/17_min.jpg)</a>
+<img vspace="22">
 <div style='font-size: 10px; font-family: didot, serif' align='center'>
     <b>
     UAE237/EK237, Boeing 777-300ER/B77W, DXB/Dubai-BOS/Boston, "GE90-115B: the most powerful jet engine" <br>
@@ -941,35 +617,21 @@ draft: false
     任何一架B77W全推力起飞都是重型机械和暴力美学的极致演绎 <br>
     </b>
 </div>
-<img vspace="22">
-<br><br><br>
-<div style='font-size: 10px' align='right'>
-    <i><b><a href="#menu">back to top</a></b></i> <br>
+<img vspace="180">
+
+
+<a id="procreate"></a>
+<img vspace="180">
+<div style='font-size: 22px; font-family: didot, serif' align='center'>
+    <b><i><a href="#menu">
+    · procreate ·
+    </b></i></a>
 </div>
-<br><br><br><br>
-<br><br><br><br>
+<img vspace="180">
 
-<br><br><br><br>
-<br><br><br><br>
-<br><br><br><br>
-<br><br><br><br>
 
-<div style='font-size: 25px; font-family: didot, serif' align='center'>
-    <b><i>· 
-    <a id="procreate"></a>
-    procreate
-    ·</b></i> <br> </div>
-
-<br><br><br><br>
-<br><br><br><br>
-<br><br><br><br>
-<br><br><br><br>
-
-<br><br><br><br>
-<br><br><br><br>
-<a id="calligraphy"></a>
-### calligraphy
-<br><br>
+<!-- calli -->
+<img vspace="180">
 <a href="#" data-featherlight="../../images/visuals/23.PNG">
     ![](../../images/visuals/23_min.png)</a>
 <img vspace="22">
@@ -982,7 +644,7 @@ draft: false
 </div>
 <br>
 <br>
-<div align='center'><div style='width:77%;'>
+<div align='center'><div style='width:70%;'>
     <a href="#" data-featherlight="../../images/visuals/22.jpg">
         ![](../../images/visuals/22_min.jpg)</a>
 </div></div>
@@ -994,21 +656,12 @@ draft: false
     传统纵书，行草，自右向左阅读<br>
     </b>
 </div>
-<br><br>
-<br><br>
-<br><br>
-<div style='font-size: 10px' align='right'>
-    <i><b><a href="#menu">back to top</a></b></i> <br>
-</div>
-<br><br><br><br>
-<br><br><br><br>
+<img vspace="180">
 
-<br><br><br><br>
-<br><br><br><br>
-<a id="toratora"></a>
-### toratora!
-<br><br>
-<div align='center'><div style='width:77%;'>
+---
+<!-- zed -->
+<img vspace="180">
+<div align='center'><div style='width:60%;'>
     <a href="#" data-featherlight="../../images/visuals/173.jpg">
         ![](../../images/visuals/173.jpg)</a>
 </div></div>
@@ -1022,14 +675,5 @@ draft: false
     <br>
     happy tiger year! <br>
 </div>
-<img vspace="44">
-<div style='font-size: 10px' align='right'>
-    <i><b><a href="#menu">back to top</a></b></i> <br>
-</div>
-<br><br><br><br>
-<br><br><br><br>
-
-<br><br><br><br>
-<br><br><br><br>
-<br><br><br><br>
-<br><br><br><br>
+<img vspace="180">
+<img vspace="180">
