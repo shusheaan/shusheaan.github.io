@@ -6,7 +6,7 @@ draft: false
 
 ![](../../images/mit.jpg)
 
-<div style='font-size: 14px; font-family: didot, serif' align='right'>
+<div style='font-size: 15px; font-family: didot, serif' align='right'>
     <i>
     "when i see anything, i see a lot of things."<br>
 	 - howard finster

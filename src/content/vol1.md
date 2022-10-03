@@ -6,7 +6,7 @@ draft: false
 
 ![](../../images/bbb.jpg)
 
-<div style='font-size: 14px; font-family: didot, serif' align='right'>
+<div style='font-size: 15px; font-family: didot, serif' align='right'>
     <i>
     "a beautiful body perishes, but a work of art dies not."<br>
      - leonardo da vinci
