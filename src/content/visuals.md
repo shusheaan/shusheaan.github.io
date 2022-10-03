@@ -25,8 +25,8 @@ draft: false
     </a></b></i> <br>
 </div>
 <div style='font-size: 18px; font-family: didot, serif' align='center'>
-    <b><i><a href="#street">
-    · street ·
+    <b><i><a href="#misc">
+    · misc ·
     </b></i></a> <br>
 </div>
 <br><br><br>
@@ -50,6 +50,15 @@ draft: false
 </div>
 <img vspace="180">
 
+<!-- xinyu -->
+<img vspace="180">
+<div align='center'><div style='width:66%;'>
+    <a href="#" data-featherlight="../../images/visuals/367.jpg">
+        ![](../../images/visuals/367.jpg)</a>
+</div></div>
+<img vspace="180">
+
+---
 <!-- zijie -->
 <img vspace="180">
 <div align='center'><div style='width:100%;'>
@@ -125,18 +134,13 @@ draft: false
         ![](../../images/visuals/353_min.jpg)</a>
 </div></div>
 <img vspace="44">
-<div align='center'><div style='width:70%;'>
+<div align='right'><div style='width:80%;'>
     <a href="#" data-featherlight="../../images/visuals/352.jpg">
         ![](../../images/visuals/352_min.jpg)</a>
 </div></div>
-<div align='center'><div style='width:70%;'>
+<div align='right'><div style='width:80%;'>
     <a href="#" data-featherlight="../../images/visuals/354.jpg">
         ![](../../images/visuals/354_min.jpg)</a>
-</div></div>
-<img vspace="44">
-<div align='right'><div style='width:70%;'>
-    <a href="#" data-featherlight="../../images/visuals/339.jpg">
-        ![](../../images/visuals/339_min.jpg)</a>
 </div></div>
 <img vspace="180">
 
@@ -282,11 +286,11 @@ draft: false
 <img vspace="180">
 
 
-<a id="street"></a>
+<a id="misc"></a>
 <img vspace="180">
 <div style='font-size: 22px; font-family: didot, serif' align='center'>
     <b><i><a href="#menu">
-    · street ·
+    · misc ·
     </b></i></a>
 </div>
 <img vspace="180">
