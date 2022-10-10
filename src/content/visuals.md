@@ -1,6 +1,6 @@
 ---
 title: "visuals: live channel"
-date: 1995-05-19T16:41:08-04:00
+date: 2022-05-20T16:41:08-04:00
 draft: false
 ---
 
