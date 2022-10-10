@@ -20,14 +20,14 @@ draft: false
 <div style='font-size: 18px' align='center'> <b>.</b> </div>
 <br>
 <div style='font-size: 18px; font-family: didot, serif' align='center'>
-    <b><i><a href="#portraits">
+    <b><a href="#portraits">
     · portraits ·
-    </a></b></i> <br>
+    </a></b> <br>
 </div>
 <div style='font-size: 18px; font-family: didot, serif' align='center'>
-    <b><i><a href="#misc">
+    <b><a href="#misc">
     · misc ·
-    </b></i></a> <br>
+    </b></a> <br>
 </div>
 <br><br><br>
 <div style='font-size: 14px; font-family: didot, serif' align='center'>
@@ -44,9 +44,9 @@ draft: false
 <a id="portraits"></a>
 <img vspace="180">
 <div style='font-size: 22px; font-family: didot, serif' align='center'>
-    <b><i><a href="#menu">
+    <b><a href="#menu">
     · portraits ·
-    </b></i></a>
+    </b></a>
 </div>
 <img vspace="180">
 
@@ -289,9 +289,9 @@ draft: false
 <a id="misc"></a>
 <img vspace="180">
 <div style='font-size: 22px; font-family: didot, serif' align='center'>
-    <b><i><a href="#menu">
+    <b><a href="#menu">
     · misc ·
-    </b></i></a>
+    </b></a>
 </div>
 <img vspace="180">
 
