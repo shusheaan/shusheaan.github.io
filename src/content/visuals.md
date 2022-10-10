@@ -52,7 +52,7 @@ draft: false
 
 <!-- xinyu -->
 <img vspace="180">
-<div align='center'><div style='width:66%;'>
+<div align='center'><div style='width:60%;'>
     <a href="#" data-featherlight="../../images/visuals/367.jpg">
         ![](../../images/visuals/367.jpg)</a>
 </div></div>
@@ -100,12 +100,12 @@ draft: false
 ---
 <!-- tong -->
 <img vspace="180">
-<div align='left'><div style='width:50%;'>
+<div align='left'><div style='width:60%;'>
     <a href="#" data-featherlight="../../images/visuals/357.jpg">
         ![](../../images/visuals/357.jpg)</a>
 </div></div>
 <img vspace="45">
-<div align='right'><div style='width:50%;'>
+<div align='right'><div style='width:60%;'>
     <a href="#" data-featherlight="../../images/visuals/356.jpg">
         ![](../../images/visuals/356.jpg)</a>
 </div></div>
@@ -145,24 +145,24 @@ draft: false
 <img vspace="180">
 
 ---
-<!-- cheung naicha -->
+<!-- bin xinyu -->
 <img vspace="180">
-<div align='left'><div style='width:70%;'>
+<div align='left'><div style='width:60%;'>
     <a href="#" data-featherlight="../../images/visuals/249.jpg">
         ![](../../images/visuals/249.jpg)</a>
 </div></div>
 <img vspace="45">
-<div align='right'><div style='width:50%;'>
+<div align='right'><div style='width:40%;'>
     <a href="#" data-featherlight="../../images/visuals/248.jpg">
         ![](../../images/visuals/248_min.jpg)</a>
 </div></div>
 <img vspace="90">
-<div align='right'><div style='width:70%;'>
+<div align='right'><div style='width:60%;'>
     <a href="#" data-featherlight="../../images/visuals/262.jpg">
         ![](../../images/visuals/262_min.jpeg)</a>
 </div></div>
 <img vspace="45">
-<div align='left'><div style='width:50%;'>
+<div align='left'><div style='width:40%;'>
     <a href="#" data-featherlight="../../images/visuals/256.jpg">
         ![](../../images/visuals/256_min.jpg)</a>
 </div></div>
