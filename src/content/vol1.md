@@ -1,5 +1,5 @@
 ---
-title: "visuals: archive vol. 1"
+title: "vol. 1, 2.39"
 date: 1995-05-18T16:41:08-04:00
 draft: false
 ---
