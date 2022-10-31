@@ -4,7 +4,7 @@ date: 2022-05-20T16:41:08-04:00
 draft: false
 ---
 
-![](../../images/mit.jpg)
+![](../../images/whh.jpg)
 
 <div style='font-size: 15px; font-family: didot, serif' align='right'>
     <i>
@@ -50,6 +50,30 @@ draft: false
 </div>
 <img vspace="180">
 
+<!-- shirley bmw -->
+<img vspace="180">
+<div align='center'><div style='width:70%;'>
+    <a href="#" data-featherlight="../../images/visuals/372.jpg">
+        ![](../../images/visuals/372.jpg)</a>
+</div></div>
+<img vspace="55">
+<div style='font-size: 12px; font-family: didot, serif' align='center'>
+    <b>
+    shirley and her f82 m4
+    <br>
+</div>
+<img vspace="55">
+<div align='right'><div style='width:60%;'>
+    <a href="#" data-featherlight="../../images/visuals/370.jpg">
+        ![](../../images/visuals/370.jpg)</a>
+</div></div>
+<div align='left'><div style='width:40%;'>
+    <a href="#" data-featherlight="../../images/visuals/371.jpg">
+        ![](../../images/visuals/371.jpg)</a>
+</div></div>
+<img vspace="180">
+
+---
 <!-- xinyu -->
 <img vspace="180">
 <div align='center'><div style='width:60%;'>
@@ -178,7 +202,7 @@ draft: false
     Your browser does not support the audio element.
     </audio>
 </div>
-<div style='font-size: 10px; font-family: didot, serif' align='right'>
+<div style='font-size: 12px; font-family: didot, serif' align='right'>
     <b>
     "california dreamin'" by the mamas and the papas<br>
 </div>

@@ -4,7 +4,7 @@ date: 1995-05-20T16:41:08-04:00
 draft: false
 ---
 
-![](../../images/kbos/DLH4202.jpg)
+![](../../images/kbos/DLH4203.jpg)
 
 <div style='font-size: 15px; font-family: didot, serif' align='right'>
     <i>
