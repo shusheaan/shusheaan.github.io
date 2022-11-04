@@ -6,11 +6,9 @@ draft: false
 
 ![](../../images/bbb.jpg)
 
-<div style='font-size: 15px; font-family: didot, serif' align='right'>
-    <i>
+<div style='font-size: 15px' align='right'>
     "a beautiful body perishes, but a work of art dies not."<br>
      - leonardo da vinci
-     </i>
 </div>
 <a id="menu"></a>
 

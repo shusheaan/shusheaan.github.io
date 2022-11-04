@@ -6,56 +6,19 @@ draft: false
 
 ![](../../images/kbos/DLH4203.jpg)
 
-<div style='font-size: 15px; font-family: didot, serif' align='right'>
-    <i>
+<div style='font-size: 15px' align='right'>
     "airports remind me that everyone has a story."<br>
      - anne yeretzian
-     </i>
 </div>
 <a id="menu"></a>
 
 <!--more-->
 
-
-<img vspace="180">
-<div style='font-size: 18px' align='center'> <b>.</b> </div>
-<br>
-<div style='font-size: 18px; font-family: didot, serif' align='center'>
-    <b><a href="#heavy">
-    · heavy ·
-    </a></b> <br>
-</div>
-<div style='font-size: 18px; font-family: didot, serif' align='center'>
-    <b><a href="#execjet">
-    · exec-jet ·
-    </b></a> <br>
-</div>
-<div style='font-size: 18px; font-family: didot, serif' align='center'>
-    <b><a href="#livery">
-    · livery ·
-    </b></a> <br>
-</div>
-<br><br><br>
-<div style='font-size: 14px; font-family: didot, serif' align='center'>
-    <b><i>
-    * all shot in boston logan international airport <br>
-    ** this channel is live and under active construction <br>
-    </b></i></a>
-</div>
-<br>
-<div style='font-size: 18px' align='center'> <b>.</b> </div>
 <img vspace="180">
 
-<a id="heavy"></a>
-<img vspace="180">
-<div style='font-size: 22px; font-family: didot, serif' align='center'>
-    <b><a href="#menu">
-    · heavy ·
-    </b></a>
-</div>
-<img vspace="180">
-
+---
 <!-- HEAVY -->
+<img vspace="180">
 <div align='center'><div style='width:60%;'>
     <a href="#" data-featherlight="../../images/kbos/SWISS333.jpg">
         ![](../../images/kbos/SWISS333.jpg)</a>
@@ -109,7 +72,4 @@ draft: false
     </b></a>
 </div>
 <img vspace="180">
-
-<img vspace="180">
-
 <img vspace="180">

@@ -6,11 +6,9 @@ draft: false
 
 ![](../../images/visuals/373.jpg)
 
-<div style='font-size: 15px; font-family: didot, serif' align='right'>
-    <i>
+<div style='font-size: 15px' align='right'>
     "when i see anything, i see a lot of things."<br>
      - howard finster
-     </i>
 </div>
 <a id="menu"></a>
 
