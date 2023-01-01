@@ -6,14 +6,71 @@ draft: false
 
 ![](../../images/whh2.jpg)
 
-<div style='font-size: 15px' align='right'>
+<div style='font-size: 15px; font-family: didot, serif' align='right'>
+    <i>
     "whatever happens, happens."<br>
 	 - spike spiegel
+    </i>
 </div>
 <a id="menu"></a>
 
 <!--more-->
 
+<img vspace="180">
+
+---
+<!-- ps -->
+<img vspace="180">
+<div align='center'><div style='width:55%;'>
+    <a href="#" data-featherlight="../../images/visuals/391.jpg">
+        ![](../../images/visuals/391.jpg)</a>
+</div></div>
+<div align='center'><div style='width:55%;'>
+    <a href="#" data-featherlight="../../images/visuals/390.jpg">
+        ![](../../images/visuals/390.jpg)</a>
+</div></div>
+<img vspace="180">
+
+---
+<!-- statue -->
+<img vspace="180">
+<div align='center'><div style='width:60%;'>
+    <a href="#" data-featherlight="../../images/visuals/392.jpg">
+        ![](../../images/visuals/392.jpg)</a>
+</div></div>
+<img vspace="44">
+<div align='center'><div style='width:90%;'>
+    <a href="#" data-featherlight="../../images/visuals/387.jpg">
+        ![](../../images/visuals/387.jpg)</a>
+</div></div>
+<img vspace="180">
+
+---
+<!-- vg -->
+<img vspace="180">
+<div align='center'><div style='width:60%;'>
+    <a href="#" data-featherlight="../../images/visuals/388.jpg">
+        ![](../../images/visuals/388.jpg)</a>
+</div></div>
+<img vspace="180">
+
+---
+<!-- harvard -->
+<img vspace="180">
+<div align='left'><div style='width:50%;'>
+    <a href="#" data-featherlight="../../images/visuals/382.jpg">
+        ![](../../images/visuals/382.jpg)</a>
+</div></div>
+<img vspace="44">
+<div align='center'><div style='width:70%;'>
+    <a href="#" data-featherlight="../../images/visuals/386.jpg">
+        ![](../../images/visuals/386.jpg)</a>
+</div></div>
+<img vspace="44">
+<div align='right'><div style='width:50%;'>
+    <a href="#" data-featherlight="../../images/visuals/389.jpg">
+        ![](../../images/visuals/389.jpg)</a>
+</div></div>
 <img vspace="180">
 
 ---
@@ -24,7 +81,6 @@ draft: false
         ![](../../images/visuals/374.jpg)</a>
 </div></div>
 <img vspace="180">
-
 
 ---
 <!-- seaport -->
