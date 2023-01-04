@@ -6,11 +6,9 @@ draft: false
 
 ![](../../images/whh2.jpg)
 
-<div style='font-size: 15px; font-family: didot, serif' align='right'>
-    <i>
+<div style='font-size: 15px' align='right'>
     "whatever happens, happens."<br>
 	 - spike spiegel
-    </i>
 </div>
 <a id="menu"></a>
 
