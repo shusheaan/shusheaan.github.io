@@ -7,13 +7,32 @@ draft: false
 ![](../../images/visuals/373.jpg)
 
 <div style='font-size: 15px' align='right'>
-    "when i see anything, i see a lot of things."<br>
-     - howard finster
+    "a beautiful body perishes, but a work of art dies not."<br>
+     - leonardo da vinci
 </div>
 <a id="menu"></a>
 
 <!--more-->
 
+<img vspace="180">
+
+
+---
+<!-- nian -->
+<img vspace="180">
+<div align='center'><div style='width:70%;'>
+    <a href="#" data-featherlight="../../images/visuals/395.jpg">
+        ![](../../images/visuals/395.jpg)</a>
+</div></div>
+<img vspace="180">
+
+---
+<!-- amy -->
+<img vspace="180">
+<div align='center'><div style='width:70%;'>
+    <a href="#" data-featherlight="../../images/visuals/399.jpg">
+        ![](../../images/visuals/399.jpg)</a>
+</div></div>
 <img vspace="180">
 
 ---
@@ -63,19 +82,6 @@ draft: false
 <img vspace="180">
 
 ---
-<!-- shirley -->
-<img vspace="180">
-<div align='right'><div style='width:65%;'>
-    <a href="#" data-featherlight="../../images/visuals/361.jpg">
-        ![](../../images/visuals/361.jpg)</a>
-</div></div>
-<div align='left'><div style='width:35%;'>
-    <a href="#" data-featherlight="../../images/visuals/362.jpg">
-        ![](../../images/visuals/362.jpg)</a>
-</div></div>
-<img vspace="180">
-
----
 <!-- kaiqi -->
 <img vspace="180">
 <div align='center'><div style='width:60%;'>
@@ -91,16 +97,11 @@ draft: false
 ---
 <!-- tong -->
 <img vspace="180">
-<div align='left'><div style='width:60%;'>
-    <a href="#" data-featherlight="../../images/visuals/357.jpg">
-        ![](../../images/visuals/357.jpg)</a>
-</div></div>
-<img vspace="45">
 <div align='right'><div style='width:60%;'>
     <a href="#" data-featherlight="../../images/visuals/356.jpg">
         ![](../../images/visuals/356.jpg)</a>
 </div></div>
-<img vspace="55">
+<img vspace="44">
 <div align='center'><div style='width:100%;'>
     <a href="#" data-featherlight="../../images/visuals/359.jpg">
         ![](../../images/visuals/359.jpg)</a>
