@@ -28,7 +28,7 @@ draft: false
 ---
 <!-- night -->
 <img vspace="180">
-<div align='center'><div style='width:80%;'>
+<div align='right'><div style='width:60%;'>
     <a href="#" data-featherlight="../../images/visuals/396.jpg">
         ![](../../images/visuals/396.jpg)</a>
 </div></div>
@@ -37,11 +37,11 @@ draft: false
 ---
 <!-- ps -->
 <img vspace="180">
-<div align='center'><div style='width:55%;'>
+<div align='left'><div style='width:60%;'>
     <a href="#" data-featherlight="../../images/visuals/391.jpg">
         ![](../../images/visuals/391.jpg)</a>
 </div></div>
-<div align='center'><div style='width:55%;'>
+<div align='left'><div style='width:60%;'>
     <a href="#" data-featherlight="../../images/visuals/390.jpg">
         ![](../../images/visuals/390.jpg)</a>
 </div></div>
