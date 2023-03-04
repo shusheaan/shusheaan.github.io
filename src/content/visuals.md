@@ -17,6 +17,15 @@ draft: false
 <img vspace="180">
 
 ---
+<!-- bar -->
+<img vspace="180">
+<div align='center'><div style='width:60%;'>
+    <a href="#" data-featherlight="../../images/visuals/400.jpg">
+        ![](../../images/visuals/400.jpg)</a>
+</div></div>
+<img vspace="180">
+
+---
 <!-- m2c -->
 <img vspace="180">
 <div align='center'><div style='width:100%;'>
