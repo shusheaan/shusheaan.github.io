@@ -4,10 +4,10 @@ date: 1995-05-17T16:41:08-04:00
 draft: false
 ---
 
-![](../../images/kbos/DLH4203.jpg)
+![](../../images/class.jpg)
 
 <div style='font-size: 15px' align='right'>
-    "never fuck someone you wouldn't wanna be though."<br>
+    "never f**k someone you wouldn't wanna be."<br>
      - frank ocean
 </div>
 <a id="menu"></a>
