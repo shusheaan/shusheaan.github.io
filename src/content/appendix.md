@@ -7,7 +7,7 @@ draft: false
 ![](../../images/class.jpg)
 
 <div style='font-size: 15px' align='right'>
-    "never f**k someone you wouldn't wanna be."<br>
+    "never let a random mf shoot the b-roll"<br>
      - frank ocean
 </div>
 <a id="menu"></a>
@@ -24,40 +24,79 @@ draft: false
 
 there are five levels in the g/t (good or trash) system that can be used in any critique:
 
-- ★★★★★ / "GL (God-Level)": Part of the treasures of human civilization with unparallelly high artistic values. Surpassing other similar works in all respects. Extremely pioneering and inspiring for the incoming works. The dedication and effort behind the scene was unimaginably tremendous. Has undergone meticulous polishing and scrutiny and can well stand the test of time. A truly timeless piece of classic.
-- ★★★★ / "G (Good)": Overall, it's good. There are obvious mediocrities, but nothing unacceptable. Due to commercial considerations or other limitations (usually the creator's talent/capacity or simply the budget), a certain level of sacrifice was made in terms of artistry.
-- ★★★ / "T (Trash)": Mediocre in every way. Nothing stands out and full of apparent shortcomings. A level that most people can achieve by a bit of commitment. Will be quickly forgotten and almost a complete waste of time.
-- ★★ / "AT (Absolute Trash)": Ridiculously and hilariously bad. No originality or artistic value of any kind. Has zero contribution to human kind. All creators are completely unprofessional and botched to cover it up. Usually full of plagiarized/poorly crafted elements.
-- ★ / "AJ (Absolute Joke)": Seriously disgusting and offensive shit. A threat to the society. Nothing but a pathetic waste of the resources of human civilization and might jeopardize existing works of art. Anybody should avoid at all costs.
+- ★★★★★ : "GL (God-Level)"
+    - Part of the treasures of human civilization with unparallelly peak artistic values.
+    - Surpassing other similar works in all respects.
+    - Extremely pioneering and inspiring for the incoming works.
+    - The dedication and effort behind the scene was unimaginably tremendous, with the best taste of mankind.
+    - Has undergone meticulous polishing and scrutiny and can well stand the test of time - a truly eternal masterpiece.
+- ★★★★ : "G (Good)"
+    - Overall, not bad.
+    - Somewhat creative and special. There are obvious mediocrities, but nothing unacceptable.
+    - Due to commercial considerations or other limitations, a certain level of sacrifice was made in terms of artistry.
+    - Kind of pitiful not pushing to another level. Should have explored/developed more.
+    - Might still worth mentioning after years.
+- ★★★ : "T (Trash)"
+    - Mediocre in every aspect.
+    - Nothing stands out and shows lots of apparent shortcomings.
+    - Failed to break any expectations.
+    - A level that most people can achieve with a bit of commitment.
+    - Will be quickly forgotten and can be considered a complete waste of time.
+- ★★ : "AT (Absolute Trash)"
+    - Hilariously bad.
+    - No originality or artistic value of any kind. Has zero contribution to human kind.
+    - Creators were completely unprofessional and botched to cover it up.
+    - Usually full of plagiarized/poorly crafted elements.
+    - A failure in every way. A healthy lifestyle shouldn't contain any of it.
+- ★ : "AJ (Absolute Joke)"
+    - Seriously disgusting and offensive society-threatening shit.
+    - Nothing but a pathetic waste of the resources of human civilization.
+    - Might jeopardize existing works of art and have destructive impact on the industry.
+    - Anybody should avoid it at all costs.
 - GL and G have three sub-levels: (decent, fair, barely, from high to low).
 
 <img vspace="90">
 
 ### classifications
 
-things i gave ratings recently (just for fun :) don't get mad)
+things i gave/updated ratings recently (just for fun :) don't get mad)  
+empirical distribution: GL (26%), G (54%), AT&T (19%), AJ (1%)  
+
 
 #### Albums
 
 | Work | Classification |
 |---|---|
+| Red Moon In Venus | *G: decent* |
+| SOS by SZA | *G: decent* |
+| Dawn by Yebba | *G: barely* |
+| Blackstar | *G: decent* |
+| CAPRISONGS | *G: decent* |
 | Raven by Kelela | *G: fair* |
+| Isolation | *G: barely* |
+| Dangerous | *GL: decent* |
 | The Tears of Sabina | *G: decent* |
+| Norman Fucking Rockwell | *G: decent* |
+| Blood on the Dance Floor | *G: barely* |
 | MATA | *G: barely* |
 | Miss Anthropocene | *G: barely* |
 | Yeezus | *GL: decent* |
 | 22, A Million | *GL: decent* |
 | i, i | *G: barely* |
+| Blonde | *GL: fair* |
 | 7 by Beach House | *G: decent* |
 | Once Twice Melody | *G: decent* |
 | Frank | *GL: decent* |
 | Because the Internet | *T* |
 | Nectar | *T* |
 | BALLADS 1 | *G: barely* |
+| Endless | *GL: decent* |
 | Freetown Sound | *G: decent* |
 | Cupid Deluxe | *G: decent*|
 | Negro Swan | *T* |
 | Ctrl | *G: decent* |
+| Magdalene | *GL: decent* |
+| My Beautiful Dark Twisted Fantasy | *GL: decent* |
 | Her Loss | *AT* |
 | Starboy | *T* |
 | Mr. Morale & The Big Steppers | *G: decent* |
@@ -71,11 +110,7 @@ things i gave ratings recently (just for fun :) don't get mad)
 | Jesus is King | *T* |
 | Donda | *G: barely* |
 | Astroworld | *T* |
-| Red Moon In Venus | *G: decent* |
 | SMITHEREENS | *T* |
-| SOS by SZA | *G: decent* |
-| Endless | *GL: decent* |
-| Magdalene | *GL: decent* |
 
 
 #### Movies
