@@ -63,7 +63,7 @@ empirical distribution: GL (18%), G (58%)
 before you continue, i have to clarify:
 
 - sometimes i do love trash.
-- it's all about making our life better and have fun, DON'T, GET, MAD.
+- it's all about making our life better and having fun, DON'T, GET, MAD.
 - i tried my best to eliminate personal bias and spent lots of hours validating with friends who have proper tastes.
 - everything is open to debate/argue - if you disagree and feel very confident, let's discuss.
 - many of these have gone through serious debates and are settled by agreements.
