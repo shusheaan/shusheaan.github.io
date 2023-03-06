@@ -231,8 +231,7 @@ before you continue, i have to clarify:
 | The Assassin by Hsiao-hsien Hou | *GL: fair* |
 | The Aviator | *T* |
 | The Dark Knight Rises | *G: fair* |
-| The Dark Knight | *G: barely* |
-| The Dark Knight | *G: decent* |
+| The Dark Knight | *G: fair* |
 | The Flowers of War | *G: fair* |
 | The Garden of Words | *G: fair* |
 | The Great Gatsby | *T* |
