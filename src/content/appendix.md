@@ -59,124 +59,196 @@ there are five levels in the g/t (good or trash) system that can be used in any 
 
 ### classifications
 
-things i gave/updated ratings recently (just for fun :) don't get mad)  
-empirical distribution: GL (26%), G (54%), AT&T (19%), AJ (1%)  
+empirical distribution: GL (18%), G (58%)  
+before you continue, i have to clarify:
+
+- sometimes i do love trash.
+- it's all about making our life better and have fun, DON'T, GET, MAD.
+- i tried my best to eliminate personal bias and spent lots of hours validating with friends who have proper tastes.
+- everything is open to debate/argue - if you disagree and feel very confident, let's discuss.
+- many of these have gone through serious debates and are settled by agreements.
+
 
 
 #### Albums
 
 | Work | Classification |
 |---|---|
-| Red Moon In Venus | *G: decent* |
-| SOS by SZA | *G: decent* |
-| Dawn by Yebba | *G: barely* |
-| Blackstar | *G: decent* |
-| CAPRISONGS | *G: decent* |
-| Raven by Kelela | *G: fair* |
-| Isolation | *G: barely* |
-| Dangerous | *GL: decent* |
-| The Tears of Sabina | *G: decent* |
-| Norman Fucking Rockwell | *G: decent* |
-| Blood on the Dance Floor | *G: barely* |
-| MATA | *G: barely* |
-| Miss Anthropocene | *G: barely* |
-| Yeezus | *GL: decent* |
+| "Awaken, My Love!" | *T* |
 | 22, A Million | *GL: decent* |
-| i, i | *G: barely* |
-| Blonde | *GL: fair* |
+| 3.15.20 | *T* |
+| 4 | *G: fair* |
+| 4:44 | *G: barely* |
 | 7 by Beach House | *G: decent* |
-| Once Twice Melody | *G: decent* |
-| Frank | *GL: decent* |
-| Because the Internet | *T* |
-| Nectar | *T* |
-| BALLADS 1 | *G: barely* |
-| Endless | *GL: decent* |
-| Freetown Sound | *G: decent* |
-| Cupid Deluxe | *G: decent*|
-| Negro Swan | *T* |
-| Ctrl | *G: decent* |
-| Magdalene | *GL: decent* |
-| My Beautiful Dark Twisted Fantasy | *GL: decent* |
-| Her Loss | *AT* |
-| Starboy | *T* |
-| Mr. Morale & The Big Steppers | *G: decent* |
-| DAMN. | *G: fair* |
-| New Levels New Devils | *GL: barely* |
-| Worst | *G: barely* |
-| Views | *T* |
-| More Life | *G: fair* |
-| Certified Lover Boy | *AT* |
-| The Life of Pablo | *G: barely* |
-| Jesus is King | *T* |
-| Donda | *G: barely* |
+| 808s & Heartbreak | *G: fair* |
+| ARTPOP | *T* |
+| American Teen | *G: barely* |
 | Astroworld | *T* |
+| BALLADS 1 | *T* |
+| BEYONCE | *GL: barely* |
+| Back To Black | *GL: barely* |
+| Bad | *G: decent* |
+| Beauty Behind The Madness | *G: barely* |
+| Because the Internet | *T* |
+| Big Red Machine | *G: fair* |
+| Blackstar | *G: decent* |
+| Blonde | *GL: fair* |
+| Blood on the Dance Floor | *G: barely* |
+| Bon Iver | *G: fair* |
+| Born This Way | *T* |
+| CAPRISONGS | *G: decent* |
+| Celebration | *G: fair* |
+| Certified Lover Boy | *AT* |
+| Ctrl | *G: fair* |
+| Cupid Deluxe | *G: fair*|
+| DAMN. | *G: fair* |
+| Dangerous | *GL: fair* |
+| Dawn by Yebba | *T* |
+| Donda | *T* |
+| Endless | *GL: decent* |
+| Frank by Amy Winehouse | *GL: decent* |
+| Freetown Sound | *G: decent* |
+| Graduation by Ye | *G: fair* |
+| Her Loss | *AT* |
+| IGOR | *G: decent* |
+| Introspective | *G: barely* |
+| Isolation | *T* |
+| Jesus is King | *T* |
+| LP1 | *G: barely* |
+| Late Registration | *GL: fair* |
+| Lemonade | *G: decent* |
+| MATA | *G: barely* |
+| MDNA | *T* |
+| Magdalene | *GL: decent* |
+| Midnights | *AT* |
+| Miss Anthropocene | *G: barely* |
+| More Life | *G: barely* |
+| Mr. Morale & The Big Steppers | *G: fair* |
+| My Beautiful Dark Twisted Fantasy | *GL: decent* |
+| My World 2.0 | *T* |
+| Nectar | *T* |
+| Negro Swan | *T* |
+| New Levels New Devils | *GL: barely* |
+| Norman Fucking Rockwell! | *G: decent* |
+| Once Twice Melody | *G: decent* |
+| Overexposed | *T* |
+| Purpose | *T* |
+| Random Access Memories | *G: fair* |
+| Raven by Kelela | *G: fair* |
+| Red Moon In Venus | *G: decent* |
 | SMITHEREENS | *T* |
-
+| SOS | *G: decent* |
+| Shoebox by Epic High | *G: fair* |
+| Starboy | *T* |
+| Sticky & Sweet Tour | *G: decent* |
+| The Blurprint 3 | *G: barely* |
+| The College Dropout | *G: fair* |
+| The Fame Monster | *G: decent* |
+| The Fame | *GL: barely* |
+| The Koln Concert | *GL: barely* |
+| The Life of Pablo | *G: barely* |
+| The Tears of Sabina | *G: decent* |
+| Thriller | *GL: decent* |
+| To Pimp A Butterfly | *GL: barely* |
+| V by Maroon 5 | *T* |
+| Views | *T* |
+| Watch The Throne | *G: fair* |
+| Yeezus | *GL: decent* |
+| dosii | *G: fair* |
+| evermore | *G: fair* |
+| good kid, m.A.A.d city | *G: fair* |
+| grae | *T* |
+| i, i | *G: barely* |
+| resavoir | *G: barely* |
+| worst | *G: barely* |
 
 #### Movies
 
 | Work | Classification |
 |---|---|
-| Days of Being Wild | *GL: decent* |
-| Farewell My Concubine | *G: decent* |
-| The Flowers of War | *G: fair* |
 | 1917 | *G: barely* |
-| Dr. Strangelove | *G: decent* |
-| Toy Story 3 | *T* |
-| Finch | *G: barely* |
-| Attack on Titan | *GL: barely* |
-| To the Forest of Firefly Lights | *GL: fair* |
-| Cars | *G: barely* |
-| Howl's Moving Castle | *G: barely* |
+| 2001: A Space Odyssey | *GL: decent* |
+| 5cm Per Second | *G: decent* |
+| Akira | *G: decent* |
+| Attack on Titan | *G: fair* |
 | Avatar 2 | *T* |
-| Flowers of Shanghai | *GL: decent* |
-| Love, Death & Robots I | *GL: barely* |
-| The Prestige | *G: fair* |
-| Fallen Angels | *G: barely* |
-| Spirited Away | *G: decent* |
-| Psycho by Alfred Hitchcock | *G: barely* |
-| PATLABOR 2 | *GL: barely* |
-| The Garden of Words | *G: fair* |
-| 5cm per Second | *G: decent* |
-| Gone Girl | *G: decent* |
+| Avatar | *G: barely* |
+| Barry Lyndon | *G: barely* |
+| Billy Lynn's Long Halftime Walk | *T* |
+| Blade Runner 2049 | *GL: barely* |
+| Brokeback Mountain | *G: decent* |
+| Cars | *G: barely* |
+| Catch Me If You Can | *T* |
+| Chaos (Run) | *G: decent* |
+| Chungking Express | *G: barely* |
+| Cold War | *G: decent* |
 | Cowboy Bebop TV Series | *GL: decent* |
 | Cowboy Bebop: Knockin' on Heaven's Door | *G: barely* |
-| Akira | *GL: barely* |
-| Ghost in the Shell 2: Innocent | *GL: decent* |
-| Vertigo | *G: decent* |
-| The Martian | *T* |
-| Fight Club | *G: fair* |
-| North by Northwest | *T* |
+| Days of Being Wild | *GL: decent* |
+| Despicable Me | *T* |
 | Dial M for Murder | *G: fair* |
-| The Assassin by Hsiao-hsien Hou | *GL: fair* |
-| The Dark Knight | *G: decent* |
-| Happy Together by Kar-wai Wong | *GL: decent* |
-| Dunkirk | *G: fair* |
-| The Matrix | *G: barely* |
-| The Wandering Earth II | *AJ* |
-| The Wandering Earth I | *AT* |
-| Tenet | *T* |
+| Django Unchained | *G: fair* |
+| Dr. Strangelove | *G: decent* |
+| Dreams by Kurosawa Akira | *GL: fair* |
+| Dune by Denis Vellenueve | *GL: fair* |
+| Dunkirk | *G: decent* |
+| Eyes Wide Shut | *G: decent* |
+| Fallen Angels | *G: barely* |
+| Farewell My Concubine | *G: decent* |
+| Fight Club | *G: fair* |
+| Finch | *G: barely* |
+| Flowers of Shanghai | *GL: barely* |
+| Ghost in the Shell 2: Innocent | *GL: decent* |
+| Gone Girl | *G: decent* |
+| Happy Together | *GL: decent* |
+| Howl's Moving Castle | *G: barely* |
+| In the Mood of Love | *G: barely* |
+| Inception | *G: barely* |
+| Infernal Affairs | *G: decent* |
+| Inglorious Basterds | *G: decent* |
+| Interstellar | *G: fair* |
+| Joker | *G: fair* |
+| Jurassic Park | *G: barely* |
+| Kill Bill: Vol.1 & Vol.2 | *G: fair* |
+| Life of Pi | *G: barely* |
+| Lolita by Stanley Kubrick | *T* |
+| Love, Death & Robots I | *GL: barely* |
+| Love, Death & Robots II | *G: fair* |
+| Lust, Caution | *G: fair* |
+| North by Northwest | *T* |
+| Once Upon a Time in Hollywood | *T* |
+| PATLABOR 2 | *GL: barely* |
 | Paprika | *GL: fair* |
 | Perfect Blue | *GL: decent* |
-| Pulp Fiction | *GL: barely* |
-| Chungking Express | *T* |
-| Blade Runner 2049 | *GL: barely* |
-| In the Mood of Love | *G: barely* |
-| Once Upon a Time in Hollywood | *T* |
 | Prisoners | *T* |
-| The Hateful Eight  |  *G: fair* |
-| Interstellar | *G: fair* |
-| Dune by Denis Vellenueve | *GL: fair* |
-| Whiplash | *T* |
-| 2001: A Space Odyssey | *GL: decent* |
-| Chaos (Run) | *G: decent* |
-| Inception | *G: barely* |
+| Psycho by Alfred Hitchcock | *G: barely* |
+| Pulp Fiction | *GL: barely* |
+| Reservoir Dogs | *G: barely* |
 | Shadow Warrior | *G: barely* |
-| Despicable Me | *T* |
-| Dreams by Kurosawa Akira | *GL: fair* |
+| Shutter Island | *G: decent* |
+| Spirited Away | *G: decent* |
+| Tenet | *T* |
+| The Assassin by Hsiao-hsien Hou | *GL: fair* |
+| The Aviator | *T* |
+| The Dark Knight Rises | *G: fair* |
+| The Dark Knight | *G: barely* |
+| The Dark Knight | *G: decent* |
+| The Flowers of War | *G: fair* |
+| The Garden of Words | *G: fair* |
+| The Great Gatsby | *T* |
+| The Hateful Eight  |  *G: fair* |
+| The Lord of the Rings: The Return of the King | *G: decent* |
+| The Martian | *T* |
+| The Matrix | *G: barely* |
+| The Prestige | *G: fair* |
 | The Shining | *G: decent* |
-| Barry Lyndon | *G: barely* |
-| Lolita by Stanley Kubrick | *G: barely* |
-| Eyes Wide Shut | *G: decent* |
+| The Wandering Earth I | *T* |
+| The Wandering Earth II | *AT* |
+| The Wolf of Wall Street | *T* |
+| Titanic | *G: fair* |
+| To the Forest of Firefly Lights | *G: decent* |
+| Toy Story 3 | *T* |
+| Vertigo | *G: decent* |
+| Whiplash | *T* |
 
 <img vspace="180">
