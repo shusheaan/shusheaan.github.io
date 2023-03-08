@@ -195,6 +195,7 @@ before you continue, i have to clarify:
 | Cowboy Bebop: Knockin' on Heaven's Door | *G: barely* |
 | Days of Being Wild | *GL: decent* |
 | Despicable Me | *T* |
+| Detachment | *GL: barely* |
 | Dial M for Murder | *G: fair* |
 | Django Unchained | *G: fair* |
 | Dr. Strangelove | *G: decent* |
@@ -259,5 +260,6 @@ before you continue, i have to clarify:
 | Toy Story 3 | *T* |
 | Vertigo | *G: decent* |
 | Whiplash | *T* |
+
 
 <img vspace="180">
