@@ -59,7 +59,16 @@ there are five levels in the g/t (good or trash) system that can be used in any 
 
 ### classifications
 
-empirical distribution: GL (18%), G (58%)  
+empirical distribution:
+
+- GL: decent (7%)
+- GL: fair (5%)
+- GL: barely (7%)
+- G: decent (19%)  
+- G: fair (19%)  
+- G: barely (19%)  
+- AT&T + AJ: (24%)
+
 before you continue, i have to clarify:
 
 - sometimes i do love trash.
@@ -85,7 +94,7 @@ before you continue, i have to clarify:
 | American Teen | *G: barely* |
 | Astroworld | *T* |
 | BALLADS 1 | *T* |
-| BEYONCE | *GL: barely* |
+| BEYONCE | *G: decent* |
 | Back To Black | *GL: barely* |
 | Bad | *G: decent* |
 | Beauty Behind The Madness | *G: barely* |
@@ -106,7 +115,7 @@ before you continue, i have to clarify:
 | Dawn by Yebba | *T* |
 | Donda | *T* |
 | Endless | *GL: decent* |
-| Frank by Amy Winehouse | *GL: decent* |
+| Frank by Amy Winehouse | *GL: fair* |
 | Freetown Sound | *G: decent* |
 | Graduation by Ye | *G: fair* |
 | Her Loss | *AT* |
@@ -128,7 +137,7 @@ before you continue, i have to clarify:
 | My World 2.0 | *T* |
 | Nectar | *T* |
 | Negro Swan | *T* |
-| New Levels New Devils | *GL: barely* |
+| New Levels New Devils | *G: decent* |
 | Norman Fucking Rockwell! | *G: decent* |
 | Once Twice Melody | *G: decent* |
 | Overexposed | *T* |
@@ -144,8 +153,8 @@ before you continue, i have to clarify:
 | The Blurprint 3 | *G: barely* |
 | The College Dropout | *G: fair* |
 | The Fame Monster | *G: decent* |
-| The Fame | *GL: barely* |
-| The Koln Concert | *GL: barely* |
+| The Fame | *G: decent* |
+| The Koln Concert | *G: decent* |
 | The Life of Pablo | *G: barely* |
 | The Tears of Sabina | *G: decent* |
 | Thriller | *GL: decent* |
@@ -236,6 +245,7 @@ before you continue, i have to clarify:
 | The Garden of Words | *G: fair* |
 | The Great Gatsby | *T* |
 | The Hateful Eight  |  *G: fair* |
+| The Last Emperor | *G: fair* |
 | The Lord of the Rings: The Return of the King | *G: decent* |
 | The Martian | *T* |
 | The Matrix | *G: barely* |
