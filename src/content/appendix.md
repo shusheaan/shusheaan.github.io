@@ -195,7 +195,7 @@ before you continue, i have to clarify:
 | Cowboy Bebop: Knockin' on Heaven's Door | *G: barely* |
 | Days of Being Wild | *GL: decent* |
 | Despicable Me | *T* |
-| Detachment | *GL: barely* |
+| Detachment | *G: decent* |
 | Dial M for Murder | *G: fair* |
 | Django Unchained | *G: fair* |
 | Dr. Strangelove | *G: decent* |
@@ -242,6 +242,7 @@ before you continue, i have to clarify:
 | The Aviator | *T* |
 | The Dark Knight Rises | *G: fair* |
 | The Dark Knight | *G: fair* |
+| The Father | *G: decent* |
 | The Flowers of War | *G: fair* |
 | The Garden of Words | *G: fair* |
 | The Great Gatsby | *T* |
@@ -260,6 +261,5 @@ before you continue, i have to clarify:
 | Toy Story 3 | *T* |
 | Vertigo | *G: decent* |
 | Whiplash | *T* |
-
 
 <img vspace="180">
