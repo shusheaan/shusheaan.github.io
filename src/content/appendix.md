@@ -54,20 +54,18 @@ there are five levels in the g/t (good or trash) system that can be used in any 
     - Might jeopardize existing works of art and have destructive impact on the industry.
     - Anybody should avoid it at all costs.
 - GL and G have three sub-levels: (decent, fair, barely, from high to low).
+- empirical distribution:
+    - GL: decent (7%)
+    - GL: fair (5%)
+    - GL: barely (7%)
+    - G: decent (19%)  
+    - G: fair (19%)  
+    - G: barely (19%)  
+    - AT&T + AJ: (24%)
 
 <img vspace="90">
 
 ### classifications
-
-empirical distribution:
-
-- GL: decent (7%)
-- GL: fair (5%)
-- GL: barely (7%)
-- G: decent (19%)  
-- G: fair (19%)  
-- G: barely (19%)  
-- AT&T + AJ: (24%)
 
 before you continue, i have to clarify:
 
@@ -84,14 +82,17 @@ before you continue, i have to clarify:
 | Work | Classification |
 |---|---|
 | "Awaken, My Love!" | *T* |
+| 1989 | *T* |
 | 22, A Million | *GL: decent* |
 | 3.15.20 | *T* |
 | 4 | *G: fair* |
 | 4:44 | *G: barely* |
 | 7 by Beach House | *G: decent* |
 | 808s & Heartbreak | *G: fair* |
+| ANTI | *G: decent* |
 | ARTPOP | *T* |
 | American Teen | *G: barely* |
+| Arca | *G: decent* |
 | Astroworld | *T* |
 | BALLADS 1 | *T* |
 | BEYONCE | *G: decent* |
@@ -108,18 +109,26 @@ before you continue, i have to clarify:
 | CAPRISONGS | *G: decent* |
 | Celebration | *G: fair* |
 | Certified Lover Boy | *AT* |
+| Cruel Summer | *G: decent* |
 | Ctrl | *G: fair* |
 | Cupid Deluxe | *G: fair*|
 | DAMN. | *G: fair* |
 | Dangerous | *GL: fair* |
+| Dawn FM | *G: fair* |
 | Dawn by Yebba | *T* |
 | Donda | *T* |
 | Endless | *GL: decent* |
+| FUTURE | *G: barely* |
+| Fearless | *G: barely* |
+| Folklore | *G: fair* |
 | Frank by Amy Winehouse | *GL: fair* |
 | Freetown Sound | *G: decent* |
+| Good Girl Gone Bad | *T* |
 | Graduation by Ye | *G: fair* |
+| Harry's House | *T* |
 | Her Loss | *AT* |
 | IGOR | *G: decent* |
+| In A Perfect World... | *G: decent* |
 | Introspective | *G: barely* |
 | Isolation | *T* |
 | Jesus is King | *T* |
@@ -135,6 +144,7 @@ before you continue, i have to clarify:
 | Mr. Morale & The Big Steppers | *G: fair* |
 | My Beautiful Dark Twisted Fantasy | *GL: decent* |
 | My World 2.0 | *T* |
+| NASIR | *G: barely* |
 | Nectar | *T* |
 | Negro Swan | *T* |
 | New Levels New Devils | *G: decent* |
@@ -142,6 +152,7 @@ before you continue, i have to clarify:
 | Once Twice Melody | *G: decent* |
 | Overexposed | *T* |
 | Purpose | *T* |
+| RENAISSANCE | *G: fair* |
 | Random Access Memories | *G: fair* |
 | Raven by Kelela | *G: fair* |
 | Red Moon In Venus | *G: decent* |
@@ -156,6 +167,7 @@ before you continue, i have to clarify:
 | The Fame | *G: decent* |
 | The Koln Concert | *G: decent* |
 | The Life of Pablo | *G: barely* |
+| The Pinkprint | *G: barely* |
 | The Tears of Sabina | *G: decent* |
 | Thriller | *GL: decent* |
 | To Pimp A Butterfly | *GL: barely* |
@@ -163,13 +175,17 @@ before you continue, i have to clarify:
 | Views | *T* |
 | Watch The Throne | *G: fair* |
 | Yeezus | *GL: decent* |
+| channel ORANGE | *GL: fair* |
 | dosii | *G: fair* |
 | evermore | *G: fair* |
 | good kid, m.A.A.d city | *G: fair* |
 | grae | *T* |
 | i, i | *G: barely* |
+| nostalgia, ULTRA | *G: decent* |
 | resavoir | *G: barely* |
 | worst | *G: barely* |
+| ye | *T* |
+| 浮躁 | *GL: fair* |
 
 #### Movies
 
