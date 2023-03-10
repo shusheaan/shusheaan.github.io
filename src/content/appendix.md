@@ -98,7 +98,7 @@ before you continue, i have to clarify:
 | BEYONCE | *G: decent* |
 | Back To Black | *GL: barely* |
 | Bad | *G: decent* |
-| Beauty Behind The Madness | *G: barely* |
+| Beauty Behind The Madness | *T* |
 | Because the Internet | *T* |
 | Big Red Machine | *G: fair* |
 | Blackstar | *G: decent* |
@@ -118,8 +118,8 @@ before you continue, i have to clarify:
 | Dawn by Yebba | *T* |
 | Donda | *T* |
 | Endless | *GL: decent* |
-| FUTURE | *G: barely* |
-| Fearless | *G: barely* |
+| FUTURE | *T* |
+| Fearless | *T* |
 | Folklore | *G: fair* |
 | Frank by Amy Winehouse | *GL: fair* |
 | Freetown Sound | *G: decent* |
@@ -152,7 +152,7 @@ before you continue, i have to clarify:
 | Once Twice Melody | *G: decent* |
 | Overexposed | *T* |
 | Purpose | *T* |
-| RENAISSANCE | *G: fair* |
+| RENAISSANCE | *T* |
 | Random Access Memories | *G: fair* |
 | Raven by Kelela | *G: fair* |
 | Red Moon In Venus | *G: decent* |
@@ -166,7 +166,7 @@ before you continue, i have to clarify:
 | The Fame Monster | *G: decent* |
 | The Fame | *G: decent* |
 | The Koln Concert | *G: decent* |
-| The Life of Pablo | *G: barely* |
+| The Life of Pablo | *G: decent* |
 | The Pinkprint | *G: barely* |
 | The Tears of Sabina | *G: decent* |
 | Thriller | *GL: decent* |
@@ -180,7 +180,7 @@ before you continue, i have to clarify:
 | evermore | *G: fair* |
 | good kid, m.A.A.d city | *G: fair* |
 | grae | *T* |
-| i, i | *G: barely* |
+| i, i | *G: fair* |
 | nostalgia, ULTRA | *G: decent* |
 | resavoir | *G: barely* |
 | worst | *G: barely* |
