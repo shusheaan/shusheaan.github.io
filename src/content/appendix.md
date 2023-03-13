@@ -93,6 +93,7 @@ before you continue, i have to clarify:
 | ARTPOP | *T* |
 | American Teen | *G: barely* |
 | Arca | *G: decent* |
+| Art Angels | *G: decent* |
 | Astroworld | *T* |
 | BALLADS 1 | *T* |
 | BEYONCE | *G: decent* |
@@ -123,6 +124,7 @@ before you continue, i have to clarify:
 | Folklore | *G: fair* |
 | Frank by Amy Winehouse | *GL: fair* |
 | Freetown Sound | *G: decent* |
+| Fuzao by Faye Wang | *GL: barely* |
 | Good Girl Gone Bad | *T* |
 | Graduation by Ye | *G: fair* |
 | Harry's House | *T* |
@@ -158,6 +160,7 @@ before you continue, i have to clarify:
 | Red Moon In Venus | *G: decent* |
 | SMITHEREENS | *T* |
 | SOS | *G: decent* |
+| Section.80 | *G: fair* |
 | Shoebox by Epic High | *G: fair* |
 | Starboy | *T* |
 | Sticky & Sweet Tour | *G: decent* |
@@ -173,6 +176,7 @@ before you continue, i have to clarify:
 | To Pimp A Butterfly | *GL: barely* |
 | V by Maroon 5 | *T* |
 | Views | *T* |
+| Visions | *G: fair* |
 | Watch The Throne | *G: fair* |
 | Yeezus | *GL: decent* |
 | channel ORANGE | *GL: fair* |
@@ -185,7 +189,6 @@ before you continue, i have to clarify:
 | resavoir | *G: barely* |
 | worst | *G: barely* |
 | ye | *T* |
-| 浮躁 | *GL: fair* |
 
 #### Movies
 
@@ -195,6 +198,7 @@ before you continue, i have to clarify:
 | 2001: A Space Odyssey | *GL: decent* |
 | 5cm Per Second | *G: decent* |
 | Akira | *G: decent* |
+| American Psycho | *G: fair* |
 | Attack on Titan | *G: fair* |
 | Avatar 2 | *T* |
 | Avatar | *G: barely* |
