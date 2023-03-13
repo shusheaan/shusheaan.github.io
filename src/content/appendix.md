@@ -198,7 +198,7 @@ before you continue, i have to clarify:
 | 2001: A Space Odyssey | *GL: decent* |
 | 5cm Per Second | *G: decent* |
 | Akira | *G: decent* |
-| American Psycho | *G: fair* |
+| American Psycho | *G: decent* |
 | Attack on Titan | *G: fair* |
 | Avatar 2 | *T* |
 | Avatar | *G: barely* |
@@ -254,6 +254,7 @@ before you continue, i have to clarify:
 | Psycho by Alfred Hitchcock | *G: barely* |
 | Pulp Fiction | *GL: barely* |
 | Reservoir Dogs | *G: barely* |
+| Se7en | *G: decent* |
 | Shadow Warrior | *G: barely* |
 | Shutter Island | *G: decent* |
 | Spirited Away | *G: decent* |
@@ -272,6 +273,7 @@ before you continue, i have to clarify:
 | The Martian | *T* |
 | The Matrix | *G: barely* |
 | The Prestige | *G: fair* |
+| The Shawshank Redemption | *G: decent* |
 | The Shining | *G: decent* |
 | The Wandering Earth I | *T* |
 | The Wandering Earth II | *AT* |
@@ -281,5 +283,6 @@ before you continue, i have to clarify:
 | Toy Story 3 | *T* |
 | Vertigo | *G: decent* |
 | Whiplash | *T* |
+| Zodiac | *G: barely* |
 
 <img vspace="180">
