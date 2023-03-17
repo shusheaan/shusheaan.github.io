@@ -23,7 +23,7 @@ draft: false
 ### g/t ratings
 
 there are five levels in the g/t (good or trash) system that can be used in any critique:
-
+ 
 - ★★★★★ : "GL (God-Level)"
     - Part of the treasures of human civilization with unparallelly peak artistic values.
     - Surpassing other similar works in all respects.
@@ -69,129 +69,180 @@ there are five levels in the g/t (good or trash) system that can be used in any 
 
 before you continue, i have to clarify:
 
-- sometimes i do love trash.
-- it's all about making our life better and having fun, DON'T, GET, MAD.
+- "trash" is not, that, bad - sometimes i kinda like it.
+- it's all about making our life better and having fun, don't, get, mad.
 - i tried my best to eliminate personal bias and spent lots of hours validating with friends who have proper tastes.
 - everything is open to debate/argue - if you disagree and feel very confident, let's discuss.
 - many of these have gone through serious debates and are settled by agreements.
 
-
+<img vspace="60">
 
 #### Albums
 
-| Work | Classification |
-|---|---|
-| "Awaken, My Love!" | *T* |
-| 1989 | *T* |
-| 22, A Million | *GL: decent* |
-| 3.15.20 | *T* |
-| 4 | *G: fair* |
-| 4:44 | *G: barely* |
-| 7 by Beach House | *G: decent* |
-| 808s & Heartbreak | *G: fair* |
-| ANTI | *G: decent* |
-| ARTPOP | *T* |
-| American Teen | *G: barely* |
-| Arca | *G: decent* |
-| Art Angels | *G: decent* |
-| Astroworld | *T* |
-| BALLADS 1 | *T* |
-| BEYONCE | *G: decent* |
-| Back To Black | *GL: barely* |
-| Bad | *G: decent* |
-| Beauty Behind The Madness | *T* |
-| Because the Internet | *T* |
-| Big Red Machine | *G: fair* |
-| Blackstar | *G: decent* |
-| Blonde | *GL: fair* |
-| Blood on the Dance Floor | *G: barely* |
-| Bon Iver | *G: fair* |
-| Born This Way | *T* |
-| CAPRISONGS | *G: decent* |
-| Celebration | *G: fair* |
-| Certified Lover Boy | *AT* |
-| Cruel Summer | *G: decent* |
-| Ctrl | *G: fair* |
-| Cupid Deluxe | *G: fair*|
-| DAMN. | *G: fair* |
-| Dangerous | *GL: fair* |
-| Dawn FM | *G: fair* |
-| Dawn by Yebba | *T* |
-| Desire, I Want To Turn Into You | *T* |
-| Donda | *T* |
-| Endless | *GL: decent* |
-| FUTURE | *T* |
-| Fearless | *T* |
-| Folklore | *G: fair* |
-| Frank by Amy Winehouse | *GL: fair* |
-| Freetown Sound | *G: decent* |
-| Fuzao by Faye Wang | *GL: barely* |
-| Good Girl Gone Bad | *T* |
-| Graduation by Ye | *G: fair* |
-| Harry's House | *T* |
-| Her Loss | *AT* |
-| IGOR | *G: decent* |
-| In A Perfect World... | *G: decent* |
-| Introspective | *G: barely* |
-| Isolation | *T* |
-| Jesus is King | *T* |
-| LP1 | *G: barely* |
-| Late Registration | *GL: fair* |
-| Lemonade | *G: decent* |
-| MATA | *G: barely* |
-| MDNA | *T* |
-| Magdalene | *GL: decent* |
-| Midnights | *AT* |
-| Miss Anthropocene | *G: barely* |
-| More Life | *G: barely* |
-| Mr. Morale & The Big Steppers | *G: fair* |
-| My Beautiful Dark Twisted Fantasy | *GL: decent* |
-| My World 2.0 | *T* |
-| NASIR | *G: barely* |
-| Nectar | *T* |
-| Negro Swan | *T* |
-| New Levels New Devils | *G: decent* |
-| Norman Fucking Rockwell! | *G: decent* |
-| Once Twice Melody | *G: decent* |
-| Overexposed | *T* |
-| Purpose | *T* |
-| RENAISSANCE | *T* |
-| Random Access Memories | *G: fair* |
-| Raven by Kelela | *G: fair* |
-| Red Moon In Venus | *G: decent* |
-| SMITHEREENS | *T* |
-| SOS | *G: decent* |
-| Section.80 | *G: fair* |
-| Shoebox by Epic High | *G: fair* |
-| Starboy | *T* |
-| Sticky & Sweet Tour | *G: decent* |
-| The Blurprint 3 | *G: barely* |
-| The College Dropout | *G: fair* |
-| The Fame Monster | *G: decent* |
-| The Fame | *G: decent* |
-| The Koln Concert | *G: decent* |
-| The Life of Pablo | *G: decent* |
-| The Pinkprint | *G: barely* |
-| The Tears of Sabina | *G: decent* |
-| Thriller | *GL: decent* |
-| To Pimp A Butterfly | *GL: barely* |
-| V by Maroon 5 | *T* |
-| Views | *T* |
-| Visions | *G: fair* |
-| Watch The Throne | *G: fair* |
-| Yeezus | *GL: decent* |
-| channel ORANGE | *GL: fair* |
-| dosii | *G: fair* |
-| evermore | *G: fair* |
-| good kid, m.A.A.d city | *G: fair* |
-| grae | *T* |
-| i, i | *G: fair* |
-| nostalgia, ULTRA | *G: decent* |
-| resavoir | *G: barely* |
-| worst | *G: barely* |
-| ye | *T* |
+core factors & priorities:
+
+- theme consistency and mastering
+- smooth idea delivery with distinctive characters
+- lyrical, melodic, and harmonic structure with good quality
+- production, arrangement, and instrument performance
+- audacity, ambition, and experimentalness
+
+| Work | Artist | Classification |
+|---|---|---|
+| "Awaken, My Love!" | Childish Gambino | *T* |
+| 1989 | Taylor Swift | *T* |
+| 22, A Million | Bon Iver | *GL: fair* |
+| 3.15.20 | Childish Gambino | *T* |
+| 4 | Beyonce | *G: fair* |
+| 4:44 | Jay-Z | *T* |
+| 7 | Beach House | *G: decent* |
+| 808s & Heartbreak | Ye | *G: fair* |
+| A Moon Shaped Pool | Radiohead | *G: fair* |
+| A Seat at the Table | Solange | *G: fair* |
+| ANTI | Rihanna | *G: barely* |
+| ARTPOP | Lady Gaga | *T* |
+| American Teen | Khalid | *G: barely* |
+| Arca | Arca | *G: decent* |
+| Art Angels | Grimes | *G: decent* |
+| Astroworld | Travis Scott | *T* |
+| BALLADS 1 | Joji | *T* |
+| BEYONCE | Beyonce | *G: decent* |
+| Back To Black | Amy Winehouse | *GL: barely* |
+| Bad | Michael Jackson | *G: decent* |
+| Beauty Behind The Madness | The Weeknd | *T* |
+| Because the Internet | Childish Gambino | *T* |
+| Big Red Machine | Big Red Machine | *G: fair* |
+| Blackstar | David Bowie | *G: decent* |
+| Blonde | Frank Ocean | *GL: fair* |
+| Blood on the Dance Floor | Michael Jackson | *G: barely* |
+| Bloom | Beach House | *T* |
+| Bloom | Troye Sivan | *T* |
+| Blue Neighbourhood | Troye Sivan | *G: barely* |
+| Body Talk | Robyn | *G: decent* |
+| Bon Iver | Bon Iver | *G: fair* |
+| Born This Way | Lady Gaga | *T* |
+| CAPRISONGS | FKA twigs | *G: decent* |
+| CARE FOR ME | Saba | *T* |
+| Carrie & Lowell | Sufjan Stevens | *G: decent* |
+| Celebration | Madonna | *G: fair* |
+| Certified Lover Boy | Drake | *AT* |
+| Coexist | The xx | *T* |
+| Cruel Summer | Ye, etc. | *G: decent* |
+| Ctrl | SZA | *G: fair* |
+| Cupid Deluxe | Blood Orange | *G: fair*|
+| Currents | Tame Impala | *G: barely* |
+| DAMN. | Kendrick Lamar | *G: fair* |
+| Dangerous | Michael Jackson | *GL: fair* |
+| Dawn FM | The Weeknd | *G: fair* |
+| Dawn | Yebba | *T* |
+| Desire, I Want To Turn Into You | Caroline Polachek | *T* |
+| Discovery | Daft Punk | *T* |
+| Donda (Final Release) | Ye | *T* |
+| Donda Essentials (Listening Parties) | Ye | *G: decent* |
+| Endless | Frank Ocean | *GL: fair* |
+| FUTURE | Future | *T* |
+| Far from Home | Tev Woods | *G: fair* |
+| Fearless | Taylor Swift | *T* |
+| Few Good Things | Saba | *T* |
+| Flower Boy | Tyler, the Creator | *G: decent* |
+| Folklore | Taylor Swift | *G: fair* |
+| Frank | Amy Winehouse | *GL: fair* |
+| Freetown Sound | Blood Orange | *G: decent* |
+| Fuzao | Faye Wang | *G: decent* |
+| Good Girl Gone Bad | Rihanna | *T* |
+| Graduation | Ye | *G: fair* |
+| Harry's House | Harry Styles | *T* |
+| Her Loss | Drake | *AT* |
+| Hotter Than July | Stevie Wonder | *G: decent* |
+| IGOR | Tyler, the Creator | *G: decent* |
+| Illinois | Sufjan Stevens | *G: fair* |
+| In A Perfect World... | Keri Hilson | *G: decent* |
+| Isolation | Kali Uchis | *T* |
+| Jesus is King | Ye | *T* |
+| Kid A | Radiohead | *G: decent* |
+| LP1 | FKA twigs | *G: barely* |
+| Late Registration | Ye | *GL: fair* |
+| Lemonade | Beyonce | *G: decent* |
+| MATA | M.I.A. | *G: barely* |
+| MDNA | Madonna | *T* |
+| Magdalene | FKA twigs | *GL: decent* |
+| Melodrama | Lorde | *G: decent* |
+| Midnights | Taylor Swift | *AT* |
+| Miss Anthropocene | Grimes | *G: barely* |
+| Modern Vampires of the City | Vampire Weekend | *G: decent* |
+| More Life | Drake | *G: barely* |
+| Mr. Morale & The Big Steppers | Kendrick Lamar | *G: fair* |
+| My Beautiful Dark Twisted Fantasy | Ye | *GL: decent* |
+| My World 2.0 | Justin Bieber | *T* |
+| NASIR | Nas | *G: barely* |
+| Nectar | Joji | *T* |
+| Negro Swan | Blood Orange | *T* |
+| New Levels New Devils | Polyphia | *G: decent* |
+| Norman Fucking Rockwell! | Lana Del Rey | *G: decent* |
+| OK Computer | Radiohead | *G: fair* |
+| Once Twice Melody | Beach House | *G: decent* |
+| One The Run Tour | Beyonce & Jay-Z | *G: decent* |
+| Overexposed | Maroon 5 | *T* |
+| Planetarium | Sufjan Stevens, etc. | *G: fair* |
+| Pop 2 | Charli XCX | *G: fair* |
+| Purpose | Justin Bieber | *T* |
+| RENAISSANCE | Beyonce | *T* |
+| Random Access Memories | Daft Punk | *G: fair* |
+| Raven | Kelela | *G: fair* |
+| Recovery | Eminem | *T* |
+| Red Moon In Venus | Kali Uchis | *G: decent* |
+| Remember That You Will Die | Polyphia | *T* |
+| Resavoir | Resavoir | *G: barely* |
+| Rival Dealer | Burial | *G: barely* |
+| SMITHEREENS | Joji | *T* |
+| SOS | SZA | *G: decent* |
+| Section.80 | Kendrick Lamar | *G: fair* |
+| Shoebox | Epic High | *G: fair* |
+| Speak Like A Child | Herbie Hancock | *G: fair* |
+| Starboy | The Weeknd | *T* |
+| Sticky & Sweet Tour | Madonna | *G: decent* |
+| Teen Dreams | Beach House | *G: barely* |
+| The Blurprint 3 | Jay-Z | *G: barely* |
+| The College Dropout | Ye | *G: fair* |
+| The Fame Monster | Lady Gaga | *G: decent* |
+| The Fame | Lady Gaga | *G: decent* |
+| The Koln Concert | Keith Jarrett | *G: decent* |
+| The Life of Pablo | Ye | *G: decent* |
+| The Marshall Mathers LP 2 | Eminem | *T* |
+| The Marshall Mathers LP | Eminem | *G: decent* |
+| The Pinkprint | Nicki Minaj | *G: barely* |
+| The Tears of Sabina | my little airport | *G: decent* |
+| Thriller | Michael Jackson | *GL: fair* |
+| To Pimp A Butterfly | Kendrick Lamar | *GL: barely* |
+| Trouble Will Find Me | The National | *G: fair* |
+| Untrue | Burial | *G: barely* |
+| V | Maroon 5 | *T* |
+| Views | Drake | *T* |
+| Visions | Grimes | *G: fair* |
+| Watch The Throne | Ye & Jay-Z | *G: fair* |
+| Yeezus | Ye | *GL: decent* |
+| channel ORANGE | Frank Ocean | *GL: fair* |
+| dosii | dosii | *G: fair* |
+| evermore | Taylor Swift | *G: fair* |
+| good kid, m.A.A.d city | Kendrick Lamar | *G: fair* |
+| grae | Moses Sumney | *T* |
+| i, i | Bon Iver | *G: fair* |
+| nostalgia, ULTRA |  Frank Ocean | *G: decent* |
+| worst | KOHH | *G: barely* |
+| xx | The xx | *T* |
+| ye | Ye | *T* |
+
+<img vspace="60">
 
 #### Movies
+
+core factors & priorities:
+
+- character development, theme integration, and plot/screen writing
+- emotional connections, acting performance, and actor/actress selection
+- visual aesthetic: cinematography, editing, costume design, scene setup, etc.
+- special effects, sound engineering, soundtrack production, and arrangement
+- original and distinctive characteristics - free of commercial limitations
 
 | Work | Classification |
 |---|---|
@@ -199,7 +250,7 @@ before you continue, i have to clarify:
 | 2001: A Space Odyssey | *GL: decent* |
 | 5cm Per Second | *G: decent* |
 | Akira | *G: decent* |
-| American Psycho | *G: decent* |
+| American Psycho | *GL: fair* |
 | Attack on Titan | *G: fair* |
 | Avatar 2 | *T* |
 | Avatar | *G: barely* |
@@ -221,7 +272,7 @@ before you continue, i have to clarify:
 | Django Unchained | *G: fair* |
 | Dr. Strangelove | *G: decent* |
 | Dreams by Kurosawa Akira | *GL: fair* |
-| Dune by Denis Vellenueve | *GL: fair* |
+| Dune by Denis Vellenueve | *G: decent* |
 | Dunkirk | *G: decent* |
 | Eyes Wide Shut | *G: decent* |
 | Fallen Angels | *G: barely* |
