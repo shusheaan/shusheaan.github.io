@@ -53,15 +53,13 @@ there are five levels in the g/t (good or trash) system that can be used in any 
     - Nothing but a pathetic waste of the resources of human civilization.
     - Might jeopardize existing works of art and have destructive impact on the industry.
     - Anybody should avoid it at all costs.
-- GL and G have three sub-levels: (decent, fair, barely, from high to low).
+- due to a high volume, G have three sub-levels: (decent, fair, barely, from high to low).
 - empirical distribution:
-    - GL: decent (7%)
-    - GL: fair (5%)
-    - GL: barely (7%)
-    - G: decent (19%)  
-    - G: fair (19%)  
-    - G: barely (19%)  
-    - AT&T + AJ: (24%)
+    - GL (12%)
+    - G: decent (26%)  
+    - G: fair (21%)  
+    - G: barely (16%)  
+    - T, AT, and AJ (25%)
 
 <img vspace="90">
 
@@ -91,7 +89,7 @@ core factors & priorities:
 |---|---|---|
 | "Awaken, My Love!" | Childish Gambino | *T* |
 | 1989 | Taylor Swift | *T* |
-| 22, A Million | Bon Iver | *GL: fair* |
+| 22, A Million | Bon Iver | *GL* |
 | 3.15.20 | Childish Gambino | *T* |
 | 4 | Beyonce | *G: fair* |
 | 4:44 | Jay-Z | *T* |
@@ -107,13 +105,13 @@ core factors & priorities:
 | Astroworld | Travis Scott | *T* |
 | BALLADS 1 | Joji | *T* |
 | BEYONCE | Beyonce | *G: decent* |
-| Back To Black | Amy Winehouse | *GL: barely* |
+| Back To Black | Amy Winehouse | *GL* |
 | Bad | Michael Jackson | *G: decent* |
 | Beauty Behind The Madness | The Weeknd | *T* |
 | Because the Internet | Childish Gambino | *T* |
 | Big Red Machine | Big Red Machine | *G: fair* |
 | Blackstar | David Bowie | *G: decent* |
-| Blonde | Frank Ocean | *GL: fair* |
+| Blonde | Frank Ocean | *GL* |
 | Blood on the Dance Floor | Michael Jackson | *G: barely* |
 | Bloom | Beach House | *T* |
 | Bloom | Troye Sivan | *T* |
@@ -132,21 +130,21 @@ core factors & priorities:
 | Cupid Deluxe | Blood Orange | *G: fair*|
 | Currents | Tame Impala | *G: barely* |
 | DAMN. | Kendrick Lamar | *G: fair* |
-| Dangerous | Michael Jackson | *GL: fair* |
+| Dangerous | Michael Jackson | *GL* |
 | Dawn FM | The Weeknd | *G: fair* |
 | Dawn | Yebba | *T* |
 | Desire, I Want To Turn Into You | Caroline Polachek | *T* |
 | Discovery | Daft Punk | *T* |
 | Donda (Final Release) | Ye | *T* |
 | Donda Essentials (Listening Parties) | Ye | *G: decent* |
-| Endless | Frank Ocean | *GL: fair* |
+| Endless | Frank Ocean | *GL* |
 | FUTURE | Future | *T* |
 | Far from Home | Tev Woods | *G: fair* |
 | Fearless | Taylor Swift | *T* |
 | Few Good Things | Saba | *T* |
 | Flower Boy | Tyler, the Creator | *G: decent* |
 | Folklore | Taylor Swift | *G: fair* |
-| Frank | Amy Winehouse | *GL: fair* |
+| Frank | Amy Winehouse | *GL* |
 | Freetown Sound | Blood Orange | *G: decent* |
 | Fuzao | Faye Wang | *G: decent* |
 | Good Girl Gone Bad | Rihanna | *T* |
@@ -161,18 +159,18 @@ core factors & priorities:
 | Jesus is King | Ye | *T* |
 | Kid A | Radiohead | *G: decent* |
 | LP1 | FKA twigs | *G: barely* |
-| Late Registration | Ye | *GL: fair* |
+| Late Registration | Ye | *GL* |
 | Lemonade | Beyonce | *G: decent* |
 | MATA | M.I.A. | *G: barely* |
 | MDNA | Madonna | *T* |
-| Magdalene | FKA twigs | *GL: decent* |
+| Magdalene | FKA twigs | *GL* |
 | Melodrama | Lorde | *G: decent* |
 | Midnights | Taylor Swift | *AT* |
 | Miss Anthropocene | Grimes | *G: barely* |
 | Modern Vampires of the City | Vampire Weekend | *G: decent* |
 | More Life | Drake | *G: barely* |
 | Mr. Morale & The Big Steppers | Kendrick Lamar | *G: fair* |
-| My Beautiful Dark Twisted Fantasy | Ye | *GL: decent* |
+| My Beautiful Dark Twisted Fantasy | Ye | *GL* |
 | My World 2.0 | Justin Bieber | *T* |
 | NASIR | Nas | *G: barely* |
 | Nectar | Joji | *T* |
@@ -191,7 +189,7 @@ core factors & priorities:
 | Raven | Kelela | *G: fair* |
 | Recovery | Eminem | *T* |
 | Red Moon In Venus | Kali Uchis | *G: decent* |
-| Remember That You Will Die | Polyphia | *T* |
+| Remember That You Will Die | Polyphia | *G: barely* |
 | Resavoir | Resavoir | *G: barely* |
 | Rival Dealer | Burial | *G: barely* |
 | SMITHEREENS | Joji | *T* |
@@ -212,16 +210,16 @@ core factors & priorities:
 | The Marshall Mathers LP | Eminem | *G: decent* |
 | The Pinkprint | Nicki Minaj | *G: barely* |
 | The Tears of Sabina | my little airport | *G: decent* |
-| Thriller | Michael Jackson | *GL: fair* |
-| To Pimp A Butterfly | Kendrick Lamar | *GL: barely* |
+| Thriller | Michael Jackson | *GL* |
+| To Pimp A Butterfly | Kendrick Lamar | *GL* |
 | Trouble Will Find Me | The National | *G: fair* |
 | Untrue | Burial | *G: barely* |
 | V | Maroon 5 | *T* |
 | Views | Drake | *T* |
 | Visions | Grimes | *G: fair* |
 | Watch The Throne | Ye & Jay-Z | *G: fair* |
-| Yeezus | Ye | *GL: decent* |
-| channel ORANGE | Frank Ocean | *GL: fair* |
+| Yeezus | Ye | *GL* |
+| channel ORANGE | Frank Ocean | *G: decent* |
 | dosii | dosii | *G: fair* |
 | evermore | Taylor Swift | *G: fair* |
 | good kid, m.A.A.d city | Kendrick Lamar | *G: fair* |
@@ -247,31 +245,31 @@ core factors & priorities:
 | Work | Classification |
 |---|---|
 | 1917 | *G: barely* |
-| 2001: A Space Odyssey | *GL: decent* |
+| 2001: A Space Odyssey | *GL* |
 | 5cm Per Second | *G: decent* |
 | Akira | *G: decent* |
-| American Psycho | *GL: fair* |
+| American Psycho | *GL* |
 | Attack on Titan | *G: fair* |
 | Avatar 2 | *T* |
 | Avatar | *G: barely* |
 | Barry Lyndon | *G: barely* |
 | Billy Lynn's Long Halftime Walk | *T* |
-| Blade Runner 2049 | *GL: barely* |
+| Blade Runner 2049 | *GL* |
 | Brokeback Mountain | *G: decent* |
 | Cars | *G: barely* |
 | Catch Me If You Can | *T* |
 | Chaos (Run) | *G: decent* |
 | Chungking Express | *G: barely* |
 | Cold War | *G: decent* |
-| Cowboy Bebop TV Series | *GL: decent* |
+| Cowboy Bebop TV Series | *GL* |
 | Cowboy Bebop: Knockin' on Heaven's Door | *G: barely* |
-| Days of Being Wild | *GL: decent* |
+| Days of Being Wild | *GL* |
 | Despicable Me | *T* |
 | Detachment | *G: decent* |
 | Dial M for Murder | *G: fair* |
 | Django Unchained | *G: fair* |
 | Dr. Strangelove | *G: decent* |
-| Dreams by Kurosawa Akira | *GL: fair* |
+| Dreams by Kurosawa Akira | *GL* |
 | Dune by Denis Vellenueve | *G: decent* |
 | Dunkirk | *G: decent* |
 | Eyes Wide Shut | *G: decent* |
@@ -279,10 +277,10 @@ core factors & priorities:
 | Farewell My Concubine | *G: decent* |
 | Fight Club | *G: fair* |
 | Finch | *G: barely* |
-| Flowers of Shanghai | *GL: barely* |
-| Ghost in the Shell 2: Innocent | *GL: decent* |
+| Flowers of Shanghai | *GL* |
+| Ghost in the Shell 2: Innocent | *GL* |
 | Gone Girl | *G: decent* |
-| Happy Together | *GL: decent* |
+| Happy Together | *GL* |
 | Howl's Moving Castle | *G: barely* |
 | In the Mood of Love | *G: barely* |
 | Inception | *G: barely* |
@@ -294,24 +292,24 @@ core factors & priorities:
 | Kill Bill: Vol.1 & Vol.2 | *G: fair* |
 | Life of Pi | *G: barely* |
 | Lolita by Stanley Kubrick | *T* |
-| Love, Death & Robots I | *GL: barely* |
+| Love, Death & Robots I | *GL* |
 | Love, Death & Robots II | *G: fair* |
 | Lust, Caution | *G: fair* |
 | North by Northwest | *T* |
 | Once Upon a Time in Hollywood | *T* |
-| PATLABOR 2 | *GL: barely* |
-| Paprika | *GL: fair* |
-| Perfect Blue | *GL: decent* |
+| PATLABOR 2 | *GL* |
+| Paprika | *GL* |
+| Perfect Blue | *GL* |
 | Prisoners | *T* |
 | Psycho by Alfred Hitchcock | *G: barely* |
-| Pulp Fiction | *GL: barely* |
+| Pulp Fiction | *GL* |
 | Reservoir Dogs | *G: barely* |
 | Se7en | *G: decent* |
 | Shadow Warrior | *G: barely* |
 | Shutter Island | *G: decent* |
 | Spirited Away | *G: decent* |
 | Tenet | *T* |
-| The Assassin by Hsiao-hsien Hou | *GL: fair* |
+| The Assassin by Hsiao-hsien Hou | *GL* |
 | The Aviator | *T* |
 | The Dark Knight Rises | *G: fair* |
 | The Dark Knight | *G: fair* |
