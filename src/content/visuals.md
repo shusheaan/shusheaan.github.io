@@ -4,7 +4,7 @@ date: 2022-05-20T16:41:08-04:00
 draft: false
 ---
 
-![](../../images/whh2.jpg)
+![](../../images/f872.jpg)
 
 <div style='font-size: 15px' align='right'>
     "whatever happens, happens."<br>
