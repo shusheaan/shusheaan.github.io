@@ -31,6 +31,32 @@ draft: false
 <img vspace="180">
 
 ---
+<!-- zed -->
+<img vspace="90">
+<div style='font-size: 10px; font-family: didot, serif' align='center'>
+    <b>
+    i must not fear <br>
+    <br>
+    i must not fear <br>
+    fear is the mind-killer <br>
+    fear is the little-death <br>
+    that brings total obliteration <br>
+    <br>
+    i will face my fear <br>
+    i will permit it to pass over me <br>
+    and through me <br>
+    and when it has gone past <br>
+    i will turn the inner eye to see its path <br>
+    <br>
+    where the fear has gone <br>
+    there will be nothing <br>
+    <br>
+    only i will remain <br>
+    <br>
+</div>
+<img vspace="90">
+
+---
 <!-- icasp -->
 <img vspace="180">
 <div align='center'><div style='width:40%;'>
