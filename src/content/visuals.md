@@ -17,9 +17,29 @@ draft: false
 <img vspace="180">
 
 ---
+<!-- white m2c -->
+<img vspace="180">
+<div align='left'><div style='width:70%;'>
+    <a href="#" data-featherlight="../../images/visuals/404.jpg">
+        ![](../../images/visuals/404.jpg)</a>
+</div></div>
+<img vspace="50">
+<div align='right'><div style='width:50%;'>
+    <a href="#" data-featherlight="../../images/visuals/403.jpg">
+        ![](../../images/visuals/403.jpg)</a>
+</div></div>
+<img vspace="50">
+<div align='center'><div style='width:75%;'>
+    <a href="#" data-featherlight="../../images/visuals/407.jpg">
+        ![](../../images/visuals/407.jpg)</a>
+</div></div>
+<img vspace="180">
+
+
+---
 <!-- icasp -->
 <img vspace="180">
-<div align='left'><div style='width:50%;'>
+<div align='left'><div style='width:60%;'>
     <a href="#" data-featherlight="../../images/visuals/401.jpg">
         ![](../../images/visuals/401.jpg)</a>
 </div></div>
@@ -31,9 +51,9 @@ draft: false
 <img vspace="180">
 
 ---
-<!-- zed -->
+<!-- fear -->
 <img vspace="90">
-<div style='font-size: 10px; font-family: didot, serif' align='center'>
+<div style='font-size: 10px' align='center'>
     <b>
     i must not fear <br>
     <br>
@@ -56,6 +76,22 @@ draft: false
 </div>
 <img vspace="90">
 
+
+---
+<!-- m2c -->
+<img vspace="180">
+<div align='left'><div style='width:55%;'>
+    <a href="#" data-featherlight="../../images/visuals/406.JPG">
+        ![](../../images/visuals/406.JPG)</a>
+</div></div>
+<img vspace="60">
+<div align='right'><div style='width:75%;'>
+    <a href="#" data-featherlight="../../images/visuals/397.jpg">
+        ![](../../images/visuals/397.jpg)</a>
+</div></div>
+<img vspace="180">
+
+
 ---
 <!-- icasp -->
 <img vspace="180">
@@ -66,31 +102,13 @@ draft: false
 <img vspace="180">
 
 ---
-<!-- m2c -->
-<img vspace="180">
-<div align='center'><div style='width:100%;'>
-    <a href="#" data-featherlight="../../images/visuals/397.jpg">
-        ![](../../images/visuals/397.jpg)</a>
-</div></div>
-<img vspace="180">
-
----
-<!-- night -->
-<img vspace="180">
-<div align='right'><div style='width:60%;'>
-    <a href="#" data-featherlight="../../images/visuals/396.jpg">
-        ![](../../images/visuals/396.jpg)</a>
-</div></div>
-<img vspace="180">
-
----
 <!-- ps -->
 <img vspace="180">
-<div align='left'><div style='width:60%;'>
+<div align='left'><div style='width:44%;'>
     <a href="#" data-featherlight="../../images/visuals/391.jpg">
         ![](../../images/visuals/391.jpg)</a>
 </div></div>
-<div align='left'><div style='width:60%;'>
+<div align='left'><div style='width:44%;'>
     <a href="#" data-featherlight="../../images/visuals/390.jpg">
         ![](../../images/visuals/390.jpg)</a>
 </div></div>
@@ -103,8 +121,7 @@ draft: false
     <a href="#" data-featherlight="../../images/visuals/392.jpg">
         ![](../../images/visuals/392.jpg)</a>
 </div></div>
-<img vspace="44">
-<div align='center'><div style='width:90%;'>
+<div align='center'><div style='width:60%;'>
     <a href="#" data-featherlight="../../images/visuals/387.jpg">
         ![](../../images/visuals/387.jpg)</a>
 </div></div>
