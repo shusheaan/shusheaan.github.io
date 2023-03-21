@@ -50,6 +50,17 @@ draft: false
 </div></div>
 <img vspace="180">
 
+
+---
+<!-- mystic river -->
+<img vspace="180">
+<div align='center'><div style='width:80%;'>
+    <a href="#" data-featherlight="../../images/visuals/408.jpg">
+        ![](../../images/visuals/408.jpg)</a>
+</div></div>
+<img vspace="180">
+
+
 ---
 <!-- fear -->
 <img vspace="90">
