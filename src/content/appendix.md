@@ -249,7 +249,7 @@ core factors & priorities:
 | 5cm Per Second | *G: decent* |
 | Akira | *G: decent* |
 | American Psycho | *GL* |
-| Attack on Titan | *G: fair* |
+| Attack on Titan | *GL* |
 | Avatar 2 | *T* |
 | Avatar | *G: barely* |
 | Barry Lyndon | *G: barely* |
@@ -272,6 +272,7 @@ core factors & priorities:
 | Dreams by Kurosawa Akira | *GL* |
 | Dune by Denis Vellenueve | *G: decent* |
 | Dunkirk | *G: decent* |
+| Everything Everywhere All at Once | *AT* |
 | Eyes Wide Shut | *G: decent* |
 | Fallen Angels | *G: barely* |
 | Farewell My Concubine | *G: decent* |
@@ -282,6 +283,7 @@ core factors & priorities:
 | Gone Girl | *G: decent* |
 | Happy Together | *GL* |
 | Howl's Moving Castle | *G: barely* |
+| Im Westen Nichts Neues | *GL* |
 | In the Mood of Love | *G: barely* |
 | Inception | *G: barely* |
 | Infernal Affairs | *G: decent* |
@@ -299,6 +301,7 @@ core factors & priorities:
 | Once Upon a Time in Hollywood | *T* |
 | PATLABOR 2 | *GL* |
 | Paprika | *GL* |
+| Pepe Lore | *GL* |
 | Perfect Blue | *GL* |
 | Prisoners | *T* |
 | Psycho by Alfred Hitchcock | *G: barely* |
@@ -330,6 +333,7 @@ core factors & priorities:
 | The Wolf of Wall Street | *T* |
 | Titanic | *G: fair* |
 | To the Forest of Firefly Lights | *G: decent* |
+| Top Gun: Maverick | *T* |
 | Toy Story 3 | *T* |
 | Vertigo | *G: decent* |
 | Whiplash | *T* |
