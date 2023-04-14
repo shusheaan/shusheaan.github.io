@@ -331,7 +331,7 @@ core factors & priorities:
 | The Wandering Earth I | *T* |
 | The Wandering Earth II | *AT* |
 | The Wolf of Wall Street | *T* |
-| Titanic | *G: fair* |
+| Titanic | *G: decent* |
 | To the Forest of Firefly Lights | *G: decent* |
 | Top Gun: Maverick | *T* |
 | Toy Story 3 | *T* |

@@ -16,6 +16,37 @@ draft: false
 
 <img vspace="180">
 
+
+---
+<!-- fear -->
+<img vspace="90">
+<div style='font-size: 10px' align='center'>
+    <b>
+    alleluia <br>
+    <br>
+    my god won't deny me <br>
+    tell the devil get behind me <br>
+    <br>
+    my soul cries out hallelujah  <br>
+    and i thank god for saving me <br>
+    <br>
+    i rather be free, i rather be free <br>
+    i want freedom more than anything <br>
+    i love freedom more than anything <br>
+    <br>
+    i will control what i can control <br>
+    i will let go what i can let go <br>
+    <br>
+    patience i must have <br>
+    <br>
+    ... <br>
+    so when i'm free <br>
+    i'm free <br>
+    <br>
+</div>
+<img vspace="90">
+
+
 ---
 <!-- white m2c -->
 <img vspace="180">
