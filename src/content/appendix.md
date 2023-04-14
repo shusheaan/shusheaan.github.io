@@ -176,7 +176,7 @@ core factors & priorities:
 | Nectar | Joji | *T* |
 | Negro Swan | Blood Orange | *T* |
 | New Levels New Devils | Polyphia | *G: decent* |
-| Norman Fucking Rockwell! | Lana Del Rey | *G: decent* |
+| Norman Fucking Rockwell! | Lana Del Rey | *GL* |
 | OK Computer | Radiohead | *G: fair* |
 | Once Twice Melody | Beach House | *G: decent* |
 | One The Run Tour | Beyonce & Jay-Z | *G: decent* |
