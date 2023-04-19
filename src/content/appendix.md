@@ -102,7 +102,7 @@ core factors & priorities:
 | American Teen | Khalid | *G: barely* |
 | Arca | Arca | *G: decent* |
 | Art Angels | Grimes | *G: decent* |
-| Astroworld | Travis Scott | *G: fair* |
+| Astroworld | Travis Scott | *G: decent* |
 | BALLADS 1 | Joji | *T* |
 | BEYONCE | Beyonce | *G: decent* |
 | Back To Black | Amy Winehouse | *GL* |
@@ -144,6 +144,7 @@ core factors & priorities:
 | Few Good Things | Saba | *T* |
 | Flower Boy | Tyler, the Creator | *G: decent* |
 | Folklore | Taylor Swift | *G: fair* |
+| Frank at Coachella 2023 | Frank Ocean | *T* |
 | Frank | Amy Winehouse | *GL* |
 | Freetown Sound | Blood Orange | *G: decent* |
 | Fuzao | Faye Wang | *G: decent* |
