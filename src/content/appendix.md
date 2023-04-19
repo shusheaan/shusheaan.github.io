@@ -102,7 +102,7 @@ core factors & priorities:
 | American Teen | Khalid | *G: barely* |
 | Arca | Arca | *G: decent* |
 | Art Angels | Grimes | *G: decent* |
-| Astroworld | Travis Scott | *T* |
+| Astroworld | Travis Scott | *G: fair* |
 | BALLADS 1 | Joji | *T* |
 | BEYONCE | Beyonce | *G: decent* |
 | Back To Black | Amy Winehouse | *GL* |
