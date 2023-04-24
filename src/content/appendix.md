@@ -97,7 +97,7 @@ core factors & priorities:
 | 808s & Heartbreak | Ye | *G: fair* |
 | A Moon Shaped Pool | Radiohead | *G: fair* |
 | A Seat at the Table | Solange | *G: fair* |
-| ANTI | Rihanna | *G: barely* |
+| ANTI | Rihanna | *G: fair* |
 | ARTPOP | Lady Gaga | *T* |
 | American Teen | Khalid | *G: barely* |
 | Arca | Arca | *G: decent* |
@@ -110,6 +110,7 @@ core factors & priorities:
 | Beauty Behind The Madness | The Weeknd | *T* |
 | Because the Internet | Childish Gambino | *T* |
 | Big Red Machine | Big Red Machine | *G: fair* |
+| Birds in the Trap Sing McKnight | Travis Scott | *G: barely* |
 | Blackstar | David Bowie | *G: decent* |
 | Blonde | Frank Ocean | *GL* |
 | Blood on the Dance Floor | Michael Jackson | *G: barely* |
@@ -119,6 +120,7 @@ core factors & priorities:
 | Body Talk | Robyn | *G: decent* |
 | Bon Iver | Bon Iver | *G: fair* |
 | Born This Way | Lady Gaga | *T* |
+| CALL ME IF YOU GET LOST | Tyler, the Creator | *G: barely* |
 | CAPRISONGS | FKA twigs | *G: decent* |
 | CARE FOR ME | Saba | *T* |
 | Carrie & Lowell | Sufjan Stevens | *G: decent* |
@@ -137,17 +139,19 @@ core factors & priorities:
 | Discovery | Daft Punk | *T* |
 | Donda (Final Release) | Ye | *T* |
 | Donda Essentials (Listening Parties) | Ye | *G: decent* |
+| El Mal Querer | ROSALIA | *G: barely* |
 | Endless | Frank Ocean | *GL* |
 | FUTURE | Future | *T* |
 | Far from Home | Tev Woods | *G: fair* |
 | Fearless | Taylor Swift | *T* |
+| Fetch the Bolt Cutters | Fiona Apple | *G: decent* |
 | Few Good Things | Saba | *T* |
 | Flower Boy | Tyler, the Creator | *G: decent* |
 | Folklore | Taylor Swift | *G: fair* |
 | Frank at Coachella 2023 | Frank Ocean | *T* |
 | Frank | Amy Winehouse | *GL* |
 | Freetown Sound | Blood Orange | *G: decent* |
-| Fuzao | Faye Wang | *G: decent* |
+| Fuzao | Faye Wang | *G: fair* |
 | Good Girl Gone Bad | Rihanna | *T* |
 | Graduation | Ye | *G: fair* |
 | Harry's House | Harry Styles | *T* |
@@ -158,12 +162,13 @@ core factors & priorities:
 | In A Perfect World... | Keri Hilson | *G: decent* |
 | Isolation | Kali Uchis | *T* |
 | Jesus is King | Ye | *T* |
-| Kid A | Radiohead | *G: decent* |
+| Kid A | Radiohead | *GL* |
 | LP1 | FKA twigs | *G: barely* |
 | Late Registration | Ye | *GL* |
 | Lemonade | Beyonce | *G: decent* |
 | MATA | M.I.A. | *G: barely* |
 | MDNA | Madonna | *T* |
+| MOTOMAMI | ROSALIA | *T* |
 | Magdalene | FKA twigs | *GL* |
 | Melodrama | Lorde | *G: decent* |
 | Midnights | Taylor Swift | *AT* |
@@ -178,7 +183,7 @@ core factors & priorities:
 | Negro Swan | Blood Orange | *T* |
 | New Levels New Devils | Polyphia | *G: decent* |
 | Norman Fucking Rockwell! | Lana Del Rey | *GL* |
-| OK Computer | Radiohead | *G: fair* |
+| OK Computer | Radiohead | *G: decent* |
 | Once Twice Melody | Beach House | *G: decent* |
 | One The Run Tour | Beyonce & Jay-Z | *G: decent* |
 | Overexposed | Maroon 5 | *T* |
@@ -193,6 +198,7 @@ core factors & priorities:
 | Remember That You Will Die | Polyphia | *G: barely* |
 | Resavoir | Resavoir | *G: barely* |
 | Rival Dealer | Burial | *G: barely* |
+| Rodeo | Travis Scott | *G: decent* |
 | SMITHEREENS | Joji | *T* |
 | SOS | SZA | *G: decent* |
 | Section.80 | Kendrick Lamar | *G: fair* |
