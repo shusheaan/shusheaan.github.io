@@ -226,6 +226,7 @@ core factors & priorities:
 | Visions | Grimes | *G: fair* |
 | Watch The Throne | Ye & Jay-Z | *G: fair* |
 | Yeezus | Ye | *GL* |
+| \*1 | Ran Cap Duoi | *G: decent* |
 | channel ORANGE | Frank Ocean | *G: decent* |
 | dosii | dosii | *G: fair* |
 | evermore | Taylor Swift | *G: fair* |
