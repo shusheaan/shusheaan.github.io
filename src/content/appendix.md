@@ -220,6 +220,7 @@ core factors & priorities:
 | Thriller | Michael Jackson | *GL* |
 | To Pimp A Butterfly | Kendrick Lamar | *GL* |
 | Trouble Will Find Me | The National | *G: fair* |
+| Ugly Season | Perfume Genius | *G: fair* |
 | Untrue | Burial | *G: barely* |
 | V | Maroon 5 | *T* |
 | Views | Drake | *T* |
