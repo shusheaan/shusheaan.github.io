@@ -102,13 +102,14 @@ core factors & priorities:
 | American Teen | Khalid | *G: barely* |
 | Arca | Arca | *G: decent* |
 | Art Angels | Grimes | *G: decent* |
-| Astroworld | Travis Scott | *G: decent* |
+| Astroworld | Travis Scott | *G: fair* |
 | BALLADS 1 | Joji | *T* |
 | BEYONCE | Beyonce | *G: decent* |
 | Back To Black | Amy Winehouse | *GL* |
 | Bad | Michael Jackson | *G: decent* |
 | Beauty Behind The Madness | The Weeknd | *T* |
 | Because the Internet | Childish Gambino | *T* |
+| Become | Beach House | *G: barely* |
 | Big Red Machine | Big Red Machine | *G: fair* |
 | Birds in the Trap Sing McKnight | Travis Scott | *G: barely* |
 | Blackstar | David Bowie | *G: decent* |
