@@ -212,7 +212,7 @@ core factors & priorities:
 | The College Dropout | Ye | *G: fair* |
 | The Fame Monster | Lady Gaga | *G: decent* |
 | The Fame | Lady Gaga | *G: decent* |
-| The Koln Concert | Keith Jarrett | *G: decent* |
+| The Koln Concert | Keith Jarrett | *GL* |
 | The Life of Pablo | Ye | *G: decent* |
 | The Marshall Mathers LP 2 | Eminem | *T* |
 | The Marshall Mathers LP | Eminem | *G: decent* |
