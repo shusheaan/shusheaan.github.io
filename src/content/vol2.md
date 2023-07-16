@@ -16,6 +16,19 @@ draft: false
 
 <img vspace="180">
 
+---
+<!-- shirley bmw -->
+<img vspace="180">
+<div align='left'><div style='width:70%;'>
+    <a href="#" data-featherlight="../../images/visuals/421.jpg">
+        ![](../../images/visuals/421.jpg)</a>
+</div></div>
+<img vspace="55">
+<div align='right'><div style='width:60%;'>
+    <a href="#" data-featherlight="../../images/visuals/420.jpg">
+        ![](../../images/visuals/420.jpg)</a>
+</div></div>
+<img vspace="180">
 
 ---
 <!-- nian -->
