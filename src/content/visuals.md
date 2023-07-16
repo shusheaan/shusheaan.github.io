@@ -1,10 +1,10 @@
 ---
 title: "main thread"
-date: 2022-05-20T16:41:08-04:00
+date: 2022-05-21T16:41:08-04:00
 draft: false
 ---
 
-![](../../images/f873.jpg)
+![](../../images/alva/m2cin.JPG)
 
 <div style='font-size: 15px' align='right'>
     "whatever happens, happens."<br>
@@ -45,26 +45,6 @@ draft: false
     <br>
 </div>
 <img vspace="90">
-
-
----
-<!-- white m2c -->
-<img vspace="180">
-<div align='left'><div style='width:70%;'>
-    <a href="#" data-featherlight="../../images/visuals/404.jpg">
-        ![](../../images/visuals/404.jpg)</a>
-</div></div>
-<img vspace="50">
-<div align='right'><div style='width:50%;'>
-    <a href="#" data-featherlight="../../images/visuals/403.jpg">
-        ![](../../images/visuals/403.jpg)</a>
-</div></div>
-<img vspace="50">
-<div align='center'><div style='width:75%;'>
-    <a href="#" data-featherlight="../../images/visuals/407.jpg">
-        ![](../../images/visuals/407.jpg)</a>
-</div></div>
-<img vspace="180">
 
 
 ---
@@ -117,21 +97,6 @@ draft: false
     <br>
 </div>
 <img vspace="90">
-
-
----
-<!-- m2c -->
-<img vspace="180">
-<div align='left'><div style='width:55%;'>
-    <a href="#" data-featherlight="../../images/visuals/406.JPG">
-        ![](../../images/visuals/406.JPG)</a>
-</div></div>
-<img vspace="60">
-<div align='right'><div style='width:75%;'>
-    <a href="#" data-featherlight="../../images/visuals/397.jpg">
-        ![](../../images/visuals/397.jpg)</a>
-</div></div>
-<img vspace="180">
 
 
 ---
