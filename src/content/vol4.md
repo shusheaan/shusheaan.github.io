@@ -43,11 +43,21 @@ draft: false
 
 
 ---
-<!-- m2c -->
+<!-- black m2c -->
 <img vspace="180">
-<div align='center'><div style='width:70%;'>
+<div align='center'><div style='width:77%;'>
     <a href="#" data-featherlight="../../images/visuals/397.jpg">
         ![](../../images/visuals/397.jpg)</a>
+</div></div>
+<img vspace="180">
+
+
+---
+<!-- m2c -->
+<img vspace="180">
+<div align='center'><div style='width:60%;'>
+    <a href="#" data-featherlight="../../images/alva/417.jpg">
+        ![](../../images/alva/417.jpg)</a>
 </div></div>
 <img vspace="180">
 
