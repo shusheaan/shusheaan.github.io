@@ -16,6 +16,15 @@ draft: false
 
 <img vspace="180">
 
+---
+<!-- cover -->
+<img vspace="180">
+<div align='center'><div style='width:66%;'>
+    <a href="#" data-featherlight="../../images/alva/426.jpg">
+        ![](../../images/alva/426.jpg)</a>
+</div></div>
+<img vspace="180">
+
 
 ---
 <!-- fear -->

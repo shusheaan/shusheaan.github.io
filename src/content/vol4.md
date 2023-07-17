@@ -36,23 +36,39 @@ draft: false
 <!-- cover -->
 <img vspace="180">
 <div align='center'><div style='width:66%;'>
+    <a href="#" data-featherlight="../../images/alva/425.jpg">
+        ![](../../images/alva/425.jpg)</a>
+</div></div>
+<img vspace="180">
+
+
+---
+<!-- cover -->
+<img vspace="180">
+<div align='center'><div style='width:66%;'>
     <a href="#" data-featherlight="../../images/alva/424.jpg">
         ![](../../images/alva/424.jpg)</a>
 </div></div>
 <img vspace="180">
 
+
 ---
 <!-- back and front m2c -->
 <img vspace="180">
+<div align='center'><div style='width:77%;'>
+    <a href="#" data-featherlight="../../images/alva/418.jpg">
+        ![](../../images/alva/418.jpg)</a>
+</div></div>
 <div align='center'><div style='width:77%;'>
     <a href="#" data-featherlight="../../images/alva/419.jpg">
         ![](../../images/alva/419.jpg)</a>
 </div></div>
 <div align='center'><div style='width:77%;'>
-    <a href="#" data-featherlight="../../images/alva/418.jpg">
-        ![](../../images/alva/418.jpg)</a>
+    <a href="#" data-featherlight="../../images/alva/427.jpg">
+        ![](../../images/alva/427.jpg)</a>
 </div></div>
 <img vspace="180">
+
 
 ---
 <!-- black m2c -->
