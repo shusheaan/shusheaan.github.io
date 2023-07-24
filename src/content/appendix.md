@@ -262,6 +262,7 @@ core factors & priorities:
 | Attack on Titan | *GL* |
 | Avatar 2 | *T* |
 | Avatar | *G: barely* |
+| Barbie | *AJ* |
 | Barry Lyndon | *G: barely* |
 | Billy Lynn's Long Halftime Walk | *T* |
 | Blade Runner 2049 | *GL* |
@@ -309,6 +310,7 @@ core factors & priorities:
 | Lust, Caution | *G: fair* |
 | North by Northwest | *T* |
 | Once Upon a Time in Hollywood | *T* |
+| Oppenheimer | *T* |
 | PATLABOR 2 | *GL* |
 | Paprika | *GL* |
 | Pepe Lore | *GL* |
