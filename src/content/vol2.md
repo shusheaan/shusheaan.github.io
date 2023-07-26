@@ -7,8 +7,8 @@ draft: false
 ![](../../images/visuals/373.jpg)
 
 <div style='font-size: 15px' align='right'>
-    "a beautiful body perishes, but a work of art dies not."<br>
-     - leonardo da vinci
+    "when we leave this room, it's gone."<br>
+     - justin vernon
 </div>
 <a id="menu"></a>
 
@@ -17,23 +17,51 @@ draft: false
 <img vspace="180">
 
 ---
-<!-- shirley bmw -->
+<!-- shirley fells -->
 <img vspace="180">
-<div align='left'><div style='width:70%;'>
-    <a href="#" data-featherlight="../../images/visuals/421.jpg">
-        ![](../../images/visuals/421.jpg)</a>
+<div align='left'><div style='width:60%;'>
+    <a href="#" data-featherlight="../../images/visuals/440.jpg">
+        ![](../../images/visuals/440.jpg)</a>
 </div></div>
 <img vspace="55">
-<div align='right'><div style='width:60%;'>
+<div align='right'><div style='width:50%;'>
     <a href="#" data-featherlight="../../images/visuals/420.jpg">
         ![](../../images/visuals/420.jpg)</a>
 </div></div>
 <img vspace="180">
 
 ---
+<!-- cheung naicha -->
+<img vspace="180">
+<div align='left'><div style='width:48%;'>
+    <a href="#" data-featherlight="../../images/visuals/337.jpg">
+        ![](../../images/visuals/337_min.jpg)</a>
+</div></div>
+<img vspace="44">
+<div align='right'><div style='width:63%;'>
+    <a href="#" data-featherlight="../../images/visuals/338.jpg">
+        ![](../../images/visuals/338_min.jpg)</a>
+</div></div>
+<img vspace="44">
+<div align='left'><div style='width:40%;'>
+    <a href="#" data-featherlight="../../images/visuals/353.jpg">
+        ![](../../images/visuals/353_min.jpg)</a>
+</div></div>
+<img vspace="44">
+<div align='right'><div style='width:80%;'>
+    <a href="#" data-featherlight="../../images/visuals/352.jpg">
+        ![](../../images/visuals/352_min.jpg)</a>
+</div></div>
+<div align='right'><div style='width:80%;'>
+    <a href="#" data-featherlight="../../images/visuals/354.jpg">
+        ![](../../images/visuals/354_min.jpg)</a>
+</div></div>
+<img vspace="180">
+
+---
 <!-- nian -->
 <img vspace="180">
-<div align='center'><div style='width:70%;'>
+<div align='center'><div style='width:60%;'>
     <a href="#" data-featherlight="../../images/visuals/395.jpg">
         ![](../../images/visuals/395.jpg)</a>
 </div></div>
@@ -118,34 +146,6 @@ draft: false
 <div align='center'><div style='width:100%;'>
     <a href="#" data-featherlight="../../images/visuals/359.jpg">
         ![](../../images/visuals/359.jpg)</a>
-</div></div>
-<img vspace="180">
-
----
-<!-- cheung naicha -->
-<img vspace="180">
-<div align='left'><div style='width:48%;'>
-    <a href="#" data-featherlight="../../images/visuals/337.jpg">
-        ![](../../images/visuals/337_min.jpg)</a>
-</div></div>
-<img vspace="44">
-<div align='right'><div style='width:63%;'>
-    <a href="#" data-featherlight="../../images/visuals/338.jpg">
-        ![](../../images/visuals/338_min.jpg)</a>
-</div></div>
-<img vspace="44">
-<div align='left'><div style='width:40%;'>
-    <a href="#" data-featherlight="../../images/visuals/353.jpg">
-        ![](../../images/visuals/353_min.jpg)</a>
-</div></div>
-<img vspace="44">
-<div align='right'><div style='width:80%;'>
-    <a href="#" data-featherlight="../../images/visuals/352.jpg">
-        ![](../../images/visuals/352_min.jpg)</a>
-</div></div>
-<div align='right'><div style='width:80%;'>
-    <a href="#" data-featherlight="../../images/visuals/354.jpg">
-        ![](../../images/visuals/354_min.jpg)</a>
 </div></div>
 <img vspace="180">
 
