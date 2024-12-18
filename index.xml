@@ -6,7 +6,7 @@
     <description>Recent content on CYANED</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 21 May 2022 16:41:08 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 21 May 2023 16:41:08 -0400</lastBuildDate>
     
 	<atom:link href="https://cyaned.co/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>main thread</title>
       <link>https://cyaned.co/visuals/</link>
-      <pubDate>Sat, 21 May 2022 16:41:08 -0400</pubDate>
+      <pubDate>Sun, 21 May 2023 16:41:08 -0400</pubDate>
       
       <guid>https://cyaned.co/visuals/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../../images/alva/422.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
@@ -22,6 +22,21 @@
 &lt;p&gt;&lt;div style=&#39;font-size: 15px&#39; align=&#39;right&#39;&gt;
     &amp;ldquo;whatever happens, happens.&amp;rdquo;&lt;br&gt;
      - spike spiegel
+&lt;/div&gt;
+&lt;a id=&#34;menu&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>vol. 6, tunes</title>
+      <link>https://cyaned.co/vol6/</link>
+      <pubDate>Sun, 22 May 2022 16:41:08 -0400</pubDate>
+      
+      <guid>https://cyaned.co/vol6/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;../../images/tunes/cover.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;div style=&#39;font-size: 15px&#39; align=&#39;right&#39;&gt;
+    &amp;ldquo;everything living has a rhythm&amp;rdquo;&lt;br&gt;
+     - michael jackson
 &lt;/div&gt;
 &lt;a id=&#34;menu&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
     </item>
@@ -102,11 +117,11 @@
     </item>
     
     <item>
-      <title>appendix, classifications</title>
-      <link>https://cyaned.co/appendix/</link>
+      <title>vol 0, classifications</title>
+      <link>https://cyaned.co/vol0/</link>
       <pubDate>Wed, 17 May 1995 16:41:08 -0400</pubDate>
       
-      <guid>https://cyaned.co/appendix/</guid>
+      <guid>https://cyaned.co/vol0/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../../images/class.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;div style=&#39;font-size: 15px&#39; align=&#39;right&#39;&gt;
