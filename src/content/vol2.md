@@ -17,18 +17,24 @@ draft: false
 <img vspace="180">
 
 ---
+<!-- amy -->
+<img vspace="180">
+<div align='center'><div style='width:65%;'>
+    <a href="#" data-featherlight="../../images/visuals/399.jpg">
+        ![](../../images/visuals/399.jpg)</a>
+</div></div>
+<img vspace="180">
+
+
+---
 <!-- shirley fells -->
 <img vspace="180">
-<div align='left'><div style='width:60%;'>
+<div align='center'><div style='width:65%;'>
     <a href="#" data-featherlight="../../images/visuals/440.jpg">
         ![](../../images/visuals/440.jpg)</a>
 </div></div>
-<img vspace="55">
-<div align='right'><div style='width:50%;'>
-    <a href="#" data-featherlight="../../images/visuals/420.jpg">
-        ![](../../images/visuals/420.jpg)</a>
-</div></div>
 <img vspace="180">
+
 
 ---
 <!-- cheung naicha -->
@@ -55,24 +61,6 @@ draft: false
 <div align='right'><div style='width:80%;'>
     <a href="#" data-featherlight="../../images/visuals/354.jpg">
         ![](../../images/visuals/354_min.jpg)</a>
-</div></div>
-<img vspace="180">
-
----
-<!-- nian -->
-<img vspace="180">
-<div align='center'><div style='width:60%;'>
-    <a href="#" data-featherlight="../../images/visuals/395.jpg">
-        ![](../../images/visuals/395.jpg)</a>
-</div></div>
-<img vspace="180">
-
----
-<!-- amy -->
-<img vspace="180">
-<div align='center'><div style='width:70%;'>
-    <a href="#" data-featherlight="../../images/visuals/399.jpg">
-        ![](../../images/visuals/399.jpg)</a>
 </div></div>
 <img vspace="180">
 
@@ -123,6 +111,40 @@ draft: false
 <img vspace="180">
 
 ---
+<!-- amy -->
+<img vspace="180">
+<div align='left'><div style='width:50%;'>
+    <a href="#" data-featherlight="../../images/visuals/347.jpg">
+        ![](../../images/visuals/347_min.jpg)</a>
+</div></div>
+<img vspace="44">
+<div align='right'><div style='width:70%;'>
+    <a href="#" data-featherlight="../../images/visuals/348.jpg">
+        ![](../../images/visuals/348_min.jpg)</a>
+</div></div>
+<img vspace="44">
+<div align='left'><div style='width:40%;'>
+    <a href="#" data-featherlight="../../images/visuals/349.jpg">
+        ![](../../images/visuals/349_min.jpg)</a>
+</div></div>
+<img vspace="44">
+<div align='right'><div style='width:70%;'>
+    <a href="#" data-featherlight="../../images/visuals/350.jpg">
+        ![](../../images/visuals/350_min.jpg)</a>
+</div></div>
+<img vspace="180">
+
+
+---
+<!-- nian -->
+<img vspace="180">
+<div align='center'><div style='width:60%;'>
+    <a href="#" data-featherlight="../../images/visuals/395.jpg">
+        ![](../../images/visuals/395.jpg)</a>
+</div></div>
+<img vspace="180">
+
+---
 <!-- kaiqi -->
 <img vspace="180">
 <div align='center'><div style='width:60%;'>
@@ -162,17 +184,7 @@ draft: false
         ![](../../images/visuals/248_min.jpg)</a>
 </div></div>
 <img vspace="90">
-<div align='right'><div style='width:60%;'>
-    <a href="#" data-featherlight="../../images/visuals/262.jpg">
-        ![](../../images/visuals/262_min.jpeg)</a>
-</div></div>
-<img vspace="45">
-<div align='left'><div style='width:40%;'>
-    <a href="#" data-featherlight="../../images/visuals/256.jpg">
-        ![](../../images/visuals/256_min.jpg)</a>
-</div></div>
-<img vspace="45">
-<div align='right'><div style='width:80%;'>
+<div align='center'><div style='width:90%;'>
     <a href="#" data-featherlight="../../images/visuals/266.jpg">
         ![](../../images/visuals/266_min.jpeg)</a>
 </div></div>
@@ -233,29 +245,6 @@ draft: false
 <img vspace="180">
 
 
----
-<!-- amy -->
-<img vspace="180">
-<div align='left'><div style='width:50%;'>
-    <a href="#" data-featherlight="../../images/visuals/347.jpg">
-        ![](../../images/visuals/347_min.jpg)</a>
-</div></div>
-<img vspace="44">
-<div align='right'><div style='width:70%;'>
-    <a href="#" data-featherlight="../../images/visuals/348.jpg">
-        ![](../../images/visuals/348_min.jpg)</a>
-</div></div>
-<img vspace="44">
-<div align='left'><div style='width:40%;'>
-    <a href="#" data-featherlight="../../images/visuals/349.jpg">
-        ![](../../images/visuals/349_min.jpg)</a>
-</div></div>
-<img vspace="44">
-<div align='right'><div style='width:70%;'>
-    <a href="#" data-featherlight="../../images/visuals/350.jpg">
-        ![](../../images/visuals/350_min.jpg)</a>
-</div></div>
-<img vspace="180">
 
 ---
 <!-- amy2 -->

@@ -17,9 +17,19 @@ draft: false
 <img vspace="180">
 
 ---
+<!-- misc -->
+<img vspace="180">
+<div align='center'><div style='width:80%;'>
+    <a href="#" data-featherlight="../../images/visuals/441.jpg">
+        ![](../../images/visuals/441.jpg)</a>
+</div></div>
+<img vspace="180">
+
+
+---
 <!-- cover -->
 <img vspace="180">
-<div align='center'><div style='width:66%;'>
+<div align='center'><div style='width:50%;'>
     <a href="#" data-featherlight="../../images/alva/426.jpg">
         ![](../../images/alva/426.jpg)</a>
 </div></div>

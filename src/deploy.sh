@@ -1,1 +1,1 @@
-./hugo && rsync -a ./public/* ../ && rm -rf ./public/*
+./hugo_mac && rsync -a ./public/* ../ && rm -rf ./public/*

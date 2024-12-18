@@ -42,32 +42,6 @@ draft: false
 <img vspace="180">
 
 ---
-<!-- xinyu bin -->
-<img vspace="180">
-<a href="#" data-featherlight="../../images/visuals/197.gif">
-    ![](../../images/visuals/197.jpg)</a>
-<a href="#" data-featherlight="../../images/visuals/198.gif">
-    ![](../../images/visuals/198.jpg)</a>
-<img vspace="22">
-<div align='center'>
-    <audio controls>
-      <source src="../../audio/dance.mp3" type="audio/mpeg">
-    Your browser does not support the audio element.
-    </audio>
-</div>
-<div style='font-size: 10px; font-family: didot, serif' align='center'>
-    <b>
-    "dance till we die" by lana del rey <br>
-    <br><br>
-</div>
-<img vspace="44">
-<a href="#" data-featherlight="../../images/visuals/240.jpg">
-    ![](../../images/visuals/240_min.jpg)</a>
-<a href="#" data-featherlight="../../images/visuals/201.jpg">
-    ![](../../images/visuals/201_min.jpg)</a>
-<img vspace="180">
-
----
 <!-- holiday -->
 <img vspace="180">
 <a href="#" data-featherlight="../../images/visuals/42.gif">
