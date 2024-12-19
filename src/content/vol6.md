@@ -29,16 +29,8 @@ draft: false
     a collection of my fav licks and tracks <br>
     with highly simplified notes on chords and scales <br>
     only enough to let me recall the way i play them <br>
-    <br>
-    most of these tracks have no tutorials or official sheets available online <br>
-    so i create my own versions by ear, but they are not the only ways to play <br>
-    i try to explore variations and replicate the most of the original version <br>
-    <br>
-    however im too lazy to write full sheets for them so this is only for personal use <br>
-    if you love any of the tracks and would like to know the details to play <br>
-    <br>
-    im happy to chat <br>
-    happy shredding <br>
+    i create my own versions by ear <br>
+    due to lack of official sheets <br>
     <br> <br> <br>
 </div>
 </div></div>
