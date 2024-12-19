@@ -29,8 +29,8 @@ draft: false
     a collection of my fav licks and tracks <br>
     with highly simplified notes on chords and scales <br>
     only enough to let me recall the way i play them <br>
+    most of the time, due to lack of official sheets <br>
     i create my own versions by ear <br>
-    due to lack of official sheets <br>
     <br> <br> <br>
 </div>
 </div></div>
@@ -41,7 +41,7 @@ draft: false
 <!-- slow -->
 <!-- https://www.youtube.com/watch?v=RLH0FTBRuyo -->
 
-<img vspace="60">
+<img vspace="30">
 <div align='center'><div style='width:96%;'>
     <a href="#" data-featherlight="../../images/tunes/slow.jpg">
         ![](../../images/tunes/slow.jpg)</a>
@@ -52,12 +52,28 @@ draft: false
     <br>
 </div>
 </div></div>
-<img vspace="60">
+<img vspace="30">
+
+---
+<!-- higgs -->
+<img vspace="30">
+<div align='center'><div style='width:48%;'>
+    <a href="#" data-featherlight="../../images/tunes/higgs.jpg">
+        ![](../../images/tunes/higgs.jpg)</a>
+<img vspace="20">
+<div style='font-size: 12px; font-family: didot, serif' align='center'>
+    <b>
+    higgs, frank ocean, c#/e, [video](https://www.youtube.com/watch?v=kE7hqV8c9Mk) <br>
+    <br>
+</div>
+</div></div>
+<img vspace="30">
+
 
 
 ---
 <!-- deathwish -->
-<img vspace="60">
+<img vspace="30">
 <div align='center'><div style='width:72%;'>
     <a href="#" data-featherlight="../../images/tunes/deathwish.jpg">
         ![](../../images/tunes/deathwish.jpg)</a>
@@ -68,11 +84,11 @@ draft: false
     <br>
 </div>
 </div></div>
-<img vspace="60">
+<img vspace="30">
 
 ---
 <!-- feelings gone -->
-<img vspace="60">
+<img vspace="30">
 <div align='center'><div style='width:60%;'>
     <a href="#" data-featherlight="../../images/tunes/feelings2.jpg">
         ![](../../images/tunes/feelings2.jpg)</a>
@@ -83,11 +99,11 @@ draft: false
     <br>
 </div>
 </div></div>
-<img vspace="60">
+<img vspace="30">
 
 ---
 <!-- u instru -->
-<img vspace="60">
+<img vspace="30">
 <div align='center'><div style='width:60%;'>
     <a href="#" data-featherlight="../../images/tunes/u.jpg">
         ![](../../images/tunes/u.jpg)</a>
@@ -98,6 +114,6 @@ draft: false
     <br>
 </div>
 </div></div>
-<img vspace="60">
+<img vspace="30">
 
 <img vspace="180">
