@@ -17,11 +17,47 @@ draft: false
 <img vspace="180">
 
 ---
+<!-- 999 -->
+<img vspace="180">
+<div align='center'><div style='width:70%;'>
+    <a href="#" data-featherlight="../../images/visuals/999.jpg">
+        ![](../../images/visuals/999.jpg)</a>
+</div></div>
+<img vspace="180">
+
+---
+<!-- shakki -->
+<img vspace="180">
+<div align='left'><div style='width:40%;'>
+    <a href="#" data-featherlight="../../images/visuals/451.jpg">
+        ![](../../images/visuals/451.jpg)</a>
+</div></div>
+<div align='right'><div style='width:60%;'>
+    <a href="#" data-featherlight="../../images/visuals/4502.jpg">
+        ![](../../images/visuals/4502.jpg)</a>
+</div></div>
+<img vspace="180">
+
+---
 <!-- amy -->
 <img vspace="180">
 <div align='center'><div style='width:65%;'>
     <a href="#" data-featherlight="../../images/visuals/399.jpg">
         ![](../../images/visuals/399.jpg)</a>
+</div></div>
+<img vspace="180">
+
+---
+<!-- zijie -->
+<img vspace="180">
+<div align='left'><div style='width:100%;'>
+    <a href="#" data-featherlight="../../images/visuals/452.jpg">
+        ![](../../images/visuals/452.jpg)</a>
+</div></div>
+<img vspace="120">
+<div align='right'><div style='width:77.7%;'>
+    <a href="#" data-featherlight="../../images/visuals/454.jpg">
+        ![](../../images/visuals/454.jpg)</a>
 </div></div>
 <img vspace="180">
 
@@ -67,17 +103,11 @@ draft: false
 ---
 <!-- shirley bmw -->
 <img vspace="180">
-<div align='center'><div style='width:70%;'>
+<div align='center'><div style='width:60%;'>
     <a href="#" data-featherlight="../../images/visuals/372.jpg">
         ![](../../images/visuals/372.jpg)</a>
 </div></div>
-<img vspace="55">
-<div style='font-size: 12px; font-family: didot, serif' align='center'>
-    <b>
-    shirley and her f82 m4
-    <br>
-</div>
-<img vspace="55">
+<img vspace="70">
 <div align='right'><div style='width:60%;'>
     <a href="#" data-featherlight="../../images/visuals/370.jpg">
         ![](../../images/visuals/370.jpg)</a>
@@ -158,20 +188,6 @@ draft: false
 <img vspace="180">
 
 ---
-<!-- tong -->
-<img vspace="180">
-<div align='right'><div style='width:60%;'>
-    <a href="#" data-featherlight="../../images/visuals/356.jpg">
-        ![](../../images/visuals/356.jpg)</a>
-</div></div>
-<img vspace="44">
-<div align='center'><div style='width:100%;'>
-    <a href="#" data-featherlight="../../images/visuals/359.jpg">
-        ![](../../images/visuals/359.jpg)</a>
-</div></div>
-<img vspace="180">
-
----
 <!-- bin xinyu -->
 <img vspace="180">
 <div align='left'><div style='width:60%;'>
@@ -199,6 +215,16 @@ draft: false
     <b>
     "california dreamin'" by the mamas and the papas<br>
 </div>
+<img vspace="180">
+
+
+---
+<!-- tong -->
+<img vspace="180">
+<div align='center'><div style='width:60%;'>
+    <a href="#" data-featherlight="../../images/visuals/356.jpg">
+        ![](../../images/visuals/356.jpg)</a>
+</div></div>
 <img vspace="180">
 
 ---

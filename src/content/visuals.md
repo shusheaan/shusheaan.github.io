@@ -4,7 +4,7 @@ date: 2023-05-21T16:41:08-04:00
 draft: false
 ---
 
-![](../../images/alva/422.jpg)
+![](../../images/visuals/359.jpg)
 
 <div style='font-size: 15px' align='right'>
     "whatever happens, happens."<br>
@@ -14,6 +14,55 @@ draft: false
 
 <!--more-->
 
+
+---
+<!-- 911 -->
+<img vspace="180">
+<div align='center'><div style='width:100%;'>
+    <a href="#" data-featherlight="../../images/visuals/458.jpg">
+        ![](../../images/visuals/458.jpg)</a>
+</div></div>
+<div align='center'><div style='width:100%;'>
+    <a href="#" data-featherlight="../../images/visuals/459.jpg">
+        ![](../../images/visuals/459.jpg)</a>
+</div></div>
+<img vspace="180">
+
+---
+<!-- qufengyou -->
+<img vspace="180">
+<div align='center'><div style='width:60%;'>
+    <a href="#" data-featherlight="../../images/visuals/460.jpg">
+        ![](../../images/visuals/460.jpg)</a>
+</div></div>
+<img vspace="180">
+
+---
+<!-- m3 -->
+<img vspace="180">
+<div align='center'><div style='width:80%;'>
+    <a href="#" data-featherlight="../../images/visuals/457.jpg">
+        ![](../../images/visuals/457.jpg)</a>
+</div></div>
+<img vspace="180">
+
+---
+<!-- toronto -->
+<img vspace="180">
+<div align='center'><div style='width:60%;'>
+    <a href="#" data-featherlight="../../images/visuals/456.jpg">
+        ![](../../images/visuals/456.jpg)</a>
+</div></div>
+<img vspace="180">
+
+
+---
+<!-- me -->
+<img vspace="180">
+<div align='center'><div style='width:100%;'>
+    <a href="#" data-featherlight="../../images/alva/422.jpg">
+        ![](../../images/alva/422.jpg)</a>
+</div></div>
 <img vspace="180">
 
 ---
