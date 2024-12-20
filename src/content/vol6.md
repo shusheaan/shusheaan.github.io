@@ -23,7 +23,7 @@ draft: false
 
 <img vspace="60">
 <div align='center'><div style='width:96%;'>
-<div style='font-size: 12px; font-family: didot, serif' align='center'>
+<div style='font-size: 10px' align='center'>
     <br> <br> <br>
     <b>
     a collection of my fav licks and tracks <br>

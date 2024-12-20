@@ -19,22 +19,9 @@ draft: false
 ---
 <!-- 999 -->
 <img vspace="180">
-<div align='center'><div style='width:70%;'>
+<div align='center'><div style='width:80%;'>
     <a href="#" data-featherlight="../../images/visuals/999.jpg">
         ![](../../images/visuals/999.jpg)</a>
-</div></div>
-<img vspace="180">
-
----
-<!-- shakki -->
-<img vspace="180">
-<div align='left'><div style='width:40%;'>
-    <a href="#" data-featherlight="../../images/visuals/451.jpg">
-        ![](../../images/visuals/451.jpg)</a>
-</div></div>
-<div align='right'><div style='width:60%;'>
-    <a href="#" data-featherlight="../../images/visuals/4502.jpg">
-        ![](../../images/visuals/4502.jpg)</a>
 </div></div>
 <img vspace="180">
 
