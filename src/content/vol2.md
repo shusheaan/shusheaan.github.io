@@ -17,15 +17,6 @@ draft: false
 <img vspace="180">
 
 ---
-<!-- 999 -->
-<img vspace="180">
-<div align='center'><div style='width:80%;'>
-    <a href="#" data-featherlight="../../images/visuals/999.jpg">
-        ![](../../images/visuals/999.jpg)</a>
-</div></div>
-<img vspace="180">
-
----
 <!-- amy -->
 <img vspace="180">
 <div align='center'><div style='width:65%;'>
@@ -33,21 +24,6 @@ draft: false
         ![](../../images/visuals/399.jpg)</a>
 </div></div>
 <img vspace="180">
-
----
-<!-- zijie -->
-<img vspace="180">
-<div align='left'><div style='width:100%;'>
-    <a href="#" data-featherlight="../../images/visuals/452.jpg">
-        ![](../../images/visuals/452.jpg)</a>
-</div></div>
-<img vspace="120">
-<div align='right'><div style='width:77.7%;'>
-    <a href="#" data-featherlight="../../images/visuals/454.jpg">
-        ![](../../images/visuals/454.jpg)</a>
-</div></div>
-<img vspace="180">
-
 
 ---
 <!-- shirley fells -->
@@ -151,7 +127,6 @@ draft: false
 </div></div>
 <img vspace="180">
 
-
 ---
 <!-- nian -->
 <img vspace="180">
@@ -173,6 +148,21 @@ draft: false
         ![](../../images/visuals/363.jpg)</a>
 </div></div>
 <img vspace="180">
+
+---
+<!-- zijie -->
+<img vspace="180">
+<div align='left'><div style='width:100%;'>
+    <a href="#" data-featherlight="../../images/visuals/452.jpg">
+        ![](../../images/visuals/452.jpg)</a>
+</div></div>
+<img vspace="120">
+<div align='right'><div style='width:77.7%;'>
+    <a href="#" data-featherlight="../../images/visuals/454.jpg">
+        ![](../../images/visuals/454.jpg)</a>
+</div></div>
+<img vspace="180">
+
 
 ---
 <!-- bin xinyu -->
@@ -203,7 +193,6 @@ draft: false
     "california dreamin'" by the mamas and the papas<br>
 </div>
 <img vspace="180">
-
 
 ---
 <!-- tong -->
@@ -279,16 +268,11 @@ draft: false
 <img vspace="180">
 
 ---
-<!-- david alina -->
+<!-- 999 -->
 <img vspace="180">
-<div align='center'><div style='width:70%;'>
-    <a href="#" data-featherlight="../../images/visuals/252.jpg">
-        ![](../../images/visuals/252_min.jpeg)</a>
-</div></div>
-<img vspace="45">
-<div align='center'><div style='width:100%;'>
-    <a href="#" data-featherlight="../../images/visuals/289.jpg">
-        ![](../../images/visuals/289_min.jpg)</a>
+<div align='center'><div style='width:80%;'>
+    <a href="#" data-featherlight="../../images/visuals/999.jpg">
+        ![](../../images/visuals/999.jpg)</a>
 </div></div>
 <img vspace="180">
 <img vspace="180">
