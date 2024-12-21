@@ -27,8 +27,8 @@ draft: false
     <br> <br> <br>
     <b>
     a collection of my fav licks and tracks <br>
-    with highly simplified notes on chords and scales <br>
-    only enough to let me recall the way i play them <br>
+    with simplified notes for chords and scales <br>
+    only enough for me to recall the way i play them <br>
     most of the time, due to lack of official sheets <br>
     i create my own versions by ear <br>
     <br> <br> <br>
@@ -41,6 +41,11 @@ draft: false
 <!-- https://www.youtube.com/watch?v=RLH0FTBRuyo -->
 
 <img vspace="30">
+<div align='center'><div style='width:24%;'>
+    <a href="#" data-featherlight="../../images/tunes/drown2.jpg">
+        ![](../../images/tunes/drown2.jpg)</a>
+<img vspace="20">
+</div>
 <div align='center'><div style='width:96%;'>
     <a href="#" data-featherlight="../../images/tunes/drown.jpg">
         ![](../../images/tunes/drown.jpg)</a>
