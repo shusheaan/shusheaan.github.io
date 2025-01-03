@@ -43,9 +43,9 @@ draft: false
 <img vspace="90">
 
 ---
-### prep (speedrun)
+### pre-flight (speedrun)
 
-- parking brake pulled up
+- cold-dark startup, parking brake pulled up
 - **elec**: battery on, ground power both on, left pump on, gpu start, ife/pass seats on, cabin/utility on
 - **overhead**: adiru on, emer lights on and case closed, window heat all on, hydraulic elec off, all pumps off, pass sign auto
 - **lights and ac**: nav lights on, logo lights on for nights, check packs and bleed all auto/on
@@ -199,6 +199,13 @@ draft: false
     <br>
     so fly! <br>
 </div>
+<img vspace="90">
+
+
+---
+<img vspace="90">
+### checklists
+<embed src="../../images/B77W/checklist.pdf" width="100%" height="1000" type="application/pdf">
 <img vspace="90">
 
 ---
