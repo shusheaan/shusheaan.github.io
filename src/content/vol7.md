@@ -21,8 +21,8 @@ draft: false
 <!-- cd -->
 <img vspace="90">
 <div align='certer'><div style='width:100%;'>
-    <a href="#" data-featherlight="../../images/B77W/1.jpg">
-        ![](../../images/B77W/1.jpg)</a>
+    <a href="#" data-featherlight="../../images/B77W/1-1.jpg">
+        ![](../../images/B77W/1-1.jpg)</a>
 </div></div>
 <img vspace="45">
 <div align='center'><div style='width:96%;'>
@@ -30,15 +30,25 @@ draft: false
     <b>
     a boeing 777-300er waiting for the irs to align and major systems to start up <br>
     (indicated by the blacked out pfd and nd) <br>
-    <br>
+</div>
+</div></div>
+<img vspace="45">
+<div align='certer'><div style='width:100%;'>
+    <a href="#" data-featherlight="../../images/B77W/2-1.jpg">
+        ![](../../images/B77W/2-1.jpg)</a>
+</div></div>
+<img vspace="45">
+<div align='center'><div style='width:96%;'>
+<div style='font-size: 10px' align='center'>
+    <b>
     this vol is a very brief note on my speedrun routine flights on msfs + pmdg b77w <br>
     and a small selected collection of my fav shoots <br>
 </div>
 </div></div>
 <img vspace="45">
 <div align='certer'><div style='width:100%;'>
-    <a href="#" data-featherlight="../../images/B77W/2.jpg">
-        ![](../../images/B77W/2.jpg)</a>
+    <a href="#" data-featherlight="../../images/B77W/2-3.jpg">
+        ![](../../images/B77W/2-3.jpg)</a>
 </div></div>
 <img vspace="90">
 
