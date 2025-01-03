@@ -28,11 +28,11 @@ draft: false
 <div align='center'><div style='width:96%;'>
 <div style='font-size: 10px' align='center'>
     <b>
-    a boeing 777-300er waiting for the irs to align and major system to start up <br>
-    (as indicated by the blacked out primary-flight-display and navigation-display) <br>
+    a boeing 777-300er waiting for the irs to align and major systems to start up <br>
+    (indicated by the blacked out pfd and nd) <br>
     <br>
     this vol is a very brief note on my speedrun routine flights on msfs + pmdg b77w <br>
-    and a tiny selected collection of my fav shoots <br>
+    and a small selected collection of my fav shoots <br>
 </div>
 </div></div>
 <img vspace="45">
@@ -103,8 +103,21 @@ draft: false
 <!-- fly -->
 <img vspace="90">
 <div align='certer'><div style='width:100%;'>
-    <a href="#" data-featherlight="../../images/B77W/6.jpg">
-        ![](../../images/B77W/6.jpg)</a>
+    <a href="#" data-featherlight="../../images/B77W/6-1.jpg">
+        ![](../../images/B77W/6-1.jpg)</a>
+</div></div>
+<img vspace="45">
+<div align='center'><div style='width:96%;'>
+<div style='font-size: 10px' align='center'>
+    <b>
+    klm b777-306er "yakushima" named after [屋久島](https://ja.wikipedia.org/wiki/%E5%B1%8B%E4%B9%85%E5%B3%B6) national park in japan <br>
+    registration number ["PH-BVF"](https://www.planespotters.net/airframe/boeing-777-300er-ph-bvf-klm-royal-dutch-airlines/e967vg), delivered in feb 2011
+</div>
+</div></div>
+<img vspace="45">
+<div align='certer'><div style='width:100%;'>
+    <a href="#" data-featherlight="../../images/B77W/7-1.jpg">
+        ![](../../images/B77W/7-1.jpg)</a>
 </div></div>
 <img vspace="45">
 <div align='center'><div style='width:96%;'>
@@ -116,8 +129,8 @@ draft: false
 </div></div>
 <img vspace="45">
 <div align='certer'><div style='width:100%;'>
-    <a href="#" data-featherlight="../../images/B77W/7.jpg">
-        ![](../../images/B77W/7.jpg)</a>
+    <a href="#" data-featherlight="../../images/B77W/9.jpg">
+        ![](../../images/B77W/9.jpg)</a>
 </div></div>
 <img vspace="90">
 
@@ -137,18 +150,24 @@ draft: false
 - boston and nyc region water fix
 
 ### controller mappings
-- left cross: views, rb+lb+cross: setup views
-    - up: overhead panel
-    - down: lower panel+throttle panel+eicas
-    - right: pfd+nd+eicas+fmc
-    - left: central/focus view for approach/landing
-- mouse right hold; left stick: moving around, scroll: zoom
-- rb hold (freelook lock): left stick moving, right stick view, u/d: height, l/r: zoom
-- left stick: control, press: toggle a/p and mute warning; right stick: mouse, press toggle
-- lt/rt: vertical stabilizer, y/b: throttle, a: cut throttle, x: brake, lb+rb: to/ga
-- rb+y/b: flaps, rb+a: toggle gear, rb+x: toggle parking brake
-- view: drone, controlled by two sticks and two triggers
-- controller-only operation still pending but possible
+- with mouse:
+    - left cross: views, rb+lb+cross: setup views
+        - up: overhead panel
+        - down: lower panel+throttle panel+eicas
+        - right: pfd+nd+eicas+fmc
+        - left: central/focus view for approach/landing
+    - mouse right hold; left stick: moving around, scroll: zoom
+    - rb hold (freelook lock): left stick moving, right stick view, u/d: height, l/r: zoom
+    - left stick: control, press: toggle a/p and mute warning; right stick: mouse, press toggle
+    - lt/rt: vertical stabilizer, y/b: throttle, a: cut throttle, x: brake, lb+rb: to/ga
+    - rb+y/b: flaps, rb+a: toggle gear, rb+x: toggle parking brake
+    - view: drone, controlled by two sticks and two triggers
+- controller-only
+    - left stick toggle interaction mode and cursor, x interact, a select, y/b rotate
+    - lb hold, left stick flight control, press ap disconnect, y/b throttle, x brake, a cut
+    - rb hold, y/b flaps, x parking brake, a gear
+    - rb hold, camera view, left stick moving, right stick viewing, u/d height, l/r zoom
+    - cross for views, rb+lb+cross save views
 
 
 ---
@@ -182,5 +201,95 @@ draft: false
 </div>
 <img vspace="90">
 
+---
+<!-- 738 -->
+<img vspace="90">
+<div style='font-size: 10px' align='center'>
+    <b>
+    PMDG 738 SOP, CTC SPEEDRUN <br>
+    QUICK REF FOR THE EXPERIENCED <br>
+    KEWR 168 04L - LLUND - BAYYS - KBOS ORW7 ILS 33L <br>
+    <br>
+    <br>
+    <br>
+    (FUEL LOAD 20%, 50% BY DEFAULT) <BR>
+    PARKING BRAKE - SET <BR>
+    BAT, STBY PWR, EMER EXIT LIGHTS - CLOSED <BR>
+    L FUEL PUMP - ON <BR>
+    APU - START <BR>
+    BASIC FMC, INIT/REF - SET <BR>
+    <BR>
+    (OVERHEAD AFTER APU START) <BR>
+    APU GEN - ON <BR>
+    PASSENGER SIGN - ON <BR>
+    WINDOW HEAT PANEL - ALL ON <BR>
+    HYD PUMPS - ALL ON <BR>
+    ENG 1 BLEED - OFF <BR>
+    APU BLEED - ON <BR>
+    PACKS AND VALVES - AUTO <BR>
+    FLT ALT - AS REQUIRED <BR>
+    LIGHTS (POS, LOGO, ANTI-COLL) - ON <BR>
+    2 IRS - NAV <BR>
+    FMC/MCP - SET <BR>
+    DOORS AND GROUND - CLEARED <BR>
+    (REQUEST DEP/PB CLEARANCE) <BR>
+    <BR>
+    (BEFORE START, AFTER PB) <BR>
+    PARKING BRAKE - SET <BR>
+    FUEL PUMPS - ON <BR>
+    PACKS - OFF <BR>
+    (START ENGINES) <BR>
+    <BR>
+    (OVERHEAD) <BR>
+    YAW DAMPER - ON <BR>
+    GEN 1 & 2 - ON <BR>
+    PACKS AND VALVES - AUTO <BR>
+    APU BLEED - OFF <BR>
+    ENG 1 BLEED - ON <BR>
+    APU - OFF <BR>
+    ENG START - CONT <BR>
+    TAXI LIGHTS - ON <BR>
+    RWY TURNOFF LIGHTS - ON <BR>
+    FLAPS - 5/AS REQUIRED <BR>
+    CTRLS - CHECKED <BR>
+    AUTOBRAKE - RTO <BR>
+    FMC/MCP - SET <BR>
+    (REQUEST TAXI CLEARANCE, TAXI) <BR>
+    <BR>
+    (LANDING LIGHTS ON, TAXI LIGHTS OFF, TAKEOFF) <BR>
+    (FLAPS UP, AUTOBRAKE AND GEAR OFF) <BR>
+    (A/P A/T ENGAGED, LNAV/VNAV) <BR>
+    (LANDING LIGHTS OFF PASSING 10000FT) <BR>
+    (ALTIMETER STD AFTER PASSING TA) <BR>
+    <BR>
+    (PREP FOR DESCENT/APPROACH) <BR>
+    MCP ALT - RESET TO 10000FT <BR>
+    FMC APP VREF - SET <BR>
+    LOC FREQ - STANDBY <BR>
+    ILS LOC HDG - SET <BR>
+    (VNAV PATH ENGAGED, AUTO-DESCENT) <BR>
+    <BR>
+    (HOLD AT 10000FT, REDUCE SPEED TO 250KT) <BR>
+    AUTOBRAKE - AS REQUIRED <BR>
+    ALTIMETER - LOCAL <BR>
+    LANDING LIGHTS - ON <BR>
+    LOC FREQ - ACTIVATED <BR>
+    LOC HDG - SET <BR>
+    FMC/MCP - CHECK <BR>
+    APP/CMD 2 - ARM <BR>
+    G/S ACTIVATED - GEAR DOWN <BR>
+    FLAPS - 30/AS REQUIRED <BR>
+    SPEED BRAKE - ARM <BR>
+    ENG START - CONT <BR>
+    (REQUEST LANDING CLEARANCE) <BR>
+    <BR>
+    (TAXI TO GATE, SHUTDOWN) <BR>
+    <br>
+    <br>
+    <br>
+    <br>
+</div>
+<img vspace="90">
 
+---
 <img vspace="180">
