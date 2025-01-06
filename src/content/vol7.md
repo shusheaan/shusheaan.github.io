@@ -398,12 +398,6 @@ draft: false
 
 
 ---
-<img vspace="90">
-### checklists
-<embed src="../../images/B77W/checklist.pdf" width="100%" height="1000" type="application/pdf">
-<img vspace="90">
-
----
 <!-- 738 -->
 <img vspace="90">
 <div style='font-size: 10px' align='center'>
