@@ -125,12 +125,53 @@
 <h3 id="pre-flight-speedrun">pre-flight (speedrun)</h3>
 
 <ul>
-<li>cold-dark startup, parking brake pulled up</li>
-<li><strong>elec</strong>: battery on, ground power both on, left pump on, gpu start, ife/pass seats on, cabin/utility on</li>
-<li><strong>overhead</strong>: adiru on, emer lights on and case closed, window heat all on, hydraulic elec off, all pumps off, pass sign auto</li>
-<li><strong>lights and ac</strong>: nav lights on, logo lights on for nights, check packs and bleed all auto/on</li>
-<li><strong>aircraft config</strong>: cdu select fuel, payload, doors, check wheel chock</li>
-<li><strong>fmc initialization</strong>:
+<li>get charts ready, check weather &amp; forecasts, cold-dark with gpu startup</li>
+<li>pre-flight checklist, start apu
+
+<ul>
+<li>parking brake &hellip; set</li>
+<li>adiru &hellip; on</li>
+<li>thrust asym comp (tac) &hellip; auto/on</li>
+<li>prim flight computers &hellip; auto, grd closed</li>
+<li>battery switch &hellip; on</li>
+<li>apu gen switch &hellip; on</li>
+<li>ife/pass seats &hellip; on</li>
+<li>cabin/utility &hellip; on</li>
+<li>pmy/secondary ext pwr &hellip; avail -&gt; on</li>
+<li>l+r bus tie switches &hellip; auto</li>
+<li>l+r gen ctrl &hellip; on</li>
+<li>apu &hellip; start -&gt; on</li>
+<li>fmc fs actions: fuel, payload, doors, wheel chocks &hellip; checked</li>
+</ul></li>
+<li>cockpit preparation checklist (after apu on)
+
+<ul>
+<li>nav lights &hellip; on</li>
+<li>exterior lights &hellip; as req (logo lights as night)</li>
+<li>cockpit lights &hellip; as req</li>
+<li>emerg exit lights &hellip; armed, grd closed</li>
+<li>pass oxigen &hellip; checked</li>
+<li>window heat &hellip; on</li>
+<li>pmy l+r eng hydr pumps &hellip; on</li>
+<li>pmy c1+c2 elec hydr pump &hellip; off</li>
+<li>l+c1+c2+r demand hydr pump &hellip; off</li>
+<li>pass sign &hellip; auto/on</li>
+<li>eec mode switches &hellip; norm</li>
+<li>engine start selectors &hellip; norm</li>
+<li>autostart switch &hellip; on</li>
+<li>l fwd fuel pump &hellip; on</li>
+<li>anti-ice &hellip; as req</li>
+<li>equip cooling &hellip; auto</li>
+<li>gasper switch &hellip; on</li>
+<li>recirc fans &hellip; on</li>
+<li>ftl deck temp cntrols &hellip; as req</li>
+<li>l+r pack ctrl switches &hellip; auto</li>
+<li>l+r trim air switches &hellip; on</li>
+<li>l-c-r isolation values &hellip; auto</li>
+<li>eng + apu bleed air &hellip; on/auto</li>
+<li>pressurization panel &hellip; set/auto</li>
+<li>atis &hellip; received</li>
+<li>fmc &hellip; init
 
 <ul>
 <li><code>INIT REF</code>: pos init copy pos, perf init zfw, default 10.0k reserved, crz fl210, ci 99, thrust lim to/clb</li>
@@ -138,11 +179,17 @@
 <li><code>VNAV</code>: clb check crz alt fl210, check 3 pages</li>
 <li><code>INIT REF - TAKEOFF</code>: flaps 15, confirm v1 vr v2 (check pfd), leave fmc at takeoff page, proceed to mcp for v2</li>
 </ul></li>
-<li><strong>mcp and efis</strong>
-
-<ul>
+<li>mcp: ias/v2 - hdg/rwy heading - alt 3000 &hellip; set</li>
 <li>efis: mins, check weather metar for alt/baro, wxr, arpt, data, pos, and terr on</li>
-<li>mcp: fd on, ar armed, v2 input, hdg runway heading, alt 3000, lnav/vnav armed, mcp set</li>
+<li>f/d &hellip; on</li>
+<li>a/t &hellip; armed</li>
+<li>lnav/vnav &hellip; armed</li>
+<li>flight instruments &hellip; set, no flags</li>
+<li>autobrake &hellip; rto</li>
+<li>comm/audio panel &hellip; set</li>
+<li>transponder/tcas &hellip; set/test</li>
+<li>aileron/rudder trim &hellip; set</li>
+<li>takeoff briefing &hellip; complete</li>
 </ul></li>
 <li><strong>release all ground/jetway connections, close door, remove wheel chocks, and request groud service, pushback on msfs atc</strong></li>
 </ul>
@@ -189,6 +236,7 @@
 <li><strong>manual landing</strong>: 1000ft ap disconnected, manual landing</li>
 <li><strong>after touchdown</strong>: reverse, max brake, 30kt exit, landing lights off, flaps up, spoiler up, rto off, wxr off, transpoder standby, apu start</li>
 <li><strong>shutdown</strong>: parking brake on, engine fuel cutoff, clear efis, mcp and fmc, lights off, elec off, hydraulic pumps all off, emer lights off, done</li>
+<li><strong>for detailed steps see checklists below</strong></li>
 </ul>
 
 <hr />

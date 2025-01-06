@@ -55,20 +55,65 @@ draft: false
 ---
 ### pre-flight (speedrun)
 
-- cold-dark startup, parking brake pulled up
-- **elec**: battery on, ground power both on, left pump on, gpu start, ife/pass seats on, cabin/utility on
-- **overhead**: adiru on, emer lights on and case closed, window heat all on, hydraulic elec off, all pumps off, pass sign auto
-- **lights and ac**: nav lights on, logo lights on for nights, check packs and bleed all auto/on
-- **aircraft config**: cdu select fuel, payload, doors, check wheel chock
-- **fmc initialization**:
-    - `INIT REF`: pos init copy pos, perf init zfw, default 10.0k reserved, crz fl210, ci 99, thrust lim to/clb
-    - `RTE`: request kjfkkbos001, activate, check in `DEP/ARR, ALTN, LEGS`
-    - `VNAV`: clb check crz alt fl210, check 3 pages
-    - `INIT REF - TAKEOFF`: flaps 15, confirm v1 vr v2 (check pfd), leave fmc at takeoff page, proceed to mcp for v2
-- **mcp and efis**
+- get charts ready, check weather & forecasts, cold-dark with gpu startup
+- pre-flight checklist, start apu
+    - parking brake ... set
+    - adiru ... on
+    - thrust asym comp (tac) ... auto/on
+    - prim flight computers ... auto, grd closed
+    - battery switch ... on
+    - apu gen switch ... on
+    - ife/pass seats ... on
+    - cabin/utility ... on
+    - pmy/secondary ext pwr ... avail -> on
+    - l+r bus tie switches ... auto
+    - l+r gen ctrl ... on
+    - apu ... start -> on
+    - fmc fs actions: fuel, payload, doors, wheel chocks ... checked
+- cockpit preparation checklist (after apu on)
+    - nav lights ... on
+    - exterior lights ... as req (logo lights as night)
+    - cockpit lights ... as req
+    - emerg exit lights ... armed, grd closed
+    - pass oxigen ... checked
+    - window heat ... on
+    - pmy l+r eng hydr pumps ... on
+    - pmy c1+c2 elec hydr pump ... off
+    - l+c1+c2+r demand hydr pump ... off
+    - pass sign ... auto/on
+    - eec mode switches ... norm
+    - engine start selectors ... norm
+    - autostart switch ... on
+    - l fwd fuel pump ... on
+    - anti-ice ... as req
+    - equip cooling ... auto
+    - gasper switch ... on
+    - recirc fans ... on
+    - ftl deck temp cntrols ... as req
+    - l+r pack ctrl switches ... auto
+    - l+r trim air switches ... on
+    - l-c-r isolation values ... auto
+    - eng + apu bleed air ... on/auto
+    - pressurization panel ... set/auto
+    - atis ... received
+    - fmc ... init
+        - `INIT REF`: pos init copy pos, perf init zfw, default 10.0k reserved, crz fl210, ci 99, thrust lim to/clb
+        - `RTE`: request kjfkkbos001, activate, check in `DEP/ARR, ALTN, LEGS`
+        - `VNAV`: clb check crz alt fl210, check 3 pages
+        - `INIT REF - TAKEOFF`: flaps 15, confirm v1 vr v2 (check pfd), leave fmc at takeoff page, proceed to mcp for v2
+    - mcp: ias/v2 - hdg/rwy heading - alt 3000 ... set
     - efis: mins, check weather metar for alt/baro, wxr, arpt, data, pos, and terr on
-    - mcp: fd on, ar armed, v2 input, hdg runway heading, alt 3000, lnav/vnav armed, mcp set
+    - f/d ... on
+    - a/t ... armed
+    - lnav/vnav ... armed
+    - flight instruments ... set, no flags
+    - autobrake ... rto
+    - comm/audio panel ... set
+    - transponder/tcas ... set/test
+    - aileron/rudder trim ... set
+    - takeoff briefing ... complete
 - **release all ground/jetway connections, close door, remove wheel chocks, and request groud service, pushback on msfs atc**
+
 
 ---
 <!-- fly -->
@@ -108,6 +153,8 @@ draft: false
 - **manual landing**: 1000ft ap disconnected, manual landing
 - **after touchdown**: reverse, max brake, 30kt exit, landing lights off, flaps up, spoiler up, rto off, wxr off, transpoder standby, apu start
 - **shutdown**: parking brake on, engine fuel cutoff, clear efis, mcp and fmc, lights off, elec off, hydraulic pumps all off, emer lights off, done
+- **for detailed steps see checklists below**
+ 
 
 ---
 <!-- fly -->
