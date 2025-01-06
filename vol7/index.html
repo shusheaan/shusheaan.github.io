@@ -125,14 +125,24 @@
 <h3 id="pre-flight-speedrun">pre-flight (speedrun)</h3>
 
 <ul>
-<li>get charts ready, check weather &amp; forecasts, cold-dark with gpu startup</li>
-<li>pre-flight checklist, start apu
+<li><strong>get charts ready, check weather &amp; forecasts, cold-dark with gpu startup</strong></li>
+<li><strong>pre-flight checklist</strong> (start apu)
 
 <ul>
 <li>parking brake &hellip; set</li>
+<li>overhead
+
+<ul>
+<li>upper left
+
+<ul>
 <li>adiru &hellip; on</li>
 <li>thrust asym comp (tac) &hellip; auto/on</li>
 <li>prim flight computers &hellip; auto, grd closed</li>
+</ul></li>
+<li>elec
+
+<ul>
 <li>battery switch &hellip; on</li>
 <li>apu gen switch &hellip; on</li>
 <li>ife/pass seats &hellip; on</li>
@@ -141,26 +151,38 @@
 <li>l+r bus tie switches &hellip; auto</li>
 <li>l+r gen ctrl &hellip; on</li>
 <li>apu &hellip; start -&gt; on</li>
+</ul></li>
+</ul></li>
 <li>fmc fs actions: fuel, payload, doors, wheel chocks &hellip; checked</li>
 </ul></li>
-<li>cockpit preparation checklist (after apu on)
+<li><strong>cockpit preparation checklist</strong> (after apu on)
 
 <ul>
-<li>nav lights &hellip; on</li>
-<li>exterior lights &hellip; as req (logo lights as night)</li>
-<li>cockpit lights &hellip; as req</li>
-<li>emerg exit lights &hellip; armed, grd closed</li>
+<li>overhead
+
+<ul>
 <li>pass oxigen &hellip; checked</li>
 <li>window heat &hellip; on</li>
+<li>hydr
+
+<ul>
 <li>pmy l+r eng hydr pumps &hellip; on</li>
 <li>pmy c1+c2 elec hydr pump &hellip; off</li>
 <li>l+c1+c2+r demand hydr pump &hellip; off</li>
+</ul></li>
 <li>pass sign &hellip; auto/on</li>
+<li>engine/fuel
+
+<ul>
 <li>eec mode switches &hellip; norm</li>
 <li>engine start selectors &hellip; norm</li>
 <li>autostart switch &hellip; on</li>
 <li>l fwd fuel pump &hellip; on</li>
+</ul></li>
 <li>anti-ice &hellip; as req</li>
+<li>ac
+
+<ul>
 <li>equip cooling &hellip; auto</li>
 <li>gasper switch &hellip; on</li>
 <li>recirc fans &hellip; on</li>
@@ -169,8 +191,18 @@
 <li>l+r trim air switches &hellip; on</li>
 <li>l-c-r isolation values &hellip; auto</li>
 <li>eng + apu bleed air &hellip; on/auto</li>
+</ul></li>
 <li>pressurization panel &hellip; set/auto</li>
-<li>atis &hellip; received</li>
+<li>lights
+
+<ul>
+<li>nav lights &hellip; on</li>
+<li>exterior lights &hellip; as req (logo lights as night)</li>
+<li>cockpit lights &hellip; as req</li>
+<li>emerg exit lights &hellip; armed, grd closed</li>
+</ul></li>
+</ul></li>
+<li>atis/metar &hellip; received</li>
 <li>fmc &hellip; init
 
 <ul>
@@ -190,8 +222,9 @@
 <li>transponder/tcas &hellip; set/test</li>
 <li>aileron/rudder trim &hellip; set</li>
 <li>takeoff briefing &hellip; complete</li>
+<li>parking brake &hellip; released</li>
 </ul></li>
-<li><strong>release all ground/jetway connections, close door, remove wheel chocks, and request groud service, pushback on msfs atc</strong></li>
+<li><em>request clearance, groud service, pushback on msfs atc</em></li>
 </ul>
 
 <hr />
@@ -223,20 +256,221 @@
 <h3 id="fly">fly</h3>
 
 <ul>
-<li><strong>engine start</strong>: all fuel pumps on, apu bleed on, engine start, n2 stable, fuel control run, 2/r first</li>
-<li><strong>apu shutdown</strong>: check engine gen and ac working on efis, apu off, hydraulic pumps all auto, elec pumps on</li>
-<li><strong>lights</strong>: beacon, strobe, taxi on, double check overhead</li>
-<li><strong>taxi</strong>: transponder standby, autobrake rto, flaps to 15, 30% throttle taxi, fctl check</li>
-<li><strong>takeoff</strong>: transpoder ta/ra, landing lights on, runway turnoff lights on, 50% thrust and to/ga engaged, ap engaged <code>THR REF | LNAV | VNAV SPD</code></li>
-<li><strong>climb</strong>: 250kt/10000, pass 10000 turn off landing lights and runway turnoff lights, pass 18000 baro std</li>
-<li><strong>before descent</strong>: set altitude to 10000ft (mcp msg warning), autopause and auto descent, mind speed, use spoiler/<code>V/S</code> if necessary</li>
-<li><strong>fmc/mcp</strong>: check approach page, confirm flaps and ref speed, check to/ga route and alt info, baro adjusted after 18000 based on metar</li>
-<li><strong>10000ft/250kt</strong>: landing/rt lights, reduce speed to 250kt-, manual speed/vs, hdg use if needed, runway otherwise, flaps down, arm <code>LOC</code> then <code>APP</code></li>
-<li><strong>final approach</strong>: flaps 30, speed confirmed, gear down, rto max/auto, spoiler armed, min confirmed, <code>LAND3, SPD | LOC (ROLLOUT) | G/S (FLARE)</code></li>
-<li><strong>manual landing</strong>: 1000ft ap disconnected, manual landing</li>
-<li><strong>after touchdown</strong>: reverse, max brake, 30kt exit, landing lights off, flaps up, spoiler up, rto off, wxr off, transpoder standby, apu start</li>
-<li><strong>shutdown</strong>: parking brake on, engine fuel cutoff, clear efis, mcp and fmc, lights off, elec off, hydraulic pumps all off, emer lights off, done</li>
-<li><strong>for detailed steps see checklists below</strong></li>
+<li><strong>before start checklist</strong>
+
+<ul>
+<li>fs actions
+
+<ul>
+<li>doors &hellip; closed</li>
+<li>ground equipment, jetway connection &hellip; disconnected</li>
+<li>wheel chocks &hellip; removed</li>
+</ul></li>
+<li>hydr
+
+<ul>
+<li>l+r elec demand hydr pumps &hellip; auto</li>
+<li>pmy c1+c2 elec hydr pumps &hellip; on</li>
+<li>c1+c2 air demand hydr pumps &hellip; auto</li>
+</ul></li>
+<li>fuel pumps
+
+<ul>
+<li>l+r fuel pumps &hellip; all on</li>
+<li>l+r center fuel pumps &hellip; as req</li>
+</ul></li>
+<li>lights
+
+<ul>
+<li>pass signs &hellip; on</li>
+<li>beacon &hellip; on</li>
+</ul></li>
+<li>recall &hellip; push</li>
+</ul></li>
+<li><strong>engine start checklist</strong>
+
+<ul>
+<li>engine area &hellip; clear</li>
+<li>sec display unit &hellip; eng</li>
+<li>engine start &hellip; announce</li>
+<li>apu bleed &hellip; on, checked</li>
+<li>engine 1/l start selector &hellip; start</li>
+<li>engine 1/l fuel control lever &hellip; run after n2 stable</li>
+<li>engine 2/r start selector &hellip; start</li>
+<li>engine 2/r fuel control lever &hellip; run after n2 stable</li>
+</ul></li>
+<li><strong>before taxi checklist</strong>
+
+<ul>
+<li>overhead
+
+<ul>
+<li>eng/apu
+
+<ul>
+<li>l/r gen &hellip; on</li>
+<li>elec and ac systems &hellip; checked on efis</li>
+<li>apu &hellip; off</li>
+<li>eng start selectors &hellip; norm</li>
+</ul></li>
+<li>ac
+
+<ul>
+<li>l/r pack control switches &hellip; auto (lights off)</li>
+<li>l-c-r isolation valves &hellip; auto (lights off)</li>
+<li>eng bleed air &hellip; on (lights off)</li>
+</ul></li>
+<li>lights
+
+<ul>
+<li>taxi lights &hellip; on</li>
+<li>rwy turn-off lights &hellip; on</li>
+</ul></li>
+</ul></li>
+<li>controls
+
+<ul>
+<li>flaps &hellip; set 15 confirmed</li>
+<li>stabilizer trim &hellip; set __ units</li>
+<li>flight controls &hellip; checked</li>
+</ul></li>
+<li>transponder &hellip; standby</li>
+<li>recall &hellip; checked</li>
+<li>lower display unit &hellip; off</li>
+<li><em>request taxi clearance, 30% throttle taxi, max 30kts</em></li>
+</ul></li>
+<li><strong>before takeoff checklist</strong>
+
+<ul>
+<li>parking brake &hellip; set</li>
+<li>cabin lights &hellip; as req</li>
+<li>fmc takeoff &hellip; v1, vr, v2 confirmed</li>
+<li>mcp v2 ias &hellip; confirmed</li>
+<li>f/d, a/t, lnav/vnav &hellip; on/armed</li>
+<li>autobrake &hellip; rto</li>
+<li><em>request taxi clearance, get on runway</em></li>
+<li>transponder &hellip; ta/ra</li>
+<li>tfc &hellip; on</li>
+<li>landing lights &hellip; on</li>
+<li>strobe light &hellip; on</li>
+<li><em>clear for takeoff, 50% thrust and stable, to/ga engaged, standard takeoff procedure</em></li>
+</ul></li>
+<li><strong>after takeoff checklist</strong>
+
+<ul>
+<li>positive rate of climb &hellip; gear up</li>
+<li>flaps &hellip; up gradually</li>
+<li>auto-brake &hellip; off</li>
+<li>lights
+
+<ul>
+<li>taxi-light &hellip; off</li>
+<li>rwy turn-off lights &hellip; off</li>
+<li>cabin lights &hellip; as req</li>
+</ul></li>
+<li>ap &hellip; engaged <code>THR REF | LNAV | VNAV SPD</code></li>
+<li>mcp &hellip; as req by atc</li>
+<li>below 10000ft &hellip; max 250kias</li>
+<li>passing 10000ft, landing lights &hellip; off</li>
+<li>altimeter passing ta/18000ft &hellip; set std/29.92</li>
+<li>fmc &hellip; <code>PROG</code></li>
+</ul></li>
+<li><strong>cruise &amp; descent prep</strong>
+
+<ul>
+<li>engine &amp; instruments &hellip; monitor</li>
+<li>fuel quantity &hellip; checked</li>
+<li>atis/airport info/weather/forecasts &hellip; checked</li>
+<li>mcp alt &hellip; reset to 10000ft</li>
+<li>fmc appr speed ref &hellip; set and confirmed</li>
+<li>localizer freq &hellip; checked</li>
+</ul></li>
+<li><strong>descent</strong>
+
+<ul>
+<li>anti-ice &hellip; as req</li>
+<li>landing alt &hellip; checked</li>
+<li>altimeter &hellip; checked</li>
+<li>radio alt / baro min &hellip; checked</li>
+<li>mcp &hellip; check speed, use spoiler/<code>V/S</code> if necessary</li>
+<li>fmc &hellip; check approach page, confirm flaps and ref speed, check to/ga route and alt info</li>
+<li>altimeter passing ta/18000ft &hellip; local/metar</li>
+<li>ias below 10000ft &hellip; max 250kias</li>
+<li>below 10000ft, landing lights &hellip; on</li>
+<li>mcp &hellip; manual ias/vs, hdg req by atc</li>
+</ul></li>
+<li><strong>approach checklist</strong>
+
+<ul>
+<li>loc freq/course &hellip; checked</li>
+<li>ap &hellip; arm <code>LOC</code> then <code>APP</code></li>
+<li><code>AP G/S</code> alive &hellip; gear down</li>
+<li>flaps &hellip; down gradually as req, full 30 before final app, landing flaps checked</li>
+<li>speedbrake &hellip; armed</li>
+<li>auto brake &hellip; max/auto</li>
+</ul></li>
+<li><strong>landing checklist</strong>
+
+<ul>
+<li>ga alt &hellip; set</li>
+<li>rwy turn-off lights &hellip; on</li>
+<li>landing gear &hellip; down checked</li>
+<li>ap &amp; at &hellip;  <code>LAND3, SPD | LOC (ROLLOUT) | G/S (FLARE)</code>, 1000ft ap disconnected, manual landing</li>
+<li><em>after touchdown</em></li>
+<li>reverse &hellip; engaged, off below 60kias</li>
+<li>max brake, 30kt exit</li>
+<li>ap &amp; at &hellip; off</li>
+<li>wxr &hellip; off</li>
+<li>transponder &hellip; standby</li>
+<li>flaps &hellip; up</li>
+<li>speed brakes &hellip; up</li>
+<li>auto brake &hellip; off</li>
+<li>lights
+
+<ul>
+<li>landing lights &hellip; off</li>
+<li>strobe lights &hellip; off</li>
+<li>taxi lights &hellip; on</li>
+<li>cabin lights &hellip; as req</li>
+<li>rwy turn-off lights &hellip; off</li>
+</ul></li>
+<li>anti-ice &hellip; as req</li>
+<li>apu &hellip; start</li>
+</ul></li>
+<li><strong>shutdown checklist</strong>:
+
+<ul>
+<li>parking brake &hellip; set</li>
+<li>engine fuel control levers &hellip; cutoff</li>
+<li>groud service/operations &hellip; as req</li>
+<li>fmc fs actions &hellip; doors</li>
+<li>overhead
+
+<ul>
+<li>lights
+
+<ul>
+<li>pass signs &hellip; off</li>
+<li>beacon light &hellip; off</li>
+<li>logo lights &hellip; as req</li>
+</ul></li>
+<li>hydr
+
+<ul>
+<li>c1+c2 air demand hydr pumps &hellip; off</li>
+<li>l+r elec demand hydr pumps &hellip; off</li>
+<li>pmy c1+c2 elec hydr pumps &hellip; off</li>
+</ul></li>
+<li>fuel pumps &hellip; all off</li>
+<li>l+r pack controls &hellip; off</li>
+</ul></li>
+<li>f/d &hellip; off</li>
+<li>mcp and fmc &hellip; reset</li>
+<li>adiru &hellip; off</li>
+<li>emerg exit lights &hellip; off</li>
+<li>apu &hellip; off</li>
+<li>battery &hellip; off</li>
+</ul></li>
 </ul>
 
 <hr />

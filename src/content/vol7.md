@@ -54,48 +54,55 @@ draft: false
 
 ---
 ### pre-flight (speedrun)
-
-- get charts ready, check weather & forecasts, cold-dark with gpu startup
-- pre-flight checklist, start apu
+- **get charts ready, check weather & forecasts, cold-dark with gpu startup**
+- **pre-flight checklist** (start apu)
     - parking brake ... set
-    - adiru ... on
-    - thrust asym comp (tac) ... auto/on
-    - prim flight computers ... auto, grd closed
-    - battery switch ... on
-    - apu gen switch ... on
-    - ife/pass seats ... on
-    - cabin/utility ... on
-    - pmy/secondary ext pwr ... avail -> on
-    - l+r bus tie switches ... auto
-    - l+r gen ctrl ... on
-    - apu ... start -> on
+    - overhead
+        - upper left
+            - adiru ... on
+            - thrust asym comp (tac) ... auto/on
+            - prim flight computers ... auto, grd closed
+        - elec
+            - battery switch ... on
+            - apu gen switch ... on
+            - ife/pass seats ... on
+            - cabin/utility ... on
+            - pmy/secondary ext pwr ... avail -> on
+            - l+r bus tie switches ... auto
+            - l+r gen ctrl ... on
+            - apu ... start -> on
     - fmc fs actions: fuel, payload, doors, wheel chocks ... checked
-- cockpit preparation checklist (after apu on)
-    - nav lights ... on
-    - exterior lights ... as req (logo lights as night)
-    - cockpit lights ... as req
-    - emerg exit lights ... armed, grd closed
-    - pass oxigen ... checked
-    - window heat ... on
-    - pmy l+r eng hydr pumps ... on
-    - pmy c1+c2 elec hydr pump ... off
-    - l+c1+c2+r demand hydr pump ... off
-    - pass sign ... auto/on
-    - eec mode switches ... norm
-    - engine start selectors ... norm
-    - autostart switch ... on
-    - l fwd fuel pump ... on
-    - anti-ice ... as req
-    - equip cooling ... auto
-    - gasper switch ... on
-    - recirc fans ... on
-    - ftl deck temp cntrols ... as req
-    - l+r pack ctrl switches ... auto
-    - l+r trim air switches ... on
-    - l-c-r isolation values ... auto
-    - eng + apu bleed air ... on/auto
-    - pressurization panel ... set/auto
-    - atis ... received
+- **cockpit preparation checklist** (after apu on)
+    - overhead
+        - pass oxigen ... checked
+        - window heat ... on
+        - hydr
+            - pmy l+r eng hydr pumps ... on
+            - pmy c1+c2 elec hydr pump ... off
+            - l+c1+c2+r demand hydr pump ... off
+        - pass sign ... auto/on
+        - engine/fuel
+            - eec mode switches ... norm
+            - engine start selectors ... norm
+            - autostart switch ... on
+            - l fwd fuel pump ... on
+        - anti-ice ... as req
+        - ac
+            - equip cooling ... auto
+            - gasper switch ... on
+            - recirc fans ... on
+            - ftl deck temp cntrols ... as req
+            - l+r pack ctrl switches ... auto
+            - l+r trim air switches ... on
+            - l-c-r isolation values ... auto
+            - eng + apu bleed air ... on/auto
+        - pressurization panel ... set/auto
+        - lights
+            - nav lights ... on
+            - exterior lights ... as req (logo lights as night)
+            - cockpit lights ... as req
+            - emerg exit lights ... armed, grd closed
+    - atis/metar ... received
     - fmc ... init
         - `INIT REF`: pos init copy pos, perf init zfw, default 10.0k reserved, crz fl210, ci 99, thrust lim to/clb
         - `RTE`: request kjfkkbos001, activate, check in `DEP/ARR, ALTN, LEGS`
@@ -112,7 +119,8 @@ draft: false
     - transponder/tcas ... set/test
     - aileron/rudder trim ... set
     - takeoff briefing ... complete
-- **release all ground/jetway connections, close door, remove wheel chocks, and request groud service, pushback on msfs atc**
+    - parking brake ... released
+- *request clearance, groud service, pushback on msfs atc*
 
 
 ---
@@ -140,20 +148,150 @@ draft: false
 
 ---
 ### fly
-- **engine start**: all fuel pumps on, apu bleed on, engine start, n2 stable, fuel control run, 2/r first
-- **apu shutdown**: check engine gen and ac working on efis, apu off, hydraulic pumps all auto, elec pumps on
-- **lights**: beacon, strobe, taxi on, double check overhead
-- **taxi**: transponder standby, autobrake rto, flaps to 15, 30% throttle taxi, fctl check
-- **takeoff**: transpoder ta/ra, landing lights on, runway turnoff lights on, 50% thrust and to/ga engaged, ap engaged `THR REF | LNAV | VNAV SPD`
-- **climb**: 250kt/10000, pass 10000 turn off landing lights and runway turnoff lights, pass 18000 baro std
-- **before descent**: set altitude to 10000ft (mcp msg warning), autopause and auto descent, mind speed, use spoiler/`V/S` if necessary
-- **fmc/mcp**: check approach page, confirm flaps and ref speed, check to/ga route and alt info, baro adjusted after 18000 based on metar
-- **10000ft/250kt**: landing/rt lights, reduce speed to 250kt-, manual speed/vs, hdg use if needed, runway otherwise, flaps down, arm `LOC` then `APP`
-- **final approach**: flaps 30, speed confirmed, gear down, rto max/auto, spoiler armed, min confirmed, `LAND3, SPD | LOC (ROLLOUT) | G/S (FLARE)`
-- **manual landing**: 1000ft ap disconnected, manual landing
-- **after touchdown**: reverse, max brake, 30kt exit, landing lights off, flaps up, spoiler up, rto off, wxr off, transpoder standby, apu start
-- **shutdown**: parking brake on, engine fuel cutoff, clear efis, mcp and fmc, lights off, elec off, hydraulic pumps all off, emer lights off, done
-- **for detailed steps see checklists below**
+
+- **before start checklist**
+    - fs actions
+        - doors ... closed
+        - ground equipment, jetway connection ... disconnected
+        - wheel chocks ... removed
+    - hydr
+        - l+r elec demand hydr pumps ... auto
+        - pmy c1+c2 elec hydr pumps ... on
+        - c1+c2 air demand hydr pumps ... auto
+    - fuel pumps
+        - l+r fuel pumps ... all on
+        - l+r center fuel pumps ... as req
+    - lights
+        - pass signs ... on
+        - beacon ... on
+    - recall ... push
+- **engine start checklist**
+    - engine area ... clear
+    - sec display unit ... eng
+    - engine start ... announce
+    - apu bleed ... on, checked
+    - engine 1/l start selector ... start
+    - engine 1/l fuel control lever ... run after n2 stable
+    - engine 2/r start selector ... start
+    - engine 2/r fuel control lever ... run after n2 stable
+- **before taxi checklist**
+    - overhead
+        - eng/apu
+            - l/r gen ... on
+            - elec and ac systems ... checked on efis
+            - apu ... off
+            - eng start selectors ... norm
+        - ac
+            - l/r pack control switches ... auto (lights off)
+            - l-c-r isolation valves ... auto (lights off)
+            - eng bleed air ... on (lights off)
+        - lights
+            - taxi lights ... on
+            - rwy turn-off lights ... on
+    - controls
+        - flaps ... set 15 confirmed
+        - stabilizer trim ... set __ units
+        - flight controls ... checked
+    - transponder ... standby
+    - recall ... checked
+    - lower display unit ... off
+    - *request taxi clearance, 30% throttle taxi, max 30kts*
+- **before takeoff checklist**
+    - parking brake ... set
+    - cabin lights ... as req
+    - fmc takeoff ... v1, vr, v2 confirmed
+    - mcp v2 ias ... confirmed
+    - f/d, a/t, lnav/vnav ... on/armed
+    - autobrake ... rto
+    - *request taxi clearance, get on runway*
+    - transponder ... ta/ra
+    - tfc ... on
+    - landing lights ... on
+    - strobe light ... on
+    - *clear for takeoff, 50% thrust and stable, to/ga engaged, standard takeoff procedure*
+- **after takeoff checklist**
+    - positive rate of climb ... gear up
+    - flaps ... up gradually
+    - auto-brake ... off
+    - lights
+        - taxi-light ... off
+        - rwy turn-off lights ... off
+        - cabin lights ... as req
+    - ap ... engaged `THR REF | LNAV | VNAV SPD`
+    - mcp ... as req by atc
+    - below 10000ft ... max 250kias
+    - passing 10000ft, landing lights ... off
+    - altimeter passing ta/18000ft ... set std/29.92
+    - fmc ... `PROG` 
+- **cruise & descent prep**
+    - engine & instruments ... monitor
+    - fuel quantity ... checked
+    - atis/airport info/weather/forecasts ... checked
+    - mcp alt ... reset to 10000ft
+    - fmc appr speed ref ... set and confirmed
+    - localizer freq ... checked
+- **descent**
+    - anti-ice ... as req
+    - landing alt ... checked
+    - altimeter ... checked
+    - radio alt / baro min ... checked
+    - mcp ... check speed, use spoiler/`V/S` if necessary
+    - fmc ... check approach page, confirm flaps and ref speed, check to/ga route and alt info
+    - altimeter passing ta/18000ft ... local/metar
+    - ias below 10000ft ... max 250kias
+    - below 10000ft, landing lights ... on
+    - mcp ... manual ias/vs, hdg req by atc
+- **approach checklist**
+    - loc freq/course ... checked
+    - ap ... arm `LOC` then `APP`
+    - `AP G/S` alive ... gear down
+    - flaps ... down gradually as req, full 30 before final app, landing flaps checked
+    - speedbrake ... armed
+    - auto brake ... max/auto
+- **landing checklist**
+    - ga alt ... set
+    - rwy turn-off lights ... on
+    - landing gear ... down checked
+    - ap & at ...  `LAND3, SPD | LOC (ROLLOUT) | G/S (FLARE)`, 1000ft ap disconnected, manual landing
+    - *after touchdown*
+    - reverse ... engaged, off below 60kias
+    - max brake, 30kt exit
+    - ap & at ... off
+    - wxr ... off
+    - transponder ... standby
+    - flaps ... up
+    - speed brakes ... up
+    - auto brake ... off
+    - lights
+        - landing lights ... off
+        - strobe lights ... off
+        - taxi lights ... on
+        - cabin lights ... as req
+        - rwy turn-off lights ... off
+    - anti-ice ... as req
+    - apu ... start
+- **shutdown checklist**: 
+    - parking brake ... set
+    - engine fuel control levers ... cutoff
+    - groud service/operations ... as req
+    - fmc fs actions ... doors
+    - overhead
+        - lights
+            - pass signs ... off
+            - beacon light ... off
+            - logo lights ... as req
+        - hydr
+            - c1+c2 air demand hydr pumps ... off
+            - l+r elec demand hydr pumps ... off
+            - pmy c1+c2 elec hydr pumps ... off
+        - fuel pumps ... all off
+        - l+r pack controls ... off
+    - f/d ... off
+    - mcp and fmc ... reset
+    - adiru ... off
+    - emerg exit lights ... off
+    - apu ... off
+    - battery ... off
  
 
 ---
