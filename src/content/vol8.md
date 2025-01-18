@@ -23,9 +23,8 @@ draft: false
     <b>
     "anya" <i>(adaptive neoro-symbolic ai)</i> <br>
     is my multi-transformer reinforcement-learning project <br>
-    <br>
-    it's designed for autonomous multi-step thinking and reasoning <br>
-    in theorem proving and problem solving in [quantum field theory](https://en.wikipedia.org/wiki/Quantum_field_theory) <br>
+    for autonomous multi-step thinking and reasoning <br>
+    in theorem proving and problem solving in [qft](https://en.wikipedia.org/wiki/Quantum_field_theory) <br>
     <br>
     source code and test results: [github](https://github.com/shusheaan/anya) <br>
     <br>
