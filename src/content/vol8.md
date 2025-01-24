@@ -22,11 +22,8 @@ draft: false
 <div style='font-size: 11px' align='center'>
     <b>
     "anya" <i>(adaptive neuro-symbolic ai)</i> <br>
-    is my multi-transformer reinforcement-learning project <br>
-    for autonomous multi-step thinking and reasoning <br>
-    in theorem proving and problem solving in [qft](https://en.wikipedia.org/wiki/Quantum_field_theory) <br>
-    <br>
-    source code and test results: [github](https://github.com/shusheaan/anya) <br>
+    is designed for autonomous multi-step  <br>
+    theorem proving and verification in [bsm](https://en.wikipedia.org/wiki/Physics_beyond_the_Standard_Model) <br>
     <br>
     p.s. [anya forger](https://spy-x-family.fandom.com/wiki/Anya_Forger) is a character from [spy x family](https://en.wikipedia.org/wiki/Spy_%C3%97_Family) <br>
     a 5-year-old telepath with pink hair <br>
