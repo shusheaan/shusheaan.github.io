@@ -270,7 +270,7 @@ draft: false
         - rwy turn-off lights ... off
     - anti-ice ... as req
     - apu ... start
-- **shutdown checklist**: 
+- **shutdown checklist**
     - parking brake ... set
     - engine fuel control levers ... cutoff
     - groud service/operations ... as req

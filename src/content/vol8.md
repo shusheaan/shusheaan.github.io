@@ -25,10 +25,6 @@ draft: false
     is designed for autonomous multi-step  <br>
     theorem proving and verification in [bsm](https://en.wikipedia.org/wiki/Physics_beyond_the_Standard_Model) <br>
     <br>
-    p.s. [anya forger](https://spy-x-family.fandom.com/wiki/Anya_Forger) is a character from [spy x family](https://en.wikipedia.org/wiki/Spy_%C3%97_Family) <br>
-    a 5-year-old telepath with pink hair <br>
-    she's incredibly [bad at studying](https://spy-x-family.fandom.com/wiki/Anya_Forger#Weaknesses) <br>
-    <br>
 </div>
 <img vspace="90">
 
