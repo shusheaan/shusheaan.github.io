@@ -17,6 +17,23 @@ draft: false
 <img vspace="180">
 
 ---
+<!-- anya -->
+<img vspace="180">
+<div align='center'><div style='width:100%;'>
+    <a href="#" data-featherlight="../../images/anya.jpg">
+        ![](../../images/anya.jpg)</a>
+</div></div>
+<img vspace="90">
+<div style='font-size: 11px' align='center'>
+    <b>
+    "anya" <i>(adaptive neuro-symbolic ai)</i> <br>
+    is designed for autonomous multi-step  <br>
+    theorem proving and verification in [bsm](https://en.wikipedia.org/wiki/Physics_beyond_the_Standard_Model) <br>
+    <br>
+</div>
+<img vspace="180">
+
+---
 <!-- 911 -->
 <img vspace="180">
 <div align='center'><div style='width:100%;'>
