@@ -127,14 +127,6 @@ draft: false
 </div></div>
 <img vspace="180">
 
----
-<!-- nian -->
-<img vspace="180">
-<div align='center'><div style='width:60%;'>
-    <a href="#" data-featherlight="../../images/visuals/395.jpg">
-        ![](../../images/visuals/395.jpg)</a>
-</div></div>
-<img vspace="180">
 
 ---
 <!-- kaiqi -->
@@ -194,14 +186,6 @@ draft: false
 </div>
 <img vspace="180">
 
----
-<!-- tong -->
-<img vspace="180">
-<div align='center'><div style='width:60%;'>
-    <a href="#" data-featherlight="../../images/visuals/356.jpg">
-        ![](../../images/visuals/356.jpg)</a>
-</div></div>
-<img vspace="180">
 
 ---
 <!-- xue -->
@@ -267,12 +251,3 @@ draft: false
 </div></div>
 <img vspace="180">
 
----
-<!-- 999 -->
-<img vspace="180">
-<div align='center'><div style='width:80%;'>
-    <a href="#" data-featherlight="../../images/visuals/999.jpg">
-        ![](../../images/visuals/999.jpg)</a>
-</div></div>
-<img vspace="180">
-<img vspace="180">

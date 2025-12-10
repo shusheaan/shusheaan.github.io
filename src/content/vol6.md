@@ -22,37 +22,38 @@ draft: false
 
 ### g/t ratings
 
-there are five levels in the g/t (good or trash) system that can be used in any critique:
+5 levels in the g/t (good or trash) system that can be used in any critique:
  
-- ★★★★★ : "GL (God-Level)"
-    - Part of the treasures of human civilization with unparallelly peak artistic values.
-    - Surpassing other similar works in all respects.
-    - Extremely pioneering and inspiring for the incoming works.
-    - The dedication and effort behind the scene was unimaginably tremendous, with the best taste of mankind.
-    - Has undergone meticulous polishing and scrutiny and can well stand the test of time - a truly eternal masterpiece.
-- ★★★★ : "G (Good)"
-    - Overall, not bad.
-    - Somewhat creative and special. There are obvious mediocrities, but nothing unacceptable.
-    - Due to commercial considerations or other limitations, a certain level of sacrifice was made in terms of artistry.
-    - Kind of pitiful not pushing to another level. Should have explored/developed more.
-    - Might still worth mentioning after years.
-- ★★★ : "T (Trash)"
-    - Mediocre in every aspect.
-    - Nothing stands out and shows lots of apparent shortcomings.
-    - Failed to break any expectations.
-    - A level that most people can achieve with a bit of commitment.
-    - Will be quickly forgotten and can be considered a complete waste of time.
-- ★★ : "AT (Absolute Trash)"
-    - Hilariously bad.
-    - No originality or artistic value of any kind. Has zero contribution to human kind.
-    - Creators were completely unprofessional and botched to cover it up.
-    - Usually full of plagiarized/poorly crafted elements.
-    - A failure in every way. A healthy lifestyle shouldn't contain any of it.
-- ★ : "AJ (Absolute Joke)"
-    - Seriously disgusting and offensive society-threatening shit.
-    - Nothing but a pathetic waste of the resources of human civilization.
-    - Might jeopardize existing works of art and have destructive impact on the industry.
-    - Anybody should avoid it at all costs.
+- ★★★★★ : "GL (god-level)"
+    - part of the treasures of human civilization with unparallelled peak artistic value.
+    - surpassing other similar works in all respects, textbook level work that needs to be studied carefully.
+    - extremely pioneering and inspiring for works to come, successfully exploring new possibilities or reaching the absolute perfection.
+    - the dedication and effort behind the scenes were unimaginably tremendous, reflecting the best taste of humankind.
+    - has undergone meticulous polishing and scrutiny and can easily stand the test of time - a truly eternal masterpiece.
+- ★★★★ : "G (good)"
+    - overall, not bad.
+    - somewhat creative and special. there are obvious mediocrities, but nothing unacceptable.
+    - due to commercial considerations or other limitations, a certain level of sacrifice was made in terms of artistry.
+    - kind of pitiful that it doesn't push to another level. should have explored/developed more.
+    - might still worth mentioning after years.
+- ★★★ : "T (trash)"
+    - mediocre in every way.
+    - nothing stands out and shows lots of apparent shortcomings.
+    - failed to break any expectations, everything is so boringly predictable.
+    - a level that most people can achieve with a bit of commitment.
+    - will be quickly forgotten and can be considered a complete waste of time.
+- ★★ : "AT (absolute trash)"
+    - hilariously bad, what a surprise that the creators didn't just delete it.
+    - no originality or artistic value of any kind. has zero contribution to humankind.
+    - creators were completely unprofessional and botched their attempts to cover it up.
+    - usually full of plagiarized and poorly crafted elements, pure shame.
+    - a failure in every way. a healthy lifestyle shouldn't contain any of it.
+- ★ : "AJ (absolute joke)"
+    - i don't even want to get started.
+    - seriously disgusting, offensive, and society-threatening shit.
+    - nothing but a pathetic waste of the resources of human civilization.
+    - might jeopardize existing works and have destructive impact on the industry and our earth.
+    - anybody should avoid it at all costs.
 - due to a high volume, G have three sub-levels: (decent, fair, barely, from high to low).
 - empirical distribution:
     - GL (12%)
@@ -282,6 +283,7 @@ core factors & priorities:
 | Dr. Strangelove | *G: decent* |
 | Dreams by Kurosawa Akira | *GL* |
 | Dune by Denis Vellenueve | *G: decent* |
+| Dune II by Denis Vellenueve | *G: decent* |
 | Dunkirk | *G: decent* |
 | Everything Everywhere All at Once | *AT* |
 | Eyes Wide Shut | *G: decent* |
@@ -290,6 +292,7 @@ core factors & priorities:
 | Fight Club | *G: fair* |
 | Finch | *G: barely* |
 | Flowers of Shanghai | *GL* |
+| Free Solo | *G: barely* |
 | Ghost in the Shell 2: Innocent | *GL* |
 | Gone Girl | *G: decent* |
 | Happy Together | *GL* |
@@ -298,7 +301,7 @@ core factors & priorities:
 | In the Mood of Love | *G: barely* |
 | Inception | *G: barely* |
 | Infernal Affairs | *G: decent* |
-| Inglorious Basterds | *G: decent* |
+| Inglorious Basterds | *GL* |
 | Interstellar | *G: fair* |
 | Joker | *G: fair* |
 | Jurassic Park | *G: barely* |
@@ -335,6 +338,7 @@ core factors & priorities:
 | The Hateful Eight  |  *G: fair* |
 | The Last Emperor | *G: fair* |
 | The Lord of the Rings: The Return of the King | *G: decent* |
+| The Revenant  |  *GL* |
 | The Martian | *T* |
 | The Matrix | *G: barely* |
 | The Prestige | *G: fair* |

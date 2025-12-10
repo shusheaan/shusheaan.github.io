@@ -17,6 +17,38 @@ draft: false
 <img vspace="180">
 
 ---
+<!-- church -->
+<img vspace="180">
+<div align='center'><div style='width:100%;'>
+    <a href="#" data-featherlight="../../images/nh.jpg">
+        ![](../../images/nh.jpg)</a>
+</div></div>
+<img vspace="90">
+<div style='font-size: 11px' align='center'>
+    <b>
+    <i>i think today is the day that i think about you all the time</i> <br>
+    <i>i think today is the day that i think about you all the time</i> <br>
+    <i>i think today is the day that i think about you all the time</i> <br>
+    <i>i think today is the day that i think about you all the time</i> <br>
+    <i>i think today is the day that i think about you all the time</i> <br>
+    <i>i think today is the day that i think about you all the time</i> <br>
+    <i>i think today is the day that i think about you all the time</i> <br>
+    <i>i think today is the day that i think about you all the time</i> <br>
+    <i>i think today is the day that i think about you all the time</i> <br>
+    <i>i think today is the day that i think about you all the time</i> <br>
+    <i>i think today is the day that i think about you all the time</i> <br>
+    <i>i think today is the day that i think about you all the time</i> <br>
+    <i>i think today is the day that i think about you all the time</i> <br>
+    <i>i think today is the day that i think about you all the time</i> <br>
+    <i>i think today is the day that i think about you all the time</i> <br>
+    <i>i think today is the day that i think about you all the time</i> <br>
+    <i>i think today is the day that i think about you all the time</i> <br>
+    <br>
+</div>
+<img vspace="180">
+
+
+---
 <!-- anya -->
 <img vspace="180">
 <div align='center'><div style='width:100%;'>
@@ -29,6 +61,7 @@ draft: false
     "anya" <i>(adaptive neuro-symbolic ai)</i> <br>
     is designed for autonomous multi-step  <br>
     theorem proving and verification in [bsm](https://en.wikipedia.org/wiki/Physics_beyond_the_Standard_Model) <br>
+    hosted on [github](https://github.com/shusheaan/anya) <br>
     <br>
 </div>
 <img vspace="180">
@@ -43,15 +76,6 @@ draft: false
 <div align='center'><div style='width:100%;'>
     <a href="#" data-featherlight="../../images/visuals/459.jpg">
         ![](../../images/visuals/459.jpg)</a>
-</div></div>
-<img vspace="180">
-
----
-<!-- qufengyou -->
-<img vspace="180">
-<div align='center'><div style='width:60%;'>
-    <a href="#" data-featherlight="../../images/visuals/460.jpg">
-        ![](../../images/visuals/460.jpg)</a>
 </div></div>
 <img vspace="180">
 
