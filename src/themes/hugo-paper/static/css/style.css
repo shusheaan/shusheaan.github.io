@@ -118,6 +118,7 @@ img {
   padding-left: 24px;
   padding-right: 24px;
 }
+
 .logo a {
   display: block;
   font-size: 24px;
@@ -257,9 +258,9 @@ img {
   flex-direction: column;
   justify-content: center;
   height: 200px;
-  margin-top: 25px;
-  margin-bottom: 20px;
+  margin: 25px auto 20px;
   padding-bottom: 25px;
+  max-width: 66%;
 }
 .first-entry .entry-header h2 {
   font-size: 50px;
@@ -274,16 +275,18 @@ img {
 }
 .post-entry {
   position: relative;
-  margin-bottom: 22px;
+  margin: 0 auto 22px;
   padding: 32px;
+  max-width: 66%;
   background: #fff;
-  transition: box-shadow 0.6s;
+  transition: box-shadow 0.6s, transform 0.3s;
 }
 .post-entry:hover {
   box-shadow: 0 30px 80px rgba(0, 0, 0, 0.15);
+  transform: translateY(-6px);
 }
 .post-entry:active {
-  transform: scale(0.98);
+  transform: translateY(-3px) scale(0.98);
   transition: transform 0.1s;
 }
 .entry-header h2 {
@@ -306,6 +309,12 @@ img {
   right: 0;
   top: 0;
   bottom: 0;
+}
+@media (max-width: 768px) {
+  .post-entry,
+  .first-entry {
+    max-width: 100%;
+  }
 }
 /* Post single
 -------------------------------------------------- */
