@@ -33,15 +33,14 @@ draft: false
     <i> as long as you remember me </i> <br>
     <i> thats enough </i> <br>
     <br>
-    <i> a great person is someone whose deep rational mind </i> <br>
-    <i> can still guide, carry, and control those overwhelming emotions </i> <br>
+    <i> a great person, his deeply rational mind </i> <br>
+    <i> can effortlessly control those overwhelming emotions </i> <br>
     <br>
     <i> flowers bloom and then wither again </i> <br>
     <i> stars shine so brightly but the light still fades one day </i> <br>
     <i> everything is just a short encounter and it all returns to the eternity of death </i> <br>
     <i> no matter what dont forget you are never alone </i> <br>
-    <i> i love you so much with all of my heart </i> <br>
-    <i> i hope youre happy </i> <br>
+    <i> i hope you are happy </i> <br>
     <i> i wish you peace </i> <br>
     <i> and i miss you </i> <br>
     <br>
