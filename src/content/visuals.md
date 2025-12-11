@@ -20,6 +20,42 @@ draft: false
 <!-- church -->
 <img vspace="180">
 <div align='center'><div style='width:100%;'>
+    <a href="#" data-featherlight="../../images/flower.jpeg">
+        ![](../../images/flower.jpeg)</a>
+</div></div>
+<img vspace="90">
+<div style='font-size: 11px' align='center'>
+    <b>
+    <i> every day </i> <br>
+    <i> i will write you some words </i> <br>
+    <i> hoping you will remember me </i> <br>
+    <i> you don't have to be mine forever </i> <br>
+    <i> as long as you remember me </i> <br>
+    <i> thats enough </i> <br>
+    <br>
+    <i> a great person is someone whose deep rational mind </i> <br>
+    <i> can still guide, carry, and control those overwhelming emotions </i> <br>
+    <br>
+    <i> flowers bloom and then wither again </i> <br>
+    <i> stars shine so brightly but the light still fades one day </i> <br>
+    <i> everything is just a short encounter and it all returns to the eternity of death </i> <br>
+    <i> no matter what dont forget you are never alone </i> <br>
+    <i> i love you so much with all of my heart </i> <br>
+    <i> i hope youre happy </i> <br>
+    <i> i wish you peace </i> <br>
+    <i> and i miss you </i> <br>
+    <br>
+    <i> my dear angel </i> <br>
+    <i> my only angel </i> <br>
+    <br>
+</div>
+<img vspace="180">
+
+
+---
+<!-- church -->
+<img vspace="180">
+<div align='center'><div style='width:100%;'>
     <a href="#" data-featherlight="../../images/nh.jpg">
         ![](../../images/nh.jpg)</a>
 </div></div>
