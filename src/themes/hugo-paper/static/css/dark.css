@@ -1,17 +1,81 @@
-html {
-    background-color: #212121 !important;
+:root {
+    color-scheme: dark;
 }
-html {
-    filter: invert(100%) hue-rotate(180deg) brightness(105%) contrast(85%);
-    -webkit-filter: invert(100%) hue-rotate(180deg) brightness(100%) contrast(100%);
+
+html,
+body,
+body.list,
+body.single,
+body.home {
+    background-color: #000;
 }
+
 body {
-    background-color: #f5f5f5 !important;
+    color: rgba(255, 255, 255, 0.9);
 }
-img,
-video,
-iframe,
-body * [style*="background-image"] {
-    filter: hue-rotate(180deg) contrast(100%) invert(100%);
-    -webkit-filter: hue-rotate(180deg) contrast(100%) invert(100%);
+
+a {
+    color: rgba(255, 255, 255, 0.95);
+}
+
+a:hover,
+a:focus {
+    color: #9fc4ff;
+}
+
+.main,
+.header,
+.footer {
+    color: inherit;
+}
+
+.post-entry {
+    background: #050505;
+    border: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+.post-entry:hover {
+    box-shadow: 0 30px 80px rgba(0, 0, 0, 0.8);
+}
+
+.entry-content,
+.post-content,
+.post-meta,
+.page-header .tagged,
+.post-footer,
+.footer {
+    color: rgba(255, 255, 255, 0.75);
+}
+
+.post-content code {
+    background: rgba(255, 255, 255, 0.08);
+    color: rgba(255, 255, 255, 0.95);
+}
+
+.post-content th,
+.post-content td {
+    border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+.post-content .highlight table td:first-child pre code,
+.post-content .highlight .ln {
+    color: rgba(255, 255, 255, 0.4);
+}
+
+.post-content blockquote {
+    border-left-color: rgba(255, 255, 255, 0.4);
+}
+
+.post-content hr::before {
+    color: rgba(255, 255, 255, 0.4);
+}
+
+.pagination a {
+    background: rgba(255, 255, 255, 0.08);
+    color: rgba(255, 255, 255, 0.9);
+}
+
+.post-tags a {
+    background: rgba(255, 255, 255, 0.08);
+    color: rgba(255, 255, 255, 0.85);
 }
