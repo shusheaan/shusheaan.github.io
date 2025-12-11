@@ -571,3 +571,9 @@ div.sticky {
   top: 0;
   padding: 10px;
 }
+
+/* Featherlight
+-------------------------------------------------- */
+.featherlight .featherlight-close-icon {
+  display: none !important;
+}
