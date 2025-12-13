@@ -45,9 +45,9 @@ draft: false
 ---
 <!-- old cover -->
 <img vspace="180">
-<div align='certer'><div style='width:90%;'>
-    <a href="#" data-featherlight="../../images/alva/423.jpg">
-        ![](../../images/alva/423.jpg)</a>
+<div align='center'><div style='width:80%;'>
+    <a href="#" data-featherlight="../../images/alva/467.jpg">
+        ![](../../images/alva/467.jpg)</a>
 </div></div>
 <img vspace="180">
 

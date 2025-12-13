@@ -17,6 +17,58 @@ draft: false
 <img vspace="180">
 
 ---
+<!-- lighthouse -->
+<img vspace="180">
+<div align='center'><div style='width:100%;'>
+    <a href="#" data-featherlight="../../images/visuals/463.jpg">
+        ![](../../images/visuals/463.jpg)</a>
+</div></div>
+<img vspace="90">
+<div style='font-size: 11px' align='center'>
+    <b>
+    今日の空 <br>
+    めっちゃ良かったけど <br>
+    <br>
+    いっしょに見たあの空にはかなわない <br>
+    あれは本当に綺麗だった <br>
+    <i> </i> <br>
+    <br>
+</div>
+<img vspace="180">
+
+
+---
+<!-- church -->
+<img vspace="180">
+<div align='center'><div style='width:100%;'>
+    <a href="#" data-featherlight="../../images/visuals/461min.jpg">
+        ![](../../images/visuals/461min.jpg)</a>
+</div></div>
+<img vspace="90">
+<div style='font-size: 11px' align='center'>
+    <b>
+    <i> our father in heaven </i> <br>
+    <i> hallowed be your name </i> <br>
+    <br>
+    <i> your kingdom come </i> <br>
+    <i> your will be done on earth as it is in heaven </i> <br>
+    <br>
+    <i> give us our daily bread and forgive our sins </i> <br>
+    <i> as we forgive those who sin against us </i> <br>
+    <i> lead us not into temptation </i> <br>
+    <i> and deliver us from evil </i> <br>
+    <br>
+    <i> for yours is the kingdom </i> <br>
+    <i> and the power </i> <br>
+    <i> and the glory </i> <br>
+    <br>
+    <i> forever </i> <br>
+    <i> </i> <br>
+    <br>
+</div>
+<img vspace="180">
+
+---
 <!-- church -->
 <img vspace="180">
 <div align='center'><div style='width:100%;'>
@@ -26,25 +78,25 @@ draft: false
 <img vspace="90">
 <div style='font-size: 11px' align='center'>
     <b>
-    <i> every day </i> <br>
     <i> i will write you some words </i> <br>
     <i> hoping you will remember me </i> <br>
     <i> you don't have to be mine forever </i> <br>
     <i> as long as you remember me </i> <br>
     <i> thats enough </i> <br>
     <br>
-    <i> a great person, his deeply rational mind </i> <br>
+    <i> a great person, his calm and deeply rational mind </i> <br>
     <i> can effortlessly control those overwhelming emotions </i> <br>
     <br>
     <i> flowers bloom and then wither again </i> <br>
     <i> stars shine so brightly but the light still fades one day </i> <br>
-    <i> everything is just a short encounter and it all returns to the eternity of death </i> <br>
-    <i> no matter what dont forget you are never alone </i> <br>
+    <i> everything is just a short encounter and </i> <br> 
+    <i> it all returns to the eternity of death </i> <br>
+    <br>
+    <i> dont forget you are never alone </i> <br>
     <i> i hope you are happy </i> <br>
     <i> i wish you peace </i> <br>
     <i> and i miss you </i> <br>
     <br>
-    <i> my dear angel </i> <br>
     <i> my only angel </i> <br>
     <br>
 </div>
@@ -58,28 +110,11 @@ draft: false
     <a href="#" data-featherlight="../../images/nh.jpg">
         ![](../../images/nh.jpg)</a>
 </div></div>
-<img vspace="90">
-<div style='font-size: 11px' align='center'>
-    <b>
-    <i>i think today is the day that i think about you all the time</i> <br>
-    <i>i think today is the day that i think about you all the time</i> <br>
-    <i>i think today is the day that i think about you all the time</i> <br>
-    <i>i think today is the day that i think about you all the time</i> <br>
-    <i>i think today is the day that i think about you all the time</i> <br>
-    <i>i think today is the day that i think about you all the time</i> <br>
-    <i>i think today is the day that i think about you all the time</i> <br>
-    <i>i think today is the day that i think about you all the time</i> <br>
-    <i>i think today is the day that i think about you all the time</i> <br>
-    <i>i think today is the day that i think about you all the time</i> <br>
-    <i>i think today is the day that i think about you all the time</i> <br>
-    <i>i think today is the day that i think about you all the time</i> <br>
-    <i>i think today is the day that i think about you all the time</i> <br>
-    <i>i think today is the day that i think about you all the time</i> <br>
-    <i>i think today is the day that i think about you all the time</i> <br>
-    <i>i think today is the day that i think about you all the time</i> <br>
-    <i>i think today is the day that i think about you all the time</i> <br>
-    <br>
-</div>
+<img vspace="30">
+<div align='center'><div style='width:33%;'>
+    <a href="#" data-featherlight="../../images/visuals/462.jpg">
+        ![](../../images/visuals/462.jpg)</a>
+</div></div>
 <img vspace="180">
 
 
