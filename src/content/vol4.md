@@ -43,7 +43,16 @@ draft: false
 <img vspace="180">
 
 ---
-<!-- old cover -->
+<!-- 1207 -->
+<img vspace="180">
+<div align='center'><div style='width:60%;'>
+    <a href="#" data-featherlight="../../images/alva/499.jpg">
+        ![](../../images/alva/499.jpg)</a>
+</div></div>
+<img vspace="180">
+
+---
+<!-- autumn -->
 <img vspace="180">
 <div align='center'><div style='width:80%;'>
     <a href="#" data-featherlight="../../images/alva/467.jpg">
