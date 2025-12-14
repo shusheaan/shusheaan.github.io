@@ -21,8 +21,8 @@ draft: false
 <!-- sl -->
 <img vspace="180">
 <div align='center'><div style='width:60%;'>
-    <a href="#" data-featherlight="../../images/visuals/500-3.jpg">
-        ![](../../images/visuals/500-3.jpg)</a>
+    <a href="#" data-featherlight="../../images/visuals/500-2.jpg">
+        ![](../../images/visuals/500-2.jpg)</a>
 </div></div>
 <img vspace="40">
 <div style='font-size: 11px' align='center'>
