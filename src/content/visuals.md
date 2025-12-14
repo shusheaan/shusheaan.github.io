@@ -41,15 +41,20 @@ draft: false
 <!-- canoe -->
 <img vspace="180">
 <div align='right'><div style='width:60%;'>
-    <a href="#" data-featherlight="../../images/roll/R18.jpg">
-        ![](../../images/roll/R18.jpg)</a>
+    <a href="#" data-featherlight="../../images/roll/R18-2.jpg">
+        ![](../../images/roll/R18-2.jpg)</a>
 </div></div>
 <img vspace="60">
 <div align='left'><div style='width:90%;'>
-    <a href="#" data-featherlight="../../images/roll/R13.jpg">
-        ![](../../images/roll/R13.jpg)</a>
+    <a href="#" data-featherlight="../../images/roll/R13-2.jpg">
+        ![](../../images/roll/R13-2.jpg)</a>
 </div></div>
-<img vspace="60">
+<img vspace="90">
+<div align='right'><div style='width:100%;'>
+    <a href="#" data-featherlight="../../images/roll/R8-2.jpg">
+        ![](../../images/roll/R8-2.jpg)</a>
+</div></div>
+<img vspace="50">
 <div style='font-size: 11px' align='center'>
     <b>
     canoe beach, east point, nahant, massachusetts <br>

@@ -25,6 +25,19 @@ draft: false
 </div></div>
 <img vspace="180">
 
+---
+<!-- cat -->
+<img vspace="180">
+<div align='right'><div style='width:70%;'>
+    <a href="#" data-featherlight="../../images/visuals/503.jpg">
+        ![](../../images/visuals/503.jpg)</a>
+</div></div>
+<img vspace="60">
+<div align='left'><div style='width:60%;'>
+    <a href="#" data-featherlight="../../images/visuals/504.jpg">
+        ![](../../images/visuals/504.jpg)</a>
+</div></div>
+<img vspace="180">
 
 ---
 <!-- amy -->
@@ -35,14 +48,6 @@ draft: false
 </div></div>
 <img vspace="180">
 
----
-<!-- shirley fells -->
-<img vspace="180">
-<div align='center'><div style='width:65%;'>
-    <a href="#" data-featherlight="../../images/visuals/440.jpg">
-        ![](../../images/visuals/440.jpg)</a>
-</div></div>
-<img vspace="180">
 
 
 ---
@@ -141,11 +146,11 @@ draft: false
 ---
 <!-- kaiqi -->
 <img vspace="180">
-<div align='center'><div style='width:60%;'>
+<div align='center'><div style='width:70%;'>
     <a href="#" data-featherlight="../../images/visuals/360.jpg">
         ![](../../images/visuals/360.jpg)</a>
 </div></div>
-<div align='center'><div style='width:60%;'>
+<div align='center'><div style='width:70%;'>
     <a href="#" data-featherlight="../../images/visuals/363.jpg">
         ![](../../images/visuals/363.jpg)</a>
 </div></div>
@@ -218,6 +223,15 @@ draft: false
 <div align='right'><div style='width:60%;'>
     <a href="#" data-featherlight="../../images/visuals/317.jpg">
         ![](../../images/visuals/317_min.jpg)</a>
+</div></div>
+<img vspace="180">
+
+---
+<!-- shirley fells -->
+<img vspace="180">
+<div align='center'><div style='width:65%;'>
+    <a href="#" data-featherlight="../../images/visuals/440.jpg">
+        ![](../../images/visuals/440.jpg)</a>
 </div></div>
 <img vspace="180">
 
