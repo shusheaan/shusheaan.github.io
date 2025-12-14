@@ -16,12 +16,13 @@ draft: false
 
 <img vspace="180">
 
+
 ---
-<!-- my love -->
+<!-- sl -->
 <img vspace="180">
 <div align='center'><div style='width:60%;'>
-    <a href="#" data-featherlight="../../images/visuals/500.jpg">
-        ![](../../images/visuals/500.jpg)</a>
+    <a href="#" data-featherlight="../../images/visuals/500-3.jpg">
+        ![](../../images/visuals/500-3.jpg)</a>
 </div></div>
 <img vspace="40">
 <div style='font-size: 11px' align='center'>
@@ -35,6 +36,40 @@ draft: false
     <br>
 </div>
 <img vspace="180">
+
+---
+<!-- canoe -->
+<img vspace="180">
+<div align='right'><div style='width:60%;'>
+    <a href="#" data-featherlight="../../images/roll/R18.jpg">
+        ![](../../images/roll/R18.jpg)</a>
+</div></div>
+<img vspace="60">
+<div align='left'><div style='width:90%;'>
+    <a href="#" data-featherlight="../../images/roll/R13.jpg">
+        ![](../../images/roll/R13.jpg)</a>
+</div></div>
+<img vspace="60">
+<div style='font-size: 11px' align='center'>
+    <b>
+    canoe beach, east point, nahant, massachusetts <br>
+    the deepest point into atlantic ocean from land <br>
+    12 07 2025 <br>
+    <br>
+</div>
+<img vspace="180">
+
+---
+<!-- lighthouse -->
+<img vspace="180">
+<div align='center'><div style='width:70%;'>
+    <a href="#" data-featherlight="../../images/roll/R3.jpg">
+        ![](../../images/roll/R3.jpg)</a>
+</div></div>
+<img vspace="180">
+
+
+
 
 ---
 <!-- lighthouse -->
@@ -77,6 +112,7 @@ draft: false
 </div>
 <img vspace="180">
 
+
 ---
 <!-- church -->
 <img vspace="180">
@@ -109,6 +145,15 @@ draft: false
     <i> my only angel </i> <br>
     <br>
 </div>
+<img vspace="180">
+
+---
+<!-- alva -->
+<img vspace="180">
+<div align='center'><div style='width:70%;'>
+    <a href="#" data-featherlight="../../images/roll/R4.jpg">
+        ![](../../images/roll/R4.jpg)</a>
+</div></div>
 <img vspace="180">
 
 

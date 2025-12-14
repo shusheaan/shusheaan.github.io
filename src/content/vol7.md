@@ -7,8 +7,8 @@ draft: false
 ![](../../images/B77W/cover.jpg)
 
 <div style='font-size: 15px' align='right'>
-    "i could either watch it happen or be a part of it"<br>
-	 - elon musk
+    "adventure is worthwhile in itself"<br>
+	 - amelia earhart
 </div>
 <a id="menu"></a>
 

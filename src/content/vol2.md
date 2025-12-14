@@ -20,8 +20,8 @@ draft: false
 <!-- sophie -->
 <img vspace="180">
 <div align='center'><div style='width:65%;'>
-    <a href="#" data-featherlight="../../images/visuals/501.jpg">
-        ![](../../images/visuals/501.jpg)</a>
+    <a href="#" data-featherlight="../../images/roll/R11-2.jpg">
+        ![](../../images/roll/R11-2.jpg)</a>
 </div></div>
 <img vspace="180">
 
