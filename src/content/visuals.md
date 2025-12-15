@@ -49,14 +49,6 @@ draft: false
 
 
 
----
-<!-- pond -->
-<img vspace="180">
-<div align='center'><div style='width:65%;'>
-    <a href="#" data-featherlight="../../images/roll/R2P18.jpg">
-        ![](../../images/roll/R2P18.jpg)</a>
-</div></div>
-<img vspace="180">
 
 
 ---
@@ -77,14 +69,11 @@ draft: false
 <img vspace="50">
 <div style='font-size: 11px' align='center'>
     <b>
-    <i> when the sun is going down </i> <br>
-    <i> when the dark is out to stay </i> <br>
-    <i> i picture your smile </i> <br>
-    <i> like it was yesterday </i> <br>
-    <i> </i> <br>
+    winthrop shore, winthrop, massachusetts<br>
     <br>
 </div>
 <img vspace="180">
+
 
 
 ---
@@ -114,6 +103,15 @@ draft: false
     <br>
 </div>
 <img vspace="180"></p>
+
+---
+<!-- pond -->
+<img vspace="180">
+<div align='center'><div style='width:65%;'>
+    <a href="#" data-featherlight="../../images/roll/R2P19.jpg">
+        ![](../../images/roll/R2P19.jpg)</a>
+</div></div>
+<img vspace="180">
 
 
 ---
