@@ -16,6 +16,15 @@ draft: false
 
 <img vspace="180">
 
+---
+<!-- lighthouse -->
+<img vspace="180">
+<div align='center'><div style='width:80%;'>
+    <a href="#" data-featherlight="../../images/roll/R3-2.jpg">
+        ![](../../images/roll/R3-2.jpg)</a>
+</div></div>
+<img vspace="180">
+
 
 ---
 <!-- sl -->
@@ -38,43 +47,42 @@ draft: false
 <img vspace="180">
 
 ---
-<!-- canoe -->
+<!-- beach -->
 <img vspace="180">
-<div align='right'><div style='width:60%;'>
-    <a href="#" data-featherlight="../../images/roll/R18-2.jpg">
-        ![](../../images/roll/R18-2.jpg)</a>
+<div align='center'><div style='width:70%;'>
+    <a href="#" data-featherlight="../../images/roll/R2T2.jpg">
+        ![](../../images/roll/R2T2.jpg)</a>
 </div></div>
-<img vspace="60">
-<div align='left'><div style='width:90%;'>
-    <a href="#" data-featherlight="../../images/roll/R13-2.jpg">
-        ![](../../images/roll/R13-2.jpg)</a>
+<div align='center'><div style='width:70%;'>
+    <a href="#" data-featherlight="../../images/roll/R2T1.jpg">
+        ![](../../images/roll/R2T1.jpg)</a>
 </div></div>
-<img vspace="90">
-<div align='right'><div style='width:100%;'>
-    <a href="#" data-featherlight="../../images/roll/R8-2.jpg">
-        ![](../../images/roll/R8-2.jpg)</a>
+<div align='center'><div style='width:70%;'>
+    <a href="#" data-featherlight="../../images/roll/R2T3.jpg">
+        ![](../../images/roll/R2T3.jpg)</a>
 </div></div>
 <img vspace="50">
 <div style='font-size: 11px' align='center'>
     <b>
-    canoe beach, east point, nahant, massachusetts <br>
-    the deepest point into atlantic ocean from land <br>
-    12 07 2025 <br>
+    <i> when the sun is going down </i> <br>
+    <i> when the dark is out to stay </i> <br>
+    <i> i picture your smile </i> <br>
+    <i> like it was yesterday </i> <br>
+    <i> </i> <br>
     <br>
 </div>
 <img vspace="180">
 
+
+
 ---
-<!-- lighthouse -->
+<!-- pond -->
 <img vspace="180">
-<div align='center'><div style='width:70%;'>
-    <a href="#" data-featherlight="../../images/roll/R3.jpg">
-        ![](../../images/roll/R3.jpg)</a>
+<div align='center'><div style='width:65%;'>
+    <a href="#" data-featherlight="../../images/roll/R2P18.jpg">
+        ![](../../images/roll/R2P18.jpg)</a>
 </div></div>
 <img vspace="180">
-
-
-
 
 ---
 <!-- lighthouse -->
@@ -84,6 +92,7 @@ draft: false
         ![](../../images/visuals/463.jpg)</a>
 </div></div>
 <img vspace="180">
+
 
 
 ---

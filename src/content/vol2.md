@@ -19,9 +19,18 @@ draft: false
 ---
 <!-- sophie -->
 <img vspace="180">
-<div align='center'><div style='width:65%;'>
+<div align='center'><div style='width:70%;'>
     <a href="#" data-featherlight="../../images/roll/R11-2.jpg">
         ![](../../images/roll/R11-2.jpg)</a>
+</div></div>
+<img vspace="180">
+
+---
+<!-- sophie -->
+<img vspace="180">
+<div align='center'><div style='width:70%;'>
+    <a href="#" data-featherlight="../../images/roll/R2P12.jpg">
+        ![](../../images/roll/R2P12.jpg)</a>
 </div></div>
 <img vspace="180">
 
@@ -226,14 +235,6 @@ draft: false
 </div></div>
 <img vspace="180">
 
----
-<!-- shirley fells -->
-<img vspace="180">
-<div align='center'><div style='width:65%;'>
-    <a href="#" data-featherlight="../../images/visuals/440.jpg">
-        ![](../../images/visuals/440.jpg)</a>
-</div></div>
-<img vspace="180">
 
 ---
 <!-- xue -->
@@ -254,6 +255,14 @@ draft: false
 </div></div>
 <img vspace="180">
 
+---
+<!-- shirley fells -->
+<img vspace="180">
+<div align='center'><div style='width:65%;'>
+    <a href="#" data-featherlight="../../images/visuals/440.jpg">
+        ![](../../images/visuals/440.jpg)</a>
+</div></div>
+<img vspace="180">
 
 
 ---
@@ -275,3 +284,14 @@ draft: false
 </div></div>
 <img vspace="180">
 
+
+---
+<!-- sophie -->
+<img vspace="180">
+<div align='center'><div style='width:60%;'>
+    <a href="#" data-featherlight="../../images/roll/R2P3.jpg">
+        ![](../../images/roll/R2P3.jpg)</a>
+</div></div>
+<img vspace="180">
+
+<img vspace="180">

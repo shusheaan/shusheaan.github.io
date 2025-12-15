@@ -30,7 +30,7 @@ draft: false
     <br>
     2021 BMW F87 M2 Competition, "Alva the M2C" <br>
     <br>
-    3.0L Inline-6 Twin-Turbo ICE (410hp) & 7-speed DCT <br>
+    3.0L Inline-6 Twin-Turbo ICE (450hp) & 7-speed DCT <br>
     Front 6-Piston and Rear 4-Piston Competition Brake Package <br>
     19-inch Competition Forged Aluminum Wheels & Michelin Pilot Super Sport <br>
     Executive Package & OEM Alcantara+Carbon Steering+Console Package <br>
@@ -43,23 +43,23 @@ draft: false
 <img vspace="180">
 
 ---
-<!-- 1207 -->
+<!-- bw -->
 <img vspace="180">
-<div align='center'><div style='width:60%;'>
-    <a href="#" data-featherlight="../../images/alva/499.jpg">
-        ![](../../images/alva/499.jpg)</a>
-</div></div>
+<a href="#" data-featherlight="../../images/roll/R2P8.jpg">
+    ![](../../images/roll/R2P8.jpg)</a>
+<a href="#" data-featherlight="../../images/roll/R2P10.jpg">
+    ![](../../images/roll/R2P10.jpg)</a>
+<img vspace="45">
 <img vspace="180">
 
 ---
-<!-- autumn -->
+<!-- 1207 -->
 <img vspace="180">
-<div align='center'><div style='width:80%;'>
-    <a href="#" data-featherlight="../../images/alva/467.jpg">
-        ![](../../images/alva/467.jpg)</a>
+<div align='center'><div style='width:100%;'>
+    <a href="#" data-featherlight="../../images/roll/R2P2.jpg">
+        ![](../../images/roll/R2P2.jpg)</a>
 </div></div>
 <img vspace="180">
-
 
 ---
 <!-- back and front m2c -->
@@ -75,6 +75,19 @@ draft: false
 </div></div>
 <img vspace="180">
 
+---
+<!-- 1207 -->
+<img vspace="180">
+<div align='right'><div style='width:60%;'>
+    <a href="#" data-featherlight="../../images/roll/R2P6.jpg">
+        ![](../../images/roll/R2P6.jpg)</a>
+</div></div>
+<img vspace="90">
+<div align='left'><div style='width:70%;'>
+    <a href="#" data-featherlight="../../images/alva/499.jpg">
+        ![](../../images/alva/499.jpg)</a>
+</div></div>
+<img vspace="180">
 
 ---
 <!-- film -->
@@ -84,14 +97,18 @@ draft: false
         ![](../../images/alva/4302.jpg)</a>
 </div></div>
 <img vspace="80">
-<div align='right'><div style='width:55%;'>
+<div align='right'><div style='width:80%;'>
     <a href="#" data-featherlight="../../images/alva/428.jpg">
         ![](../../images/alva/428.jpg)</a>
 </div></div>
-<img vspace="80">
-<div align='left'><div style='width:55%;'>
-    <a href="#" data-featherlight="../../images/alva/432.jpg">
-        ![](../../images/alva/432.jpg)</a>
+<img vspace="180">
+
+---
+<!-- autumn -->
+<img vspace="180">
+<div align='center'><div style='width:80%;'>
+    <a href="#" data-featherlight="../../images/alva/467.jpg">
+        ![](../../images/alva/467.jpg)</a>
 </div></div>
 <img vspace="180">
 
