@@ -274,7 +274,7 @@ draft: false
 </div></div>
 <img vspace="44">
 <div align='center'><div style='width:70%;'>
-    <a href="#" data-featherlight="../../images/visuals/321.jpg">
+    <a href="#" data-featherlight="../../images/visuals/321_min.jpg">
         ![](../../images/visuals/321_min.jpg)</a>
 </div></div>
 <img vspace="44">

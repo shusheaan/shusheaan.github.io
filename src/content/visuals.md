@@ -46,6 +46,19 @@ draft: false
 </div>
 <img vspace="180">
 
+
+
+
+---
+<!-- pond -->
+<img vspace="180">
+<div align='center'><div style='width:65%;'>
+    <a href="#" data-featherlight="../../images/roll/R2P18.jpg">
+        ![](../../images/roll/R2P18.jpg)</a>
+</div></div>
+<img vspace="180">
+
+
 ---
 <!-- beach -->
 <img vspace="180">
@@ -74,15 +87,34 @@ draft: false
 <img vspace="180">
 
 
-
 ---
-<!-- pond -->
-<img vspace="180">
-<div align='center'><div style='width:65%;'>
-    <a href="#" data-featherlight="../../images/roll/R2P18.jpg">
-        ![](../../images/roll/R2P18.jpg)</a>
+<!-- canoe -->
+<p><img vspace="180">
+<div align='right'><div style='width:50%;'>
+    <a href="#" data-featherlight="../../images/roll/R18-2.jpg">
+        <img src="../../images/roll/R18-2.jpg" alt="" /></a>
 </div></div>
-<img vspace="180">
+<img vspace="60">
+<div align='left'><div style='width:70%;'>
+    <a href="#" data-featherlight="../../images/roll/R13-2.jpg">
+        <img src="../../images/roll/R13-2.jpg" alt="" /></a>
+</div></div>
+<img vspace="90">
+<div align='right'><div style='width:85%;'>
+    <a href="#" data-featherlight="../../images/roll/R8-2.jpg">
+        <img src="../../images/roll/R8-2.jpg" alt="" /></a>
+</div></div>
+<img vspace="50">
+<div style='font-size: 11px' align='center'>
+    <b>
+    canoe beach, east point, nahant, massachusetts <br>
+    the deepest point into atlantic ocean from land <br>
+    12 07 2025 <br>
+    <i> </i> <br>
+    <br>
+</div>
+<img vspace="180"></p>
+
 
 ---
 <!-- lighthouse -->
