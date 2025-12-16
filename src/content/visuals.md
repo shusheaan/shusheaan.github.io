@@ -48,15 +48,12 @@ draft: false
 
 
 
-
-
-
 ---
 <!-- beach -->
 <img vspace="180">
 <div align='center'><div style='width:70%;'>
-    <a href="#" data-featherlight="../../images/roll/R2T2.jpg">
-        ![](../../images/roll/R2T2.jpg)</a>
+    <a href="#" data-featherlight="../../images/roll/R2T2-2.jpg">
+        ![](../../images/roll/R2T2-2.jpg)</a>
 </div></div>
 <div align='center'><div style='width:70%;'>
     <a href="#" data-featherlight="../../images/roll/R2T1.jpg">
@@ -66,6 +63,21 @@ draft: false
     <a href="#" data-featherlight="../../images/roll/R2T3.jpg">
         ![](../../images/roll/R2T3.jpg)</a>
 </div></div>
+<img vspace="60">
+<div style='font-size: 11px' align='center'>
+    <b>
+    leave myself <br>
+    at the mercy of you <br>
+    at the mercy of you <br>
+    <br>
+    and i'll be needing my sleep in peace <br>
+    <br>
+    i need to trust you <br>
+    at <br>
+    the mercy <br>
+    of you <br>
+    <br>
+</div>
 <img vspace="180">
 
 
