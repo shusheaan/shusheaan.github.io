@@ -66,12 +66,6 @@ draft: false
     <a href="#" data-featherlight="../../images/roll/R2T3.jpg">
         ![](../../images/roll/R2T3.jpg)</a>
 </div></div>
-<img vspace="50">
-<div style='font-size: 11px' align='center'>
-    <b>
-    winthrop shore, winthrop, massachusetts<br>
-    <br>
-</div>
 <img vspace="180">
 
 
