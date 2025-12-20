@@ -17,9 +17,18 @@ draft: false
 <img vspace="180">
 
 ---
-<!-- lighthouse -->
+<!-- aqua -->
 <img vspace="180">
-<div align='center'><div style='width:80%;'>
+<div align='center'><div style='width:50%;'>
+    <a href="#" data-featherlight="../../images/visuals/506.jpg">
+        ![](../../images/visuals/506.jpg)</a>
+</div></div>
+<img vspace="180">
+
+---
+<!-- beach -->
+<img vspace="180">
+<div align='center'><div style='width:70%;'>
     <a href="#" data-featherlight="../../images/roll/R3-2.jpg">
         ![](../../images/roll/R3-2.jpg)</a>
 </div></div>
@@ -27,9 +36,20 @@ draft: false
 
 
 ---
+<!-- v12 -->
+<img vspace="180">
+<div align='center'><div style='width:40%;'>
+    <a href="#" data-featherlight="../../images/visuals/505.jpg">
+        ![](../../images/visuals/505.jpg)</a>
+</div></div>
+<img vspace="180">
+
+
+
+---
 <!-- sl -->
 <img vspace="180">
-<div align='center'><div style='width:60%;'>
+<div align='center'><div style='width:50%;'>
     <a href="#" data-featherlight="../../images/visuals/500-2.jpg">
         ![](../../images/visuals/500-2.jpg)</a>
 </div></div>
@@ -51,15 +71,15 @@ draft: false
 ---
 <!-- beach -->
 <img vspace="180">
-<div align='center'><div style='width:70%;'>
+<div align='center'><div style='width:60%;'>
     <a href="#" data-featherlight="../../images/roll/R2T2-2.jpg">
         ![](../../images/roll/R2T2-2.jpg)</a>
 </div></div>
-<div align='center'><div style='width:70%;'>
+<div align='center'><div style='width:60%;'>
     <a href="#" data-featherlight="../../images/roll/R2T1.jpg">
         ![](../../images/roll/R2T1.jpg)</a>
 </div></div>
-<div align='center'><div style='width:70%;'>
+<div align='center'><div style='width:60%;'>
     <a href="#" data-featherlight="../../images/roll/R2T3.jpg">
         ![](../../images/roll/R2T3.jpg)</a>
 </div></div>
@@ -110,10 +130,11 @@ draft: false
 </div>
 <img vspace="180"></p>
 
+
 ---
 <!-- pond -->
 <img vspace="180">
-<div align='center'><div style='width:65%;'>
+<div align='center'><div style='width:60%;'>
     <a href="#" data-featherlight="../../images/roll/R2P19.jpg">
         ![](../../images/roll/R2P19.jpg)</a>
 </div></div>
