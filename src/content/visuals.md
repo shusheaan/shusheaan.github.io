@@ -16,14 +16,66 @@ draft: false
 
 <img vspace="180">
 
+
+---
+<!-- rb -->
+<img vspace="180">
+<div align='center'><div style='width:60%;'>
+    <a href="#" data-featherlight="../../images/visuals/507-2.jpg">
+        ![](../../images/visuals/507-2.jpg)</a>
+</div></div>
+<img vspace="50">
+<div style='font-size: 11px' align='center'>
+    <b>
+    once you are so used to the best <br>
+    you lose all interest in anything less <br>
+    <br>
+    life then becomes enjoying the best <br> 
+    or simply resting in a peaceful silence <br>
+    <br>
+    either way sounds perfect <br>
+    <br>
+</div>
+<img vspace="180">
+
+---
+<!-- long -->
+<img vspace="180">
+<div align='center'><div style='width:80%;'>
+    <a href="#" data-featherlight="../../images/roll/R22-1.jpg">
+        ![](../../images/roll/R22-1.jpg)</a>
+</div></div>
+<div align='center'><div style='width:80%;'>
+    <a href="#" data-featherlight="../../images/roll/R22-2.jpg">
+        ![](../../images/roll/R22-2.jpg)</a>
+</div></div>
+<div align='center'><div style='width:80%;'>
+    <a href="#" data-featherlight="../../images/roll/R23-2.jpg">
+        ![](../../images/roll/R23-2.jpg)</a>
+</div></div>
+<img vspace="180">
+
+
 ---
 <!-- aqua -->
 <img vspace="180">
-<div align='center'><div style='width:50%;'>
-    <a href="#" data-featherlight="../../images/visuals/506.jpg">
-        ![](../../images/visuals/506.jpg)</a>
+<div align='center'><div style='width:60%;'>
+    <a href="#" data-featherlight="../../images/visuals/506-2.jpg">
+        ![](../../images/visuals/506-2.jpg)</a>
 </div></div>
+<img vspace="50">
+<div style='font-size: 11px' align='center'>
+    <b>
+    如果沒有你 日子怎麼過 <br>
+    往日的舊夢 好像你的酒渦 <br>
+    酒渦裏有你也有我 <br>
+    <br>
+    酒醉的探戈 酒醉的探戈 <br>
+    告訴他不要忘記我 <br>
+    <br>
+</div>
 <img vspace="180">
+
 
 ---
 <!-- beach -->
@@ -38,7 +90,7 @@ draft: false
 ---
 <!-- v12 -->
 <img vspace="180">
-<div align='center'><div style='width:40%;'>
+<div align='center'><div style='width:50%;'>
     <a href="#" data-featherlight="../../images/visuals/505.jpg">
         ![](../../images/visuals/505.jpg)</a>
 </div></div>
@@ -67,55 +119,25 @@ draft: false
 <img vspace="180">
 
 
-
----
-<!-- beach -->
-<img vspace="180">
-<div align='center'><div style='width:60%;'>
-    <a href="#" data-featherlight="../../images/roll/R2T2-2.jpg">
-        ![](../../images/roll/R2T2-2.jpg)</a>
-</div></div>
-<div align='center'><div style='width:60%;'>
-    <a href="#" data-featherlight="../../images/roll/R2T1.jpg">
-        ![](../../images/roll/R2T1.jpg)</a>
-</div></div>
-<div align='center'><div style='width:60%;'>
-    <a href="#" data-featherlight="../../images/roll/R2T3.jpg">
-        ![](../../images/roll/R2T3.jpg)</a>
-</div></div>
-<img vspace="60">
-<div style='font-size: 11px' align='center'>
-    <b>
-    leave myself <br>
-    at the mercy of you <br>
-    at the mercy of you <br>
-    <br>
-    and i'll be needing my sleep in peace <br>
-    <br>
-    i need to trust you <br>
-    at <br>
-    the mercy <br>
-    of you <br>
-    <br>
-</div>
-<img vspace="180">
-
-
-
 ---
 <!-- canoe -->
-<p><img vspace="180">
+<img vspace="180">
 <div align='right'><div style='width:50%;'>
     <a href="#" data-featherlight="../../images/roll/R18-2.jpg">
         <img src="../../images/roll/R18-2.jpg" alt="" /></a>
 </div></div>
 <img vspace="60">
-<div align='left'><div style='width:70%;'>
+<div align='left'><div style='width:80%;'>
     <a href="#" data-featherlight="../../images/roll/R13-2.jpg">
         <img src="../../images/roll/R13-2.jpg" alt="" /></a>
 </div></div>
-<img vspace="90">
-<div align='right'><div style='width:85%;'>
+<img vspace="180"></p>
+
+
+
+---
+<img vspace="180">
+<div align='right'><div style='width:100%;'>
     <a href="#" data-featherlight="../../images/roll/R8-2.jpg">
         <img src="../../images/roll/R8-2.jpg" alt="" /></a>
 </div></div>
@@ -302,14 +324,6 @@ draft: false
 </div></div>
 <img vspace="180">
 
----
-<!-- misc -->
-<img vspace="180">
-<div align='center'><div style='width:80%;'>
-    <a href="#" data-featherlight="../../images/visuals/441.jpg">
-        ![](../../images/visuals/441.jpg)</a>
-</div></div>
-<img vspace="180">
 
 
 ---
@@ -413,18 +427,6 @@ draft: false
 </div></div>
 <img vspace="180">
 
----
-<!-- ps -->
-<img vspace="180">
-<div align='left'><div style='width:44%;'>
-    <a href="#" data-featherlight="../../images/visuals/391.jpg">
-        ![](../../images/visuals/391.jpg)</a>
-</div></div>
-<div align='left'><div style='width:44%;'>
-    <a href="#" data-featherlight="../../images/visuals/390.jpg">
-        ![](../../images/visuals/390.jpg)</a>
-</div></div>
-<img vspace="180">
 
 ---
 <!-- statue -->

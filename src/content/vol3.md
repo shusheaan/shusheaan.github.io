@@ -16,42 +16,6 @@ draft: false
 
 <img vspace="180">
 
----
-<!-- anavoy -->
-<img vspace="180">
-<a href="#" data-featherlight="../../images/visuals/75.png">
-    ![](../../images/visuals/75_min.png)</a>
-<img vspace="22">
-<div style='font-size: 10px; font-family: didot, serif' align='center'>
-    <b>
-    麻省的温斯洛普镇坐落在洛根机场旁，和主跑道 <br> 
-    22R、22L、27和33L的接地区相隔一带浅湾，是我拍摄飞机的首要去处。<br> 
-    <br>
-    在数个拍摄点中，科塔公园游艇俱乐部是距离27和33L跑道接地区最近的 <br>
-    一个。每当海上刮西风时，我都会前往科塔俱乐部，拍摄来自遥远欧洲的 <br> 
-    国际航班，从一望无际的大西洋地平线远方逐渐显现，带着数百乘客，<br>
-    轻轻摇晃乘着风，直到在我面前接地。 <br>
-    </b>
-</div>
-<img vspace="22">
-<a href="#" data-featherlight="../../images/visuals/74.jpg">
-    ![](../../images/visuals/74_min.jpg)</a>
-<img vspace="22">
-<a href="#" data-featherlight="../../images/visuals/73.jpg">
-    ![](../../images/visuals/73_min.jpg)</a>
-<img vspace="22">
-<div style='font-size: 10px; font-family: didot, serif' align='center'>
-    <b>
-    在等待航班的空闲时间里，我也会随意拍摄周遭环境、游艇和野生动物。<br>
-    </b>
-</div>
-<img vspace="22">
-<a href="#" data-featherlight="../../images/visuals/71.jpg">
-    ![](../../images/visuals/71_min.jpg)</a>
-<img vspace="22">
-<a href="#" data-featherlight="../../images/visuals/72.jpg">
-    ![](../../images/visuals/72_min.jpg)</a>
-<img vspace="180">
 
 ---
 <!-- airline -->
@@ -72,6 +36,21 @@ draft: false
     副驾驶拿着我的摄影机笑嘻嘻地在拍着，飞了30年的机长<br>
     老爷子把他的帽子轻轻戴在我的头上说：<br>
     “keep up your dreams, son.”<br>
+    <br>
+    <br>
+    in 2006, not long after microsoft flight simulator x came out <br>
+    i started teaching myself aviation and flight procedures <br>
+    living out the fantasy of being a pilot inside the sim <br>
+    <br>
+    fast forward ten years to the summer of 2016: shanghai pudong airport <br>
+    i was in the cockpit of a united 747-400 <br>
+    handling the thrust levers and the autothrottle buttons <br>
+    <br>
+    the fo was grinning as he filmed me with my camera <br> 
+    and the captain—an old-timer who’d been flying for thirty years <br>
+    gently placed his hat on my head and said: <br>
+    “keep up your dreams, son.”
+    <br>
     </b>
 </div>
 <img vspace="45">
@@ -84,6 +63,17 @@ draft: false
     <br>
     相信未来自己每次看到这组美联航E190的特写，<br>
     都能记得年少时的那份激情。<br>
+    <br>
+    <br>
+    the captain’s epaulets and the sop flight manual that mr. dong gave me <br>
+    kept my little flying dream alive for a long time <br>
+    he spent many years at hainan airlines <br>
+    flying the e190 as a flight instructor <br>
+    and to this day he’s still out there on the line <br>
+    <br>
+    i believe that every time i look back at this set of close-up shots of united’s e190 <br>
+    i’ll be reminded of that teenage passion—the fire i had back then <br>
+    <br>
     </b>
 </div>
 <img vspace="45">
@@ -120,6 +110,7 @@ draft: false
 </div>
 <img vspace="180">
 
+
 ---
 <!-- anavoy -->
 <img vspace="180">
@@ -140,6 +131,22 @@ draft: false
     boston logan international airport <br>
     bayswater st x annavoy st <br>
 </div>
+<img vspace="180">
+
+---
+<img vspace="180">
+<div align='center'><div style='width:100%;'>
+    <a href="#" data-featherlight="../../images/visuals/510.jpg">
+        ![](../../images/visuals/510.jpg)</a>
+</div></div>
+<img vspace="180">
+
+---
+<img vspace="180">
+<div align='center'><div style='width:100%;'>
+    <a href="#" data-featherlight="../../images/visuals/508.jpg">
+        ![](../../images/visuals/508.jpg)</a>
+</div></div>
 <img vspace="180">
 
 ---
@@ -197,6 +204,43 @@ draft: false
     QTR743/QR743, Airbus 350-900/A359, DOH/Doha-BOS/Boston <br>
     </b></a>
 </div>
+<img vspace="180">
+
+---
+<!-- anavoy -->
+<img vspace="180">
+<a href="#" data-featherlight="../../images/visuals/75.png">
+    ![](../../images/visuals/75_min.png)</a>
+<img vspace="22">
+<div style='font-size: 10px; font-family: didot, serif' align='center'>
+    <b>
+    麻省的温斯洛普镇坐落在洛根机场旁，和主跑道 <br> 
+    22R、22L、27和33L的接地区相隔一带浅湾，是我拍摄飞机的首要去处。<br> 
+    <br>
+    在数个拍摄点中，科塔公园游艇俱乐部是距离27和33L跑道接地区最近的 <br>
+    一个。每当海上刮西风时，我都会前往科塔俱乐部，拍摄来自遥远欧洲的 <br> 
+    国际航班，从一望无际的大西洋地平线远方逐渐显现，带着数百乘客，<br>
+    轻轻摇晃乘着风，直到在我面前接地。 <br>
+    </b>
+</div>
+<img vspace="22">
+<a href="#" data-featherlight="../../images/visuals/74.jpg">
+    ![](../../images/visuals/74_min.jpg)</a>
+<img vspace="22">
+<a href="#" data-featherlight="../../images/visuals/73.jpg">
+    ![](../../images/visuals/73_min.jpg)</a>
+<img vspace="22">
+<div style='font-size: 10px; font-family: didot, serif' align='center'>
+    <b>
+    在等待航班的空闲时间里，我也会随意拍摄周遭环境、游艇和野生动物。<br>
+    </b>
+</div>
+<img vspace="22">
+<a href="#" data-featherlight="../../images/visuals/71.jpg">
+    ![](../../images/visuals/71_min.jpg)</a>
+<img vspace="22">
+<a href="#" data-featherlight="../../images/visuals/72.jpg">
+    ![](../../images/visuals/72_min.jpg)</a>
 <img vspace="180">
 
 <img vspace="180">

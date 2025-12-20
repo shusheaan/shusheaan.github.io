@@ -43,6 +43,19 @@ draft: false
 <img vspace="180">
 
 ---
+<!-- long -->
+<img vspace="180">
+<div align='center'><div style='width:100%;'>
+    <a href="#" data-featherlight="../../images/roll/R24-1.jpg">
+        ![](../../images/roll/R24-1.jpg)</a>
+</div></div>
+<div align='center'><div style='width:100%;'>
+    <a href="#" data-featherlight="../../images/roll/R24-2.jpg">
+        ![](../../images/roll/R24-2.jpg)</a>
+</div></div>
+<img vspace="180">
+
+---
 <!-- bw -->
 <img vspace="180">
 <a href="#" data-featherlight="../../images/roll/R2P8.jpg">
