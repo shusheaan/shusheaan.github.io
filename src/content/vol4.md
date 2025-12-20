@@ -56,6 +56,16 @@ draft: false
 <img vspace="180">
 
 ---
+<!-- 1207 -->
+<img vspace="180">
+<div align='center'><div style='width:100%;'>
+    <a href="#" data-featherlight="../../images/roll/R2P2.jpg">
+        ![](../../images/roll/R2P2.jpg)</a>
+</div></div>
+<img vspace="180">
+
+
+---
 <!-- bw -->
 <img vspace="180">
 <a href="#" data-featherlight="../../images/roll/R2P8.jpg">
@@ -63,15 +73,6 @@ draft: false
 <a href="#" data-featherlight="../../images/roll/R2P10.jpg">
     ![](../../images/roll/R2P10.jpg)</a>
 <img vspace="45">
-<img vspace="180">
-
----
-<!-- 1207 -->
-<img vspace="180">
-<div align='center'><div style='width:100%;'>
-    <a href="#" data-featherlight="../../images/roll/R2P2.jpg">
-        ![](../../images/roll/R2P2.jpg)</a>
-</div></div>
 <img vspace="180">
 
 ---
