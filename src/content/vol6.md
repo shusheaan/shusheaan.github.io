@@ -27,7 +27,7 @@ draft: false
 - ★★★★★ : "GL (god-level)"
     - part of the treasures of human civilization with unparallelled peak artistic value.
     - surpassing other similar works in all respects, textbook level work that needs to be studied carefully.
-    - extremely pioneering and inspiring for works to come, successfully exploring new possibilities or reaching the absolute perfection.
+    - extremely pioneering and inspiring for works to come, successfully exploring new possibilities or reaching absolute perfection.
     - the dedication and effort behind the scenes were unimaginably tremendous, reflecting the best taste of humankind.
     - has undergone meticulous polishing and scrutiny and can easily stand the test of time - a truly eternal masterpiece.
 - ★★★★ : "G (good)"
@@ -49,7 +49,6 @@ draft: false
     - usually full of plagiarized and poorly crafted elements, pure shame.
     - a failure in every way. a healthy lifestyle shouldn't contain any of it.
 - ★ : "AJ (absolute joke)"
-    - i don't even want to get started.
     - seriously disgusting, offensive, and society-threatening shit.
     - nothing but a pathetic waste of the resources of human civilization.
     - might jeopardize existing works and have destructive impact on the industry and our earth.
@@ -296,7 +295,7 @@ core factors & priorities:
 | Ghost in the Shell 2: Innocent | *GL* |
 | Gone Girl | *G: decent* |
 | Happy Together | *GL* |
-| Howl's Moving Castle | *G: barely* |
+| Howl's Moving Castle | *GL* |
 | Im Westen Nichts Neues | *GL* |
 | In the Mood of Love | *G: barely* |
 | Inception | *G: barely* |
