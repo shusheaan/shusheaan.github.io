@@ -17,7 +17,6 @@ draft: false
 <img vspace="180">
 
 ---
-<!-- sophie -->
 <img vspace="180">
 <div align='center'><div style='width:70%;'>
     <a href="#" data-featherlight="../../images/roll/R11-2.jpg">
@@ -40,8 +39,8 @@ draft: false
 </div></div>
 <img vspace="180">
 
+
 ---
-<!-- sophie -->
 <img vspace="180">
 <div align='center'><div style='width:60%;'>
     <a href="#" data-featherlight="../../images/roll/R2P12.jpg">
@@ -286,7 +285,6 @@ draft: false
 
 
 ---
-<!-- sophie -->
 <img vspace="180">
 <div align='center'><div style='width:60%;'>
     <a href="#" data-featherlight="../../images/roll/R2P3.jpg">

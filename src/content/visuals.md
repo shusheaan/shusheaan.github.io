@@ -88,7 +88,6 @@ draft: false
 
 
 ---
-<!-- v12 -->
 <img vspace="180">
 <div align='center'><div style='width:50%;'>
     <a href="#" data-featherlight="../../images/visuals/505.jpg">
@@ -120,7 +119,6 @@ draft: false
 
 
 ---
-<!-- canoe -->
 <img vspace="180">
 <div align='right'><div style='width:50%;'>
     <a href="#" data-featherlight="../../images/roll/R18-2.jpg">
@@ -154,7 +152,6 @@ draft: false
 
 
 ---
-<!-- pond -->
 <img vspace="180">
 <div align='center'><div style='width:60%;'>
     <a href="#" data-featherlight="../../images/roll/R2P19.jpg">
@@ -164,7 +161,6 @@ draft: false
 
 
 ---
-<!-- lighthouse -->
 <img vspace="180">
 <div align='center'><div style='width:100%;'>
     <a href="#" data-featherlight="../../images/visuals/463.jpg">
@@ -175,7 +171,6 @@ draft: false
 
 
 ---
-<!-- church -->
 <img vspace="180">
 <div align='center'><div style='width:100%;'>
     <a href="#" data-featherlight="../../images/visuals/461min.jpg">
@@ -207,7 +202,6 @@ draft: false
 
 
 ---
-<!-- church -->
 <img vspace="180">
 <div align='center'><div style='width:100%;'>
     <a href="#" data-featherlight="../../images/flower.jpeg">
