@@ -16,6 +16,31 @@ draft: false
 
 <img vspace="180">
 
+---
+<!-- long -->
+<img vspace="180">
+<div align='center'><div style='width:80%;'>
+    <a href="#" data-featherlight="../../images/roll/R22-1.jpg">
+        ![](../../images/roll/R22-1.jpg)</a>
+</div></div>
+<div align='center'><div style='width:80%;'>
+    <a href="#" data-featherlight="../../images/roll/R22-2.jpg">
+        ![](../../images/roll/R22-2.jpg)</a>
+</div></div>
+<div align='center'><div style='width:80%;'>
+    <a href="#" data-featherlight="../../images/roll/R23-2.jpg">
+        ![](../../images/roll/R23-2.jpg)</a>
+</div></div>
+<img vspace="50">
+<div style='font-size: 11px' align='center'>
+    <b>
+    the pain i have now <br>
+    is the happiness i had before <br>
+    that's the deal <br>
+    <br>
+</div>
+<img vspace="180">
+
 
 ---
 <!-- rb -->
@@ -38,22 +63,6 @@ draft: false
 </div>
 <img vspace="180">
 
----
-<!-- long -->
-<img vspace="180">
-<div align='center'><div style='width:80%;'>
-    <a href="#" data-featherlight="../../images/roll/R22-1.jpg">
-        ![](../../images/roll/R22-1.jpg)</a>
-</div></div>
-<div align='center'><div style='width:80%;'>
-    <a href="#" data-featherlight="../../images/roll/R22-2.jpg">
-        ![](../../images/roll/R22-2.jpg)</a>
-</div></div>
-<div align='center'><div style='width:80%;'>
-    <a href="#" data-featherlight="../../images/roll/R23-2.jpg">
-        ![](../../images/roll/R23-2.jpg)</a>
-</div></div>
-<img vspace="180">
 
 
 ---
