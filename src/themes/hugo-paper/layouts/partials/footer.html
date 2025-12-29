@@ -1,0 +1,43 @@
+</main>
+<footer class="footer">
+  <span> &copy; {{ now.Year }} 
+    <a href="https://www.instagram.com/shusheaan/"> 
+    shu shean </a> @ 
+    <a href="https://cyaned.co/"> 
+    cyaned lab</a>. all rights reserved.
+    <!-- Photo Credit:  -->
+    <!-- <a href="https://www.instagram.com/markthc/">
+      @markthc
+    </a> -->
+  </span>
+</footer>
+<script src="{{.Site.BaseURL}}js/instantclick.min.js" data-no-instant></script>
+<script data-no-instant>InstantClick.init();</script>
+<script src="{{.Site.BaseURL}}js/highlight.min.js" data-no-instant></script>
+<script data-no-instant>
+  hljs.initHighlightingOnLoad();
+  setMenuListener();
+
+  InstantClick.on('change', function() {
+    document.querySelectorAll('pre code').forEach((block) => {
+      hljs.highlightBlock(block);
+    });
+    setMenuListener();
+  });
+
+  function setMenuListener() {
+    var menuToggle = document.querySelector('.menu-toggle');
+    var body = document.querySelector('body');
+    menuToggle.addEventListener('click', function() {
+      body.classList.toggle('no-scroll');
+    }, false);
+  }
+</script>
+
+<script src="{{.Site.BaseURL}}js/jquery.min.js"></script>
+<script src="{{.Site.BaseURL}}js/jquery.detect_swipe.js"></script>
+<script src="{{.Site.BaseURL}}js/featherlight.min.js" type="text/javascript" charset="utf-8"></script>
+<script src="{{.Site.BaseURL}}js/featherlight.gallery.min.js" type="text/javascript" charset="utf-8"></script>
+
+</body>
+</html>

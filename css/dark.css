@@ -1,0 +1,85 @@
+:root {
+    color-scheme: dark;
+}
+
+html,
+body,
+body.list,
+body.single,
+body.home {
+    background-color: #000;
+}
+
+body {
+    color: rgba(255, 255, 255, 0.9);
+}
+
+a {
+    color: rgba(255, 255, 255, 0.95);
+}
+
+a:hover,
+a:focus {
+    color: #9fc4ff;
+}
+
+.main,
+.header,
+.footer {
+    color: inherit;
+}
+
+.post-entry {
+    background: #050505;
+    border: 1px solid rgba(255, 255, 255, 0.05);
+    transition: box-shadow 0.6s, transform 0.3s, background 0.3s, border-color 0.3s;
+}
+
+.post-entry:hover {
+    background: #0d0d0d;
+    border-color: rgba(255, 255, 255, 0.15);
+    box-shadow: 0 30px 80px rgba(0, 0, 0, 0.75), 0 0 35px rgba(255, 255, 255, 0.08);
+    transform: translateY(-6px);
+}
+
+.entry-content,
+.post-content,
+.post-meta,
+.page-header .tagged,
+.post-footer,
+.footer {
+    color: rgba(255, 255, 255, 0.75);
+}
+
+.post-content code {
+    background: rgba(255, 255, 255, 0.08);
+    color: rgba(255, 255, 255, 0.95);
+}
+
+.post-content th,
+.post-content td {
+    border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+.post-content .highlight table td:first-child pre code,
+.post-content .highlight .ln {
+    color: rgba(255, 255, 255, 0.4);
+}
+
+.post-content blockquote {
+    border-left-color: rgba(255, 255, 255, 0.4);
+}
+
+.post-content hr::before {
+    color: rgba(255, 255, 255, 0.4);
+}
+
+.pagination a {
+    background: rgba(255, 255, 255, 0.08);
+    color: rgba(255, 255, 255, 0.9);
+}
+
+.post-tags a {
+    background: rgba(255, 255, 255, 0.08);
+    color: rgba(255, 255, 255, 0.85);
+}
