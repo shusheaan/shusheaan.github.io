@@ -17,6 +17,7 @@ draft: false
 <img vspace="180">
 
 
+
 ---
 <!-- xinyu blue -->
 <img vspace="180">
@@ -40,6 +41,14 @@ draft: false
     "may 1st" by beach fossils <br>
     <br><br><br>
 </div>
+<img vspace="180">
+
+---
+<img vspace="180">
+<div align='center'><div style='width:100%;'>
+    <a href="#" data-featherlight="../../images/visuals/463.jpg">
+        ![](../../images/visuals/463.jpg)</a>
+</div></div>
 <img vspace="180">
 
 ---
@@ -97,6 +106,25 @@ draft: false
     </b>
 </div>
 <img vspace="180">
+
+---
+<!-- long -->
+<img vspace="180">
+<div align='center'><div style='width:100%;'>
+    <a href="#" data-featherlight="../../images/roll/R22-1.jpg">
+        ![](../../images/roll/R22-1.jpg)</a>
+</div></div>
+<div align='center'><div style='width:100%;'>
+    <a href="#" data-featherlight="../../images/roll/R22-2.jpg">
+        ![](../../images/roll/R22-2.jpg)</a>
+</div></div>
+<div align='center'><div style='width:100%;'>
+    <a href="#" data-featherlight="../../images/roll/R23-2.jpg">
+        ![](../../images/roll/R23-2.jpg)</a>
+</div></div>
+<img vspace="50">
+<img vspace="180">
+
 
 ---
 <!-- calli -->

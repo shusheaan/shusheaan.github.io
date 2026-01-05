@@ -43,6 +43,36 @@ draft: false
 <img vspace="180">
 
 ---
+<img vspace="180">
+<div align='left'><div style='width:100%;'>
+    <a href="#" data-featherlight="../../images/roll/RR3-6.jpg">
+        ![](../../images/roll/RR3-6.jpg)</a>
+</div></div>
+<img vspace="180">
+
+
+---
+<img vspace="180">
+<div align='right'><div style='width:60%;'>
+    <a href="#" data-featherlight="../../images/roll/RR3-3.jpg">
+        ![](../../images/roll/RR3-3.jpg)</a>
+</div></div>
+<div align='left'><div style='width:40%;'>
+    <a href="#" data-featherlight="../../images/roll/RR3-2.jpg">
+        ![](../../images/roll/RR3-2.jpg)</a>
+</div></div>
+<img vspace="180">
+
+---
+<!-- alva -->
+<img vspace="180">
+<div align='center'><div style='width:70%;'>
+    <a href="#" data-featherlight="../../images/roll/R4.jpg">
+        ![](../../images/roll/R4.jpg)</a>
+</div></div>
+<img vspace="180">
+
+---
 <!-- long -->
 <img vspace="180">
 <div align='center'><div style='width:100%;'>
@@ -56,6 +86,28 @@ draft: false
 <img vspace="180">
 
 ---
+<img vspace="180">
+<div align='center'><div style='width:50%;'>
+    <a href="#" data-featherlight="../../images/visuals/505.jpg">
+        ![](../../images/visuals/505.jpg)</a>
+</div></div>
+<img vspace="180">
+
+
+---
+<img vspace="180">
+<div align='right'><div style='width:50%;'>
+    <a href="#" data-featherlight="../../images/roll/R18-2.jpg">
+        <img src="../../images/roll/R18-2.jpg" alt="" /></a>
+</div></div>
+<img vspace="60">
+<div align='left'><div style='width:80%;'>
+    <a href="#" data-featherlight="../../images/roll/R13-2.jpg">
+        <img src="../../images/roll/R13-2.jpg" alt="" /></a>
+</div></div>
+<img vspace="180"></p>
+
+---
 <!-- 1207 -->
 <img vspace="180">
 <div align='center'><div style='width:100%;'>
@@ -64,10 +116,22 @@ draft: false
 </div></div>
 <img vspace="180">
 
-
 ---
-<!-- bw -->
 <img vspace="180">
+<div align='right'><div style='width:100%;'>
+    <a href="#" data-featherlight="../../images/roll/R8-3.jpg">
+        <img src="../../images/roll/R8-3.jpg" alt="" /></a>
+</div></div>
+<img vspace="50">
+<div style='font-size: 11px' align='center'>
+    <b>
+    canoe beach, east point, nahant, massachusetts <br>
+    the deepest point into atlantic ocean from land <br>
+    12 07 2025 <br>
+    <i> </i> <br>
+    <br>
+</div>
+<img vspace="50">
 <a href="#" data-featherlight="../../images/roll/R2P8.jpg">
     ![](../../images/roll/R2P8.jpg)</a>
 <a href="#" data-featherlight="../../images/roll/R2P10.jpg">

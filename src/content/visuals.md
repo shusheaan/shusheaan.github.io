@@ -16,27 +16,19 @@ draft: false
 
 <img vspace="180">
 
+
 ---
-<!-- long -->
 <img vspace="180">
-<div align='center'><div style='width:80%;'>
-    <a href="#" data-featherlight="../../images/roll/R22-1.jpg">
-        ![](../../images/roll/R22-1.jpg)</a>
+<div align='center'><div style='width:60%;'>
+    <a href="#" data-featherlight="../../images/roll/RR3-11.jpg">
+        ![](../../images/roll/RR3-11.jpg)</a>
 </div></div>
-<div align='center'><div style='width:80%;'>
-    <a href="#" data-featherlight="../../images/roll/R22-2.jpg">
-        ![](../../images/roll/R22-2.jpg)</a>
-</div></div>
-<div align='center'><div style='width:80%;'>
-    <a href="#" data-featherlight="../../images/roll/R23-2.jpg">
-        ![](../../images/roll/R23-2.jpg)</a>
-</div></div>
-<img vspace="50">
+<img vspace="40">
 <div style='font-size: 11px' align='center'>
     <b>
-    the pain i have now <br>
-    is the happiness i had before <br>
-    that's the deal <br>
+    making out before the judge <br>
+    with my teenage wife <br>
+    <i> </i> <br>
     <br>
 </div>
 <img vspace="180">
@@ -66,27 +58,6 @@ draft: false
 
 
 ---
-<!-- aqua -->
-<img vspace="180">
-<div align='center'><div style='width:60%;'>
-    <a href="#" data-featherlight="../../images/visuals/506-2.jpg">
-        ![](../../images/visuals/506-2.jpg)</a>
-</div></div>
-<img vspace="50">
-<div style='font-size: 11px' align='center'>
-    <b>
-    如果沒有你 日子怎麼過 <br>
-    往日的舊夢 好像你的酒渦 <br>
-    酒渦裏有你也有我 <br>
-    <br>
-    酒醉的探戈 酒醉的探戈 <br>
-    告訴他不要忘記我 <br>
-    <br>
-</div>
-<img vspace="180">
-
-
----
 <!-- beach -->
 <img vspace="180">
 <div align='center'><div style='width:70%;'>
@@ -96,20 +67,13 @@ draft: false
 <img vspace="180">
 
 
----
-<img vspace="180">
-<div align='center'><div style='width:50%;'>
-    <a href="#" data-featherlight="../../images/visuals/505.jpg">
-        ![](../../images/visuals/505.jpg)</a>
-</div></div>
-<img vspace="180">
 
 
 
 ---
 <!-- sl -->
 <img vspace="180">
-<div align='center'><div style='width:50%;'>
+<div align='center'><div style='width:60%;'>
     <a href="#" data-featherlight="../../images/visuals/500-2.jpg">
         ![](../../images/visuals/500-2.jpg)</a>
 </div></div>
@@ -129,55 +93,30 @@ draft: false
 
 ---
 <img vspace="180">
-<div align='right'><div style='width:50%;'>
-    <a href="#" data-featherlight="../../images/roll/R18-2.jpg">
-        <img src="../../images/roll/R18-2.jpg" alt="" /></a>
+<div align='center'><div style='width:100%;'>
+    <a href="#" data-featherlight="../../images/nh.jpg">
+        ![](../../images/nh.jpg)</a>
 </div></div>
-<img vspace="60">
-<div align='left'><div style='width:80%;'>
-    <a href="#" data-featherlight="../../images/roll/R13-2.jpg">
-        <img src="../../images/roll/R13-2.jpg" alt="" /></a>
-</div></div>
-<img vspace="180"></p>
-
-
-
----
-<img vspace="180">
-<div align='right'><div style='width:100%;'>
-    <a href="#" data-featherlight="../../images/roll/R8-3.jpg">
-        <img src="../../images/roll/R8-3.jpg" alt="" /></a>
-</div></div>
-<img vspace="50">
-<div style='font-size: 11px' align='center'>
-    <b>
-    canoe beach, east point, nahant, massachusetts <br>
-    the deepest point into atlantic ocean from land <br>
-    12 07 2025 <br>
-    <i> </i> <br>
-    <br>
-</div>
-<img vspace="180"></p>
-
-
----
-<img vspace="180">
-<div align='center'><div style='width:60%;'>
-    <a href="#" data-featherlight="../../images/roll/R2P19.jpg">
-        ![](../../images/roll/R2P19.jpg)</a>
+<img vspace="30">
+<div align='center'><div style='width:33%;'>
+    <a href="#" data-featherlight="../../images/visuals/462.jpg">
+        ![](../../images/visuals/462.jpg)</a>
 </div></div>
 <img vspace="180">
 
 
 ---
+<!-- 911 -->
 <img vspace="180">
 <div align='center'><div style='width:100%;'>
-    <a href="#" data-featherlight="../../images/visuals/463.jpg">
-        ![](../../images/visuals/463.jpg)</a>
+    <a href="#" data-featherlight="../../images/visuals/458.jpg">
+        ![](../../images/visuals/458.jpg)</a>
+</div></div>
+<div align='center'><div style='width:100%;'>
+    <a href="#" data-featherlight="../../images/visuals/459.jpg">
+        ![](../../images/visuals/459.jpg)</a>
 </div></div>
 <img vspace="180">
-
-
 
 ---
 <img vspace="180">
@@ -209,104 +148,6 @@ draft: false
 </div>
 <img vspace="180">
 
-
----
-<img vspace="180">
-<div align='center'><div style='width:100%;'>
-    <a href="#" data-featherlight="../../images/flower.jpeg">
-        ![](../../images/flower.jpeg)</a>
-</div></div>
-<img vspace="90">
-<div style='font-size: 11px' align='center'>
-    <b>
-    <i> i will write you some words </i> <br>
-    <i> hoping you will remember me </i> <br>
-    <i> you don't have to be mine forever </i> <br>
-    <i> as long as you remember me </i> <br>
-    <i> thats enough </i> <br>
-    <br>
-    <i> a great person, his calm and deeply rational mind </i> <br>
-    <i> can effortlessly control those overwhelming emotions </i> <br>
-    <br>
-    <i> flowers bloom and then wither again </i> <br>
-    <i> stars shine so brightly but the light still fades one day </i> <br>
-    <i> everything is just a short encounter and </i> <br> 
-    <i> it all returns to the eternity of death </i> <br>
-    <br>
-    <i> dont forget you are never alone </i> <br>
-    <i> i hope you are happy </i> <br>
-    <i> i wish you peace </i> <br>
-    <i> and i miss you </i> <br>
-    <br>
-    <i> my only angel </i> <br>
-    <br>
-</div>
-<img vspace="180">
-
----
-<!-- alva -->
-<img vspace="180">
-<div align='center'><div style='width:70%;'>
-    <a href="#" data-featherlight="../../images/roll/R4.jpg">
-        ![](../../images/roll/R4.jpg)</a>
-</div></div>
-<img vspace="180">
-
-
----
-<!-- church -->
-<img vspace="180">
-<div align='center'><div style='width:100%;'>
-    <a href="#" data-featherlight="../../images/nh.jpg">
-        ![](../../images/nh.jpg)</a>
-</div></div>
-<img vspace="30">
-<div align='center'><div style='width:33%;'>
-    <a href="#" data-featherlight="../../images/visuals/462.jpg">
-        ![](../../images/visuals/462.jpg)</a>
-</div></div>
-<img vspace="180">
-
-
----
-<!-- anya -->
-<img vspace="180">
-<div align='center'><div style='width:100%;'>
-    <a href="#" data-featherlight="../../images/anya.jpg">
-        ![](../../images/anya.jpg)</a>
-</div></div>
-<img vspace="90">
-<div style='font-size: 11px' align='center'>
-    <b>
-    "anya" <i>(adaptive neuro-symbolic ai)</i> <br>
-    is designed for autonomous multi-step  <br>
-    theorem proving and verification in [bsm](https://en.wikipedia.org/wiki/Physics_beyond_the_Standard_Model) <br>
-    hosted on [github](https://github.com/shusheaan/anya) <br>
-    <br>
-</div>
-<img vspace="180">
-
----
-<!-- 911 -->
-<img vspace="180">
-<div align='center'><div style='width:100%;'>
-    <a href="#" data-featherlight="../../images/visuals/458.jpg">
-        ![](../../images/visuals/458.jpg)</a>
-</div></div>
-<div align='center'><div style='width:100%;'>
-    <a href="#" data-featherlight="../../images/visuals/459.jpg">
-        ![](../../images/visuals/459.jpg)</a>
-</div></div>
-<img vspace="180">
-
----
-<!-- m3 -->
-<img vspace="180">
-<div align='center'><div style='width:80%;'>
-    <a href="#" data-featherlight="../../images/visuals/457.jpg">
-        ![](../../images/visuals/457.jpg)</a>
-</div></div>
-<img vspace="180">
 
 ---
 <!-- toronto -->
@@ -454,6 +295,26 @@ draft: false
 <img vspace="180">
 
 ---
+<img vspace="180">
+<div align='center'><div style='width:100%;'>
+    <a href="#" data-featherlight="../../images/flower.jpeg">
+        ![](../../images/flower.jpeg)</a>
+</div></div>
+<img vspace="90">
+<div style='font-size: 11px' align='center'>
+    <b>
+    <i> a great person, his calm and deeply rational mind </i> <br>
+    <i> can effortlessly control those overwhelming emotions </i> <br>
+    <br>
+    <i> flowers bloom and then wither again </i> <br>
+    <i> stars shine so brightly but the light still fades one day </i> <br>
+    <i> everything is just a short encounter and </i> <br> 
+    <i> it all returns to the eternity of death </i> <br>
+    <br>
+</div>
+<img vspace="180">
+
+---
 <!-- harvard -->
 <img vspace="180">
 <div align='left'><div style='width:50%;'>
@@ -569,5 +430,25 @@ draft: false
     <a href="#" data-featherlight="../../images/visuals/261.jpg">
         ![](../../images/visuals/261_min.jpg)</a>
 </div></div>
+<img vspace="180">
+
+---
+<!-- aqua -->
+<img vspace="180">
+<div align='center'><div style='width:60%;'>
+    <a href="#" data-featherlight="../../images/visuals/506-2.jpg">
+        ![](../../images/visuals/506-2.jpg)</a>
+</div></div>
+<img vspace="50">
+<div style='font-size: 11px' align='center'>
+    <b>
+    如果沒有你 日子怎麼過 <br>
+    往日的舊夢 好像你的酒渦 <br>
+    酒渦裏有你也有我 <br>
+    <br>
+    酒醉的探戈 酒醉的探戈 <br>
+    告訴他不要忘記我 <br>
+    <br>
+</div>
 <img vspace="180">
 <img vspace="180">
